@@ -1,0 +1,707 @@
+id,NY1193310030
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,WS1
+info,hometeam,NY1
+info,date,1933/10/03
+info,site,NYC14
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,morac102
+info,ump1b,morig101
+info,ump2b,pfirc901
+info,ump3b,ormsr901
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1995/05/21 12:26PM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,66
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,127
+info,attendance,46672
+info,wp,hubbc101
+info,lp,stewl101
+info,save,
+info,gwrbi,
+start,myerb103,"Buddy Myer",0,1,4
+start,goslg101,"Goose Goslin",0,2,9
+start,manuh101,"Heinie Manush",0,3,7
+start,cronj101,"Joe Cronin",0,4,6
+start,schuf101,"Fred Schulte",0,5,8
+start,kuhej101,"Joe Kuhel",0,6,3
+start,blueo102,"Ossie Bluege",0,7,5
+start,sewel101,"Luke Sewell",0,8,2
+start,stewl101,"Lefty Stewart",0,9,1
+start,moorj103,"Jo-jo Moore",1,1,7
+start,crith101,"Hughie Critz",1,2,4
+start,terrb101,"Bill Terry",1,3,3
+start,ott-m101,"Mel Ott",1,4,9
+start,davik101,"Kiddo Davis",1,5,8
+start,jackt101,"Travis Jackson",1,6,5
+start,mancg101,"Gus Mancuso",1,7,2
+start,ryanb101,"Blondy Ryan",1,8,6
+start,hubbc101,"Carl Hubbell",1,9,1
+play,1,0,myerb103,22,FBFBFS,K
+play,1,0,goslg101,22,BFCBS,K
+play,1,0,manuh101,22,CSBBS,K
+play,1,1,moorj103,00,X,E4/G.B-1
+play,1,1,crith101,01,CX,9
+play,1,1,terrb101,02,FFX,2/FL
+play,1,1,ott-m101,01,CX,HR/9D.1-H(UR);B-H(UR)
+play,1,1,davik101,20,BBX,S8
+play,1,1,jackt101,02,SSX,8/F8D
+play,2,0,cronj101,12,CCBX,S7/L7S
+play,2,0,schuf101,12,BCSFX,16(1)/BG/FO
+play,2,0,kuhej101,32,PBSBCS,K+CS2(26)/DP
+play,2,1,mancg101,10,BX,8/L8
+play,2,1,ryanb101,01,CX,S4.B-2(E4/TH1)
+play,2,1,hubbc101,00,X,4/P
+play,2,1,moorj103,22,BFFBX,53
+play,3,0,blueo102,32,BBKSBFS,K
+play,3,0,sewel101,10,BX,53
+play,3,0,stewl101,22,BBCSS,K
+play,3,1,crith101,11,BCX,S9/9D
+play,3,1,terrb101,21,BBFX,S9.1-3
+play,3,1,ott-m101,32,BCBFBX,S9.3-H;1-3
+play,3,1,davik101,00,,NP
+sub,russj103,"Jack Russell",0,9,1
+play,3,1,davik101,02,.FSFS,K
+play,3,1,jackt101,00,X,341.3-H;1-2
+play,3,1,mancg101,00,X,8
+play,4,0,myerb103,11,BSX,S8
+play,4,0,goslg101,12,CBFFX,3/G.1-2
+play,4,0,manuh101,22,BSCBX,E4/G.2-3;B-1
+play,4,0,cronj101,01,FX,54(1)/FO.3-H(UR)
+play,4,0,schuf101,02,FSX,S1.1-2
+play,4,0,kuhej101,22,BBCSX,43
+play,4,1,ryanb101,02,CFS,K
+play,4,1,hubbc101,00,X,13/G1
+play,4,1,moorj103,02,CFFX,63
+play,5,0,blueo102,01,CX,63
+play,5,0,sewel101,01,FX,53
+play,5,0,russj103,22,BSMFBS,K
+play,5,1,crith101,20,BBX,43
+play,5,1,terrb101,00,X,13
+play,5,1,ott-m101,31,BCBBX,S8
+play,5,1,davik101,20,BBX,S8.1-2
+play,5,1,jackt101,01,SX,13
+play,6,0,myerb103,22,CFBBX,2/FL
+play,6,0,goslg101,32,SBBCBX,2/FL
+play,6,0,manuh101,21,BCBX,6/P
+play,6,1,mancg101,02,FFX,7
+play,6,1,ryanb101,20,BBX,3/P
+play,6,1,hubbc101,00,X,S7/G5
+play,6,1,moorj103,20,BBX,54(1)/FO
+play,7,0,cronj101,22,BBFCX,7/F7S
+play,7,0,schuf101,22,FBSFBFS,K
+play,7,0,kuhej101,00,X,43
+play,7,1,crith101,10,BX,63
+play,7,1,terrb101,00,X,8
+play,7,1,ott-m101,10,BX,S1
+play,7,1,davik101,10,BB,CS2(2E4)
+play,7,1,davik101,32,BB.BCSC,K/C
+play,8,0,blueo102,12,FBKC,K/C
+play,8,0,sewel101,32,BBCBCB,W
+play,8,0,russj103,00,,NP
+sub,harrd101,"Dave Harris",0,9,11
+play,8,0,harrd101,30,.BBBB,W.1-2
+play,8,0,myerb103,02,CCX,64(1)/FO.2-3
+play,8,0,goslg101,12,BCFFX,3/L
+play,8,1,jackt101,00,,NP
+sub,thomt103,"Tommy Thomas",0,9,1
+play,8,1,jackt101,02,.KSS,K
+play,8,1,mancg101,12,BFCX,7
+play,8,1,ryanb101,22,BFCFBFC,K/C
+play,9,0,manuh101,10,BX,E6.B-1
+play,9,0,cronj101,21,BCBX,S9.1-2
+play,9,0,schuf101,00,X,S5.2-3;1-2
+play,9,0,kuhej101,21,CBBX,63.3-H(UR);2-3;1-2
+play,9,0,blueo102,02,FCS,K
+play,9,0,sewel101,02,SCX,53
+data,er,stewl101,2
+data,er,russj103,0
+data,er,thomt103,0
+data,er,hubbc101,0
+id,NY1193310040
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,WS1
+info,hometeam,NY1
+info,date,1933/10/04
+info,site,NYC14
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,morig101
+info,ump1b,pfirc901
+info,ump2b,ormsr901
+info,ump3b,morac102
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1995/05/21 12:38PM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,63
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,129
+info,attendance,35461
+info,wp,schuh103
+info,lp,crowg102
+info,save,
+info,gwrbi,
+start,myerb103,"Buddy Myer",0,1,4
+start,goslg101,"Goose Goslin",0,2,9
+start,manuh101,"Heinie Manush",0,3,7
+start,cronj101,"Joe Cronin",0,4,6
+start,schuf101,"Fred Schulte",0,5,8
+start,kuhej101,"Joe Kuhel",0,6,3
+start,blueo102,"Ossie Bluege",0,7,5
+start,sewel101,"Luke Sewell",0,8,2
+start,crowg102,"General Crowder",0,9,1
+start,moorj103,"Jo-jo Moore",1,1,7
+start,crith101,"Hughie Critz",1,2,4
+start,terrb101,"Bill Terry",1,3,3
+start,ott-m101,"Mel Ott",1,4,9
+start,davik101,"Kiddo Davis",1,5,8
+start,jackt101,"Travis Jackson",1,6,5
+start,mancg101,"Gus Mancuso",1,7,2
+start,ryanb101,"Blondy Ryan",1,8,6
+start,schuh103,"Hal Schumacher",1,9,1
+play,1,0,myerb103,31,BKBBB,W
+play,1,0,goslg101,21,BBCX,63.1-2
+play,1,0,manuh101,10,BX,8
+play,1,0,cronj101,02,CSS,K
+play,1,1,moorj103,12,FFBFFS,K
+play,1,1,crith101,00,X,3/BG
+play,1,1,terrb101,10,BX,6/P56D
+play,2,0,schuf101,22,BBCFX,13/G1
+play,2,0,kuhej101,00,X,6/P56D
+play,2,0,blueo102,32,CSBBBFB,W
+play,2,0,sewel101,10,BX,7/F78
+play,2,1,ott-m101,31,BBFBB,W
+play,2,1,davik101,01,FX,S8.1-2
+play,2,1,jackt101,00,X,53/SH.2-3;1-2
+play,2,1,mancg101,10,BX,53
+play,2,1,ryanb101,00,X,3/G
+play,3,0,crowg102,22,BCBCX,53
+play,3,0,myerb103,00,X,63
+play,3,0,goslg101,21,BFBX,HR/9D
+play,3,0,manuh101,01,FX,7
+play,3,1,schuh103,12,FFBS,K
+play,3,1,moorj103,12,FBFFX,13
+play,3,1,crith101,32,BFFBBFFFB,W
+play,3,1,terrb101,11,FBX,8
+play,4,0,cronj101,21,BFBX,9/F9S
+play,4,0,schuf101,20,BBX,53
+play,4,0,kuhej101,32,BBBCCX,43
+play,4,1,ott-m101,10,BX,3/P
+play,4,1,davik101,11,CBX,3/FL/3F
+play,4,1,jackt101,10,BX,63
+play,5,0,blueo102,11,FBX,7
+play,5,0,sewel101,11,FBX,63
+play,5,0,crowg102,00,X,S8
+play,5,0,myerb103,20,BBX,46(1)/FO
+play,5,1,mancg101,01,CX,53
+play,5,1,ryanb101,11,BCX,S8
+play,5,1,schuh103,32,BCSFBBX,64(1)3/GDP
+play,6,0,goslg101,21,BBFX,S8
+play,6,0,manuh101,30,1BBBB,W.1-2
+play,6,0,cronj101,12,FBFFX,2/FL/2F
+play,6,0,schuf101,00,B,WP.2-3;1-2
+play,6,0,schuf101,20,B.BX,FC5.3XH(525);2-3;B-1
+play,6,0,kuhej101,30,BBBB,W.1-2
+play,6,0,blueo102,12,FBCS,K
+play,6,1,moorj103,00,X,S7
+play,6,1,crith101,01,LX,36(1)/FO/BG
+play,6,1,terrb101,00,X,D7/L7L.1-3
+play,6,1,ott-m101,30,IIII,IW
+play,6,1,davik101,00,,NP
+sub,odoul101,"Lefty O'Doul",1,5,11
+play,6,1,odoul101,22,.BFFFBFX,S8.3-H;2-H;1-2
+play,6,1,jackt101,12,FFBX,S8/89.2-H;1-3
+play,6,1,mancg101,11,BF>X,S5/BG.3-H;1-2
+play,6,1,ryanb101,02,FSFC,K/C
+play,6,1,schuh103,01,CX,S7/G5.2-H;1-2
+play,6,1,moorj103,00,X,S8.2-H;1-2
+play,6,1,crith101,00,,NP
+sub,thomt103,"Tommy Thomas",0,9,1
+play,6,1,crith101,00,.X,S6/G.2-3;1-2
+play,6,1,terrb101,10,BX,46(1)/FO
+play,7,0,sewel101,00,,NP
+sub,peelh101,"Homer Peel",1,5,8
+play,7,0,sewel101,22,.BBCCX,9/F9DW
+play,7,0,thomt103,00,,NP
+sub,rices101,"Sam Rice",0,9,11
+play,7,0,rices101,01,.CX,S8
+play,7,0,myerb103,00,X,9
+play,7,0,goslg101,21,BBCX,9/F9D
+play,7,1,ott-m101,00,,NP
+sub,mccoa103,"Alex McColl",0,9,1
+play,7,1,ott-m101,10,.BX,63
+play,7,1,peelh101,01,CX,43
+play,7,1,jackt101,00,X,63/G6D
+play,8,0,manuh101,21,BFBX,S9/G3
+play,8,0,cronj101,00,X,54(1)3/GDP
+play,8,0,schuf101,11,BFX,2/FL
+play,8,1,mancg101,00,X,7/L7L
+play,8,1,ryanb101,01,FX,13/BG1
+play,8,1,schuh103,11,BSX,3/G
+play,9,0,kuhej101,11,BFX,7/F78
+play,9,0,blueo102,00,,NP
+sub,harrd101,"Dave Harris",0,7,11
+play,9,0,harrd101,21,.BSBX,53
+play,9,0,sewel101,00,,NP
+sub,boltc101,"Cliff Bolton",0,8,11
+play,9,0,boltc101,21,.BCBX,13/G1
+data,er,crowg102,6
+data,er,thomt103,0
+data,er,mccoa103,0
+data,er,schuh103,1
+id,WS1193310050
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,NY1
+info,hometeam,WS1
+info,date,1933/10/05
+info,site,WAS09
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,pfirc901
+info,ump1b,ormsr901
+info,ump2b,morac102
+info,ump3b,morig101
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1995/05/21 12:48PM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,65
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,115
+info,attendance,25727
+info,wp,white102
+info,lp,fitzf101
+info,save,
+info,gwrbi,
+start,moorj103,"Jo-jo Moore",0,1,7
+start,crith101,"Hughie Critz",0,2,4
+start,terrb101,"Bill Terry",0,3,3
+start,ott-m101,"Mel Ott",0,4,9
+start,davik101,"Kiddo Davis",0,5,8
+start,jackt101,"Travis Jackson",0,6,5
+start,mancg101,"Gus Mancuso",0,7,2
+start,ryanb101,"Blondy Ryan",0,8,6
+start,fitzf101,"Freddie Fitzsimmons",0,9,1
+start,myerb103,"Buddy Myer",1,1,4
+start,goslg101,"Goose Goslin",1,2,9
+start,manuh101,"Heinie Manush",1,3,7
+start,cronj101,"Joe Cronin",1,4,6
+start,schuf101,"Fred Schulte",1,5,8
+start,kuhej101,"Joe Kuhel",1,6,3
+start,blueo102,"Ossie Bluege",1,7,5
+start,sewel101,"Luke Sewell",1,8,2
+start,white102,"Earl Whitehill",1,9,1
+play,1,0,moorj103,22,CBFBX,9/F9LS
+play,1,0,crith101,32,CBBFBX,53
+play,1,0,terrb101,00,X,43
+play,1,1,myerb103,22,BCBCX,S7
+play,1,1,goslg101,00,X,D9/L9DW.1-3
+play,1,1,manuh101,10,BX,6/P56D
+play,1,1,cronj101,01,CX,13/G1.3-H;2-3
+play,1,1,schuf101,32,SBBCBX,D9.3-H
+play,1,1,kuhej101,02,FCX,FC5.2X3(54)
+play,2,0,ott-m101,00,X,7/F7L
+play,2,0,davik101,20,BBX,S7
+play,2,0,jackt101,00,B,WP.1-2
+play,2,0,jackt101,31,B.SBBB,W
+play,2,0,mancg101,31,CBBBX,64(1)3/GDP
+play,2,1,blueo102,20,BBX,D7/7L
+play,2,1,sewel101,00,X,43.2-3
+play,2,1,white102,22,B>FBSFX,FC1.B-1
+play,2,1,myerb103,11,FBX,D9/9L.3-H;1-3
+play,2,1,goslg101,11,CPX,7(B)2(3)/F7/DP
+play,3,0,ryanb101,11,CBX,4/L4D
+play,3,0,fitzf101,10,BX,S6
+play,3,0,moorj103,00,X,64(1)/FO
+play,3,0,crith101,10,BX,S8/G4M.1-3
+play,3,0,terrb101,02,F1CX,3/G
+play,3,1,manuh101,10,BX,63
+play,3,1,cronj101,12,CBFX,43
+play,3,1,schuf101,10,BX,S9
+play,3,1,kuhej101,00,X,54(1)/FO
+play,4,0,ott-m101,02,CFS,K
+play,4,0,davik101,21,CBBX,43
+play,4,0,jackt101,21,BSBX,D7/L7D
+play,4,0,mancg101,01,FX,8
+play,4,1,blueo102,21,BCBX,63
+play,4,1,sewel101,00,X,8/F8D
+play,4,1,white102,22,SBBCX,2/FL
+play,5,0,ryanb101,00,X,13/G1
+play,5,0,fitzf101,01,CX,53
+play,5,0,moorj103,00,X,13/BG1
+play,5,1,myerb103,32,FBBFBC,K/C
+play,5,1,goslg101,10,BX,8/F89
+play,5,1,manuh101,00,X,9
+play,6,0,crith101,11,BCX,53
+play,6,0,terrb101,00,X,3/G
+play,6,0,ott-m101,02,CFS,K
+play,6,1,cronj101,10,BX,S7
+play,6,1,schuf101,22,1P+1PC1SX,3/FL
+play,6,1,kuhej101,00,X,46(1)/FO
+play,6,1,blueo102,01,SP,CS2(26)
+play,7,0,davik101,01,FX,13/G1
+play,7,0,jackt101,02,FLX,7/F7D
+play,7,0,mancg101,00,X,53
+play,7,1,blueo102,22,FBCFBFX,3/P9S
+play,7,1,sewel101,20,BBX,S4
+play,7,1,white102,11,MB1M,SB2
+play,7,1,white102,22,MB1M.BX,43.2-3
+play,7,1,myerb103,20,BPX,S9.3-H
+play,7,1,goslg101,32,BBFBFS,K
+play,8,0,ryanb101,22,CSBFBX,9
+play,8,0,fitzf101,00,,NP
+sub,peelh101,"Homer Peel",0,9,11
+play,8,0,peelh101,11,.BCX,S7/78
+play,8,0,moorj103,22,CFFBBX,E6/G.1-2;B-1
+play,8,0,crith101,20,BBX,13.2-3;1-2
+play,8,0,terrb101,21,BSBX,2/P2
+play,8,1,manuh101,00,,NP
+sub,bellh101,"Hi Bell",0,9,1
+play,8,1,manuh101,11,.FBX,7/F7S
+play,8,1,cronj101,31,BSBBX,63
+play,8,1,schuf101,02,FCX,8/F8D
+play,9,0,ott-m101,31,BBBCB,W
+play,9,0,davik101,22,BBCCX,53.1-2
+play,9,0,jackt101,11,BCX,53.2-3
+play,9,0,mancg101,02,CSFX,7
+data,er,fitzf101,4
+data,er,bellh101,0
+data,er,white102,0
+id,WS1193310060
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,NY1
+info,hometeam,WS1
+info,date,1933/10/06
+info,site,WAS09
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,ormsr901
+info,ump1b,morac102
+info,ump2b,morig101
+info,ump3b,pfirc901
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1995/05/21 1:06PM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,70
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,179
+info,attendance,26762
+info,wp,hubbc101
+info,lp,weavm101
+info,save,
+info,gwrbi,
+start,moorj103,"Jo-jo Moore",0,1,7
+start,crith101,"Hughie Critz",0,2,4
+start,terrb101,"Bill Terry",0,3,3
+start,ott-m101,"Mel Ott",0,4,9
+start,davik101,"Kiddo Davis",0,5,8
+start,jackt101,"Travis Jackson",0,6,5
+start,mancg101,"Gus Mancuso",0,7,2
+start,ryanb101,"Blondy Ryan",0,8,6
+start,hubbc101,"Carl Hubbell",0,9,1
+start,myerb103,"Buddy Myer",1,1,4
+start,goslg101,"Goose Goslin",1,2,9
+start,manuh101,"Heinie Manush",1,3,7
+start,cronj101,"Joe Cronin",1,4,6
+start,schuf101,"Fred Schulte",1,5,8
+start,kuhej101,"Joe Kuhel",1,6,3
+start,blueo102,"Ossie Bluege",1,7,5
+start,sewel101,"Luke Sewell",1,8,2
+start,weavm101,"Monte Weaver",1,9,1
+play,1,0,moorj103,31,BBBCB,W
+play,1,0,crith101,11,CBX,4(B)3(1)/LDP
+play,1,0,terrb101,12,MBCX,S8/G46
+play,1,0,ott-m101,20,BBX,5/P
+play,1,1,myerb103,01,FX,7/F78
+play,1,1,goslg101,20,BBX,9
+play,1,1,manuh101,22,CBFBX,43
+play,2,0,davik101,00,X,43
+play,2,0,jackt101,22,BFBCS,K
+play,2,0,mancg101,21,CBBX,9/F9D
+play,2,1,cronj101,21,BBFX,3/P
+play,2,1,schuf101,11,BCX,9
+play,2,1,kuhej101,01,CX,8
+play,3,0,ryanb101,32,BBBCCX,7
+play,3,0,hubbc101,02,CFX,53
+play,3,0,moorj103,02,CFX,63
+play,3,1,blueo102,12,CSBX,7/F7D
+play,3,1,sewel101,32,BCBFBX,4/P8S
+play,3,1,weavm101,12,BFFX,43
+play,4,0,crith101,02,CMX,63
+play,4,0,terrb101,10,BX,HR/8D
+play,4,0,ott-m101,30,BBBB,W
+play,4,0,davik101,10,BX,S5/G5S.1-2
+play,4,0,jackt101,32,BBFFBX,5/FL/5F
+play,4,0,mancg101,30,BBBB,W.2-3;1-2
+play,4,0,ryanb101,12,BCCS,K
+play,4,1,myerb103,00,X,13/BG
+play,4,1,goslg101,20,BBX,S9/L3
+play,4,1,manuh101,30,BBBB,W.1-2
+play,4,1,cronj101,11,CBX,9.2-3
+play,4,1,schuf101,12,CBSX,64(1)/FO
+play,5,0,hubbc101,01,FX,6/L
+play,5,0,moorj103,12,FCBX,S7
+play,5,0,crith101,11,BCX,4/P34D
+play,5,0,terrb101,21,BS1BX,8/F8D
+play,5,1,kuhej101,02,FCS,K
+play,5,1,blueo102,00,X,7
+play,5,1,sewel101,22,BFBFX,S9/L89
+play,5,1,weavm101,22,BBCFFS,K
+play,6,0,ott-m101,01,FX,S9/89
+play,6,0,davik101,10,BX,34/SH.1-2
+play,6,0,jackt101,21,BCBX,4/P34D
+play,6,0,mancg101,30,IIII,IW
+play,6,0,ryanb101,22,BCBSX,13/G1
+play,6,1,myerb103,22,BBCSX,S6/G6M
+play,6,1,goslg101,00,X,53/SH/BG5S.1-2
+play,6,1,manuh101,20,BBX,41/G34.2-3
+com,"ej,manuh101,P,morac102,Call at 1B (Bumped umpire)"
+com,"Heinie Manush ejected by 1B umpire Charlie Moran"
+play,6,1,cronj101,22,FCBBS,K
+play,7,0,hubbc101,00,,NP
+sub,goslg101,"Goose Goslin",1,2,7
+play,7,0,hubbc101,00,.,NP
+sub,harrd101,"Dave Harris",1,3,9
+play,7,0,hubbc101,01,..CX,63
+play,7,0,moorj103,11,BFX,D7/78
+play,7,0,crith101,12,SBCX,63.2-3
+play,7,0,terrb101,00,X,13/G1
+play,7,1,schuf101,01,SX,3/P
+play,7,1,kuhej101,01,SX,E1/BG.B-1
+play,7,1,blueo102,11,BSX,14/SH.1-2
+play,7,1,sewel101,00,X,S8.2-H(UR)
+play,7,1,weavm101,00,X,4/P34D
+play,8,0,ott-m101,11,BSX,S6
+play,8,0,davik101,22,BCFBS,K
+play,8,0,jackt101,32,BBBCFFX,43.1-2
+play,8,0,mancg101,32,BSCBBX,13/G1
+play,8,1,myerb103,32,BFCBBB,W
+play,8,1,goslg101,00,X,16(1)/FO/BG
+play,8,1,harrd101,21,BSB+1X,64(1)/FO
+play,8,1,cronj101,22,BBSCX,S9/F9S.1-3
+play,8,1,schuf101,00,X,4/P
+play,9,0,ryanb101,00,X,S9
+play,9,0,hubbc101,00,X,24/SH.1-2
+play,9,0,moorj103,00,X,13/G1.2-3
+play,9,0,crith101,11,BFX,9
+play,9,1,kuhej101,22,BCFBS,K
+play,9,1,blueo102,21,BBSX,9
+play,9,1,sewel101,22,FCBBX,63
+play,10,0,terrb101,02,CCFX,13/G1
+play,10,0,ott-m101,10,BX,9
+play,10,0,davik101,20,BBX,43
+play,10,1,weavm101,02,CCFX,K
+play,10,1,myerb103,00,X,S7
+play,10,1,goslg101,10,BX,43.1-2
+play,10,1,harrd101,30,BBBB,W
+play,10,1,cronj101,12,SBSX,64(1)/FO
+play,11,0,jackt101,21,BBCX,S5/BG5S
+play,11,0,mancg101,01,LX,14/SH.1-2
+play,11,0,ryanb101,10,BX,S7.2-H
+play,11,0,hubbc101,32,CFBBFBX,S7.1-2
+play,11,0,moorj103,00,,NP
+sub,russj103,"Jack Russell",1,9,1
+play,11,0,moorj103,02,.FFS,K
+play,11,0,crith101,00,X,8
+play,11,1,schuf101,01,SX,S7/L
+play,11,1,kuhej101,00,X,S3/BG3S.1-2
+play,11,1,blueo102,21,FBBX,54/SH.2-3;1-2
+play,11,1,sewel101,30,IIII,IW
+play,11,1,russj103,00,,NP
+sub,boltc101,"Cliff Bolton",1,9,11
+play,11,1,boltc101,21,.BSBX,64(1)3/GDP
+data,er,hubbc101,0
+data,er,weavm101,2
+data,er,russj103,0
+id,WS1193310070
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,NY1
+info,hometeam,WS1
+info,date,1933/10/07
+info,site,WAS09
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,morac102
+info,ump1b,morig101
+info,ump2b,pfirc901
+info,ump3b,ormsr901
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1995/05/21 1:18PM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,72
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,158
+info,attendance,28454
+info,wp,luqud101
+info,lp,russj103
+info,save,
+info,gwrbi,
+start,moorj103,"Jo-jo Moore",0,1,7
+start,crith101,"Hughie Critz",0,2,4
+start,terrb101,"Bill Terry",0,3,3
+start,ott-m101,"Mel Ott",0,4,9
+start,davik101,"Kiddo Davis",0,5,8
+start,jackt101,"Travis Jackson",0,6,5
+start,mancg101,"Gus Mancuso",0,7,2
+start,ryanb101,"Blondy Ryan",0,8,6
+start,schuh103,"Hal Schumacher",0,9,1
+start,myerb103,"Buddy Myer",1,1,4
+start,goslg101,"Goose Goslin",1,2,9
+start,manuh101,"Heinie Manush",1,3,7
+start,cronj101,"Joe Cronin",1,4,6
+start,schuf101,"Fred Schulte",1,5,8
+start,kuhej101,"Joe Kuhel",1,6,3
+start,blueo102,"Ossie Bluege",1,7,5
+start,sewel101,"Luke Sewell",1,8,2
+start,crowg102,"General Crowder",1,9,1
+play,1,0,moorj103,00,X,S7
+play,1,0,crith101,01,CX,9
+play,1,0,terrb101,00,X,S8/G1.1-3
+play,1,0,ott-m101,22,BFSFBFS,K
+play,1,0,davik101,00,X,64(1)/FO
+play,1,1,myerb103,22,BBCCX,7/F7D
+play,1,1,goslg101,00,X,S8/78
+play,1,1,manuh101,31,BBBCX,5(B)3(1)/LDP
+play,2,0,jackt101,00,X,S7
+play,2,0,mancg101,32,BSSBFBFFB,W.1-2
+play,2,0,ryanb101,10,BX,14/SH.2-3;1-2
+play,2,0,schuh103,02,FSX,S8.3-H;2-H
+play,2,0,moorj103,00,X,9
+play,2,0,crith101,11,FBX,9
+play,2,1,cronj101,00,X,9/F89S
+play,2,1,schuf101,21,CBBX,43
+play,2,1,kuhej101,01,CX,7/F7D
+play,3,0,terrb101,02,CCX,S9/L9S
+play,3,0,ott-m101,02,CSS,K
+play,3,0,davik101,11,BCX,6/P56D
+play,3,0,jackt101,12,BFFS,K
+play,3,1,blueo102,00,X,63
+play,3,1,sewel101,11,CBX,63
+play,3,1,crowg102,11,FBX,63
+play,4,0,mancg101,32,BBCSBX,3/FL
+play,4,0,ryanb101,31,BCBBB,W
+play,4,0,schuh103,02,SCFB,WP.1-2
+play,4,0,schuh103,12,SCFB.FFS,K
+play,4,0,moorj103,00,X,13/G1
+play,4,1,myerb103,22,CSBBX,23
+play,4,1,goslg101,32,BFBFBB,W
+play,4,1,manuh101,01,CX,54(1)/FO
+play,4,1,cronj101,10,BX,2/FL
+play,5,0,crith101,00,X,9
+play,5,0,terrb101,22,CBBFX,5/L
+play,5,0,ott-m101,10,BX,7
+play,5,1,schuf101,12,SBSX,S5/G
+play,5,1,kuhej101,10,BX,S7.1-2
+play,5,1,blueo102,12,CBCL,K/BF
+play,5,1,sewel101,00,X,7/L7D
+play,5,1,crowg102,00,B,WP.2-3
+play,5,1,crowg102,21,B.BCX,63
+play,6,0,davik101,11,BFX,D7/7L
+play,6,0,jackt101,01,LX,53/SH.2-3
+play,6,0,mancg101,01,FX,D8/78D.3-H
+play,6,0,ryanb101,00,,NP
+sub,russj103,"Jack Russell",1,9,1
+play,6,0,ryanb101,02,.CSS,K
+play,6,0,schuh103,12,CSBS,K
+play,6,1,myerb103,11,SBX,5/P
+play,6,1,goslg101,21,BBCX,43
+play,6,1,manuh101,22,FFBBFX,S9
+play,6,1,cronj101,00,X,S7/F78S.1-3
+play,6,1,schuf101,00,X,HR/7D.3-H;1-H
+play,6,1,kuhej101,00,X,S4
+play,6,1,blueo102,11,CBX,S5.1-3(E5/TH1)
+play,6,1,sewel101,00,,NP
+sub,luqud101,"Dolf Luque",0,9,1
+play,6,1,sewel101,12,.CBFX,43
+play,7,0,moorj103,11,SBX,13/G1
+play,7,0,crith101,01,CX,63
+play,7,0,terrb101,12,CBFX,8
+play,7,1,russj103,02,FFS,K
+play,7,1,myerb103,32,CBSBFFBFC,K/C
+play,7,1,goslg101,22,SBSBS,K
+play,8,0,ott-m101,31,BBCBX,7/F7D
+play,8,0,davik101,12,BCFX,S8/F78
+play,8,0,jackt101,02,FSFX,6(1)3/GDP
+play,8,1,manuh101,01,CX,53
+play,8,1,cronj101,32,CSBBBX,S7/L78
+play,8,1,schuf101,11,CBX,8/F78D
+play,8,1,kuhej101,32,CBBFBFX,53
+play,9,0,mancg101,00,X,4/P
+play,9,0,ryanb101,12,SBCFX,S9.BX2(96)
+play,9,0,luqud101,01,CX,S8/F89
+play,9,0,moorj103,02,FSFS,K
+play,9,1,blueo102,12,CFBC,K/C
+play,9,1,sewel101,02,SFX,63
+play,9,1,russj103,32,BBCBCB,W
+play,9,1,myerb103,12,BFFX,43
+play,10,0,crith101,00,X,7
+play,10,0,terrb101,11,BCX,43
+play,10,0,ott-m101,22,BBCFX,HR/8D
+play,10,0,davik101,20,BBX,13/G1
+play,10,1,goslg101,01,CX,31
+play,10,1,manuh101,00,X,4/L
+play,10,1,cronj101,12,CBSFX,S7
+play,10,1,schuf101,30,BBBB,W.1-2
+play,10,1,kuhej101,00,,NP
+sub,kerrj102,"John Kerr",1,5,12
+play,10,1,kuhej101,02,.CSS,K
+data,er,schuh103,3
+data,er,luqud101,0
+data,er,crowg102,3
+data,er,russj103,1

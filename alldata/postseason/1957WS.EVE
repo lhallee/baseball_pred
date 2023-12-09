@@ -1,0 +1,1083 @@
+id,NYA195710020
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,MLN
+info,hometeam,NYA
+info,date,1957/10/02
+info,site,NYC16
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,papaj901
+info,ump1b,conlj102
+info,ump2b,mckib901
+info,ump3b,donaa901
+info,umplf,secof101
+info,umprf,chyln901
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth/Singer"
+info,inputter,"John Booth/Smith"
+info,inputtime,1994/05/12 2:44AM
+info,howscored,unknown
+info,pitches,none
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,130
+info,attendance,69476
+info,wp,fordw101
+info,lp,spahw101
+info,save,
+info,gwrbi,
+start,schor101,"Red Schoendienst",0,1,4
+start,logaj101,"Johnny Logan",0,2,6
+start,mathe101,"Eddie Mathews",0,3,5
+start,aaroh101,"Hank Aaron",0,4,8
+start,adcoj101,"Joe Adcock",0,5,3
+start,pafka101,"Andy Pafko",0,6,9
+start,coviw101,"Wes Covington",0,7,7
+start,crand102,"Del Crandall",0,8,2
+start,spahw101,"Warren Spahn",0,9,1
+start,baueh101,"Hank Bauer",1,1,9
+start,mcdog101,"Gil McDougald",1,2,6
+start,mantm101,"Mickey Mantle",1,3,8
+start,skowb101,"Bill Skowron",1,4,3
+start,berry101,"Yogi Berra",1,5,2
+start,carea101,"Andy Carey",1,6,5
+start,colej106,"Jerry Coleman",1,7,4
+start,kubet101,"Tony Kubek",1,8,7
+start,fordw101,"Whitey Ford",1,9,1
+play,1,0,schor101,01,CX,53/G5
+play,1,0,logaj101,12,CBFX,4/P4D
+play,1,0,mathe101,32,BCCFBBX,5/P5
+play,1,1,baueh101,12,BCFX,9/F9
+play,1,1,mcdog101,00,X,S9/L9
+play,1,1,mantm101,21,CBBX,S6/G56.1-2
+play,1,1,skowb101,00,X,46(1)/FO/G4.2-3
+play,1,1,berry101,22,BBCFX,4/P4MD
+play,2,0,aaroh101,12,FBFX,43/G4
+play,2,0,adcoj101,10,BX,9/F9LD
+play,2,0,pafka101,31,BBBCX,7/F7D
+play,2,1,carea101,32,BCFBBX,8/F8D
+play,2,1,colej106,12,BFFFX,D9/L9LS
+play,2,1,kubet101,01,CX,7/F7D
+play,2,1,fordw101,21,BBCX,7/F7S
+play,3,0,coviw101,00,,NP
+sub,howae101,"Elston Howard",1,4,3
+com,"$Skowron left with a back injury suffered in the first"
+play,3,0,coviw101,22,BBCSC,K/C
+play,3,0,crand102,00,X,S8/L8
+play,3,0,spahw101,00,X,46(1)/FO/G34
+play,3,0,schor101,12,BSFFX,8/L78
+play,3,1,baueh101,31,BSBBX,63/G6
+play,3,1,mcdog101,00,X,7/F7LD
+play,3,1,mantm101,22,FCBFBX,7/F7
+play,4,0,logaj101,20,BBX,63/G6
+play,4,0,mathe101,31,BBSBB,W
+play,4,0,aaroh101,10,11BX,S9/L.1-3
+play,4,0,adcoj101,01,,64(1)3/GDP/G6
+play,4,1,howae101,02,CFX,3/G3
+play,4,1,berry101,11,BFX,9/F9
+play,4,1,carea101,10,BX,9/F9
+play,5,0,pafka101,02,SSFX,63
+play,5,0,coviw101,22,BBCSFFX,S8/L8
+play,5,0,crand102,10,BX,64(1)/FO/G6.BX1(4E3)
+play,5,0,spahw101,30,BBBB,W.1-2
+play,5,0,schor101,01,SX,5(2)/FO/G5
+play,5,1,colej106,01,CX,S7/G56
+play,5,1,kubet101,00,X,13/G34S.1-2
+play,5,1,fordw101,21,CBBX,63/G6M.2-3
+play,5,1,baueh101,00,X,D8/L89XD.3-H
+play,5,1,mcdog101,20,BBX,63/G6
+play,6,0,logaj101,32,CBBFBB,W
+play,6,0,mathe101,32,CBFBBB,W.1-2
+play,6,0,aaroh101,02,FCS,K
+play,6,0,adcoj101,00,X,31/G34.2-3;1-2
+play,6,0,pafka101,32,BCBFFFBS,K
+play,6,1,mantm101,00,X,8/F8D
+play,6,1,howae101,02,CFFX,S8/G4M
+play,6,1,berry101,31,BBF1BB,W.1-2
+play,6,1,carea101,01,CX,S8/L8.2-H;1-3
+play,6,1,colej106,00,,NP
+sub,johne101,"Ernie Johnson",0,9,1
+play,6,1,colej106,01,SX,13/SH/BG1S.3-H;1-2
+play,6,1,kubet101,12,CBSS,K
+play,7,0,coviw101,00,,NP
+sub,collj101,"Joe Collins",1,4,3
+play,7,0,coviw101,02,LSX,D7/L7lD
+play,7,0,crand102,00,X,63/G56
+play,7,0,johne101,00,,NP
+sub,jonen101,"Nippy Jones",0,9,11
+play,7,0,jonen101,11,BFX,13/G15.2-3
+play,7,0,schor101,32,BBBCCX,S8/G6M.3-H
+play,7,0,logaj101,22FFBBS,,K
+play,7,1,fordw101,00,,NP
+sub,mcmad102,"Don McMahon",0,9,1
+play,7,1,fordw101,10,BX,43/G4
+play,7,1,baueh101,12,BCCS,K
+play,7,1,mcdog101,22,BBCFS,K
+play,8,0,mathe101,01,CX,53/BG5S
+play,8,0,aaroh101,00,X,6/P56
+play,8,0,adcoj101,32,BBFCBX,63/G6M
+play,8,1,mantm101,NP,,NP
+sub,torrf102,"Frank Torre",0,5,3
+play,8,1,mantm101,12,SFBX,S4/BG4
+play,8,1,collj101,02,FS11>S,K+CS2(26)/DP
+play,8,1,berry101,21,BCBX,S9/G3L
+play,8,1,carea101,31,BBBXB,W.1-2
+play,8,1,colej106,20,BBX,53/G56
+play,9,0,pafka101,11,BFX,3/P3
+play,9,0,coviw101,22,FBBFS,K
+play,9,0,crand102,11,BXX,8/F8
+data,er,spahw101,3
+data,er,johne101,0
+data,er,mcmad102,0
+data,er,fordw101,1
+id,NYA195710030
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,MLN
+info,hometeam,NYA
+info,date,1957/10/03
+info,site,NYC16
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,conlj102
+info,ump1b,mckib901
+info,ump2b,donaa901
+info,ump3b,papaj901
+info,umplf,secof101
+info,umprf,chyln901
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth/Singer"
+info,inputter,"John Booth/Smith"
+info,inputtime,1994/05/12 3:03AM
+info,howscored,unknown
+info,pitches,none
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,146
+info,attendance,65202
+info,wp,burdl101
+info,lp,shanb102
+info,save,
+info,gwrbi,
+start,schor101,"Red Schoendienst",0,1,4
+start,logaj101,"Johnny Logan",0,2,6
+start,mathe101,"Eddie Mathews",0,3,5
+start,aaroh101,"Hank Aaron",0,4,8
+start,adcoj101,"Joe Adcock",0,5,3
+start,pafka101,"Andy Pafko",0,6,9
+start,coviw101,"Wes Covington",0,7,7
+start,crand102,"Del Crandall",0,8,2
+start,burdl101,"Lew Burdette",0,9,1
+start,baueh101,"Hank Bauer",1,1,9
+start,mcdog101,"Gil McDougald",1,2,6
+start,mantm101,"Mickey Mantle",1,3,8
+start,berry101,"Yogi Berra",1,4,2
+start,slaue101,"Enos Slaughter",1,5,7
+start,simph101,"Harry Simpson",1,6,3
+start,kubet101,"Tony Kubek",1,7,5
+start,colej106,"Jerry Coleman",1,8,4
+start,shanb102,"Bobby Shantz",1,9,1
+play,1,0,schor101,12,CCBC,K/C
+play,1,0,logaj101,32,BBCBCC,K/C
+play,1,0,mathe101,12,BCSS,K
+play,1,1,baueh101,02,CFC,K/C
+play,1,1,mcdog101,00,X,9
+play,1,1,mantm101,10,BX,163
+com,"$off Burdette's leg"
+play,2,0,aaroh101,00,X,T8/8XD
+com,"over Mantle's head"
+play,2,0,adcoj101,22,CSBBFX,S8/L89.3-H;B-2(E8)
+play,2,0,pafka101,00,X,9
+play,2,0,coviw101,00,X,5/L
+com,"good leaping catch by Kubek"
+play,2,0,crand102,32,BCBBFB,W
+play,2,0,burdl101,01,CX,13
+play,2,1,berry101,11,CBX,43
+play,2,1,slaue101,32,BBCBCB,W
+play,2,1,simph101,22,BSBFS,K
+play,2,1,kubet101,10,BX,S7/L56D.1-3
+play,2,1,colej106,01,SX,S1/G25.3-H;1-2
+play,2,1,shanb102,11,BCX,7/L
+com,"good backhanded running catch"
+play,3,0,schor101,00,X,8/F89
+play,3,0,logaj101,21,BCBX,HR/7LD
+play,3,0,mathe101,10,BX,8/F8
+play,3,0,aaroh101,20,BBX,6/P6D
+play,3,1,baueh101,01,CX,HR/7LD
+play,3,1,mcdog101,10,BX,7/F7LD
+play,3,1,mantm101,32,CBSFFFFBBX,8/F8D
+play,3,1,berry101,10,BX,7/F7D
+play,4,0,adcoj101,01,SX,S7/G56
+play,4,0,pafka101,00,X,S7/L7.1-2
+play,4,0,coviw101,22,LBLFBX,S7/F56D.2-H;1-H(UR)(E5);B-3
+com,"$bloop single over McDougald's head; Slaughter's throw to"
+com,"third went through Kubek's legs"
+play,4,0,crand102,00,,NP
+sub,ditma101,"Art Ditmar",1,9,1
+play,4,0,crand102,00,X,3/P23F
+play,4,0,burdl101,00,X,3/P3
+play,4,0,schor101,12,CFBX,63/G6
+play,4,1,slaue101,12,CCBS,K
+play,4,1,simph101,20,BBX,8/F89XD
+play,4,1,kubet101,01,CX,13/G1
+play,5,0,logaj101,00,H,HP
+play,5,0,mathe101,32,BCBBCX,6(1)3/GDP/G6M
+play,5,0,aaroh101,10,BX,3/P3
+play,5,1,colej106,31,BCBBB,W
+play,5,1,ditma101,02,CLS,K
+play,5,1,baueh101,01,FX,63/G6MS.1-2
+play,5,1,mcdog101,31,BBBCS,43/G4
+play,6,0,adcoj101,11,CBX,9/F9L
+play,6,0,pafka101,11,BCX,3/P3D
+play,6,0,coviw101,32,FBBBFS,K
+play,6,1,mantm101,32,BBCCBB,W
+play,6,1,berry101,00,X,36(1)/FO/G3
+play,6,1,slaue101,21,BBFX,D7/L7L.1-3
+play,6,1,simph101,22,CBBSX,13/G25
+play,6,1,kubet101,12,SFBX,43/G4
+play,7,0,crand102,11,BFX,S/BG5S
+play,7,0,burdl101,00,X,34/SH/BG3S.1-2
+play,7,0,schor101,01,FX,43/G4.2-3
+play,7,0,logaj101,00,X,7/L78
+play,7,1,colej106,12,CFBFFX,53/G5
+play,7,1,ditma101,00,,NP
+sub,lumpj101,"Jerry Lumpe",1,9,11
+play,7,1,lumpj101,00,X,S9/L89
+play,7,1,baueh101,02,FSX,6/P6M
+play,7,1,mcdog101,00,X,9/L9D
+play,8,0,mathe101,00,,NP
+sub,grimb102,"Bob Grim",1,9,1
+play,8,0,mathe101,12,CSBC,K/C
+play,8,0,aaroh101,22,BFBSS,K
+play,8,0,adcoj101,00,X,9/F9LD
+play,8,1,mantm101,00,,NP
+sub,torrf102,"Frank Torre",0,5,3
+play,8,1,mantm101,00,X,5/FL
+play,8,1,berry101,01,CX,53/G5
+play,8,1,slaue101,22,BCFBC,K/C
+play,9,0,pafka101,00,X,7/F7
+play,9,0,coviw101,12FBCFX,,S7/L7
+play,9,0,crand102,20,BBX,53/G56S.1-2
+play,9,0,burdl101,01,SX,63/G6
+play,9,1,simph101,22,CCBFFFBX,13/G1
+play,9,1,kubet101,02,CCX,S9/L9S
+play,9,1,colej106,00,,NP
+sub,collj101,"Joe Collins",1,8,11
+play,9,1,collj101,01,FX,6/P4MD
+play,9,1,grimb102,00,,NP
+sub,howae101,"Elston Howard",1,9,11
+play,9,1,howae101,00,X,S6/G6MD.1-2
+play,9,1,baueh101,00,,NP
+sub,richb102,"Bobby Richardson",1,9,12
+play,9,1,baueh101,01,FX,64(1)/FO/G56
+data,er,burdl101,2
+data,er,shanb102,3
+data,er,ditma101,0
+data,er,grimb102,0
+id,MLN195710050
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,NYA
+info,hometeam,MLN
+info,date,1957/10/05
+info,site,MIL05
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,mckib901
+info,ump1b,donaa901
+info,ump2b,papaj901
+info,ump3b,conlj102
+info,umplf,chyln901
+info,umprf,secof101
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth/Singer"
+info,inputter,"John Booth/Smith"
+info,inputtime,1994/05/12 3:22AM
+info,howscored,unknown
+info,pitches,none
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,198
+info,attendance,45804
+info,wp,larsd102
+info,lp,buhlb101
+info,save,
+info,gwrbi,
+start,baueh101,"Hank Bauer",0,1,9
+start,kubet101,"Tony Kubek",0,2,7
+start,mantm101,"Mickey Mantle",0,3,8
+start,berry101,"Yogi Berra",0,4,2
+start,mcdog101,"Gil McDougald",0,5,6
+start,simph101,"Harry Simpson",0,6,3
+start,lumpj101,"Jerry Lumpe",0,7,5
+start,colej106,"Jerry Coleman",0,8,4
+start,turlb101,"Bob Turley",0,9,1
+start,schor101,"Red Schoendienst",1,1,4
+start,logaj101,"Johnny Logan",1,2,6
+start,mathe101,"Eddie Mathews",1,3,5
+start,aaroh101,"Hank Aaron",1,4,8
+start,coviw101,"Wes Covington",1,5,7
+start,adcoj101,"Joe Adcock",1,6,3
+start,hazlb101,"Bob Hazle",1,7,9
+start,riced101,"Del Rice",1,8,2
+start,buhlb101,"Bob Buhl",1,9,1
+play,1,0,baueh101,01,CX,13/G13
+play,1,0,kubet101,11,CBX,HR/9D
+play,1,0,mantm101,32,BCBBCB,W
+play,1,0,berry101,30,BBBB,W.1-2
+play,1,0,mcdog101,10,B2,PO2(E1).2-3;1-2
+com,"throw to second went into center"
+play,1,0,mcdog101,11,B2.SX,8/SF/F8XD.3-H
+play,1,0,simph101,01,FX,S4/G4MD.2-H(UR)
+com,"high bouncer in back of second"
+play,1,0,lumpj101,00,,NP
+sub,pizaj101,"Juan Pizarro",1,9,1
+play,1,0,lumpj101,10,BX,9/F89
+play,1,1,schor101,12,BCSX,S9/L9
+play,1,1,logaj101,30,BBBB,W.1-2
+play,1,1,mathe101,02,SCFX,5/P/P56S/IF
+play,1,1,aaroh101,00,X,6/P6MD
+play,1,1,coviw101,31,BSBBB,W.2-3;1-2
+play,1,1,adcoj101,12,BSCFC,K/C
+play,2,0,colej106,32,BBBCCX,7/L7
+play,2,0,turlb101,02,CSX,53/G56S
+play,2,0,baueh101,31,BBBCB,W
+play,2,0,kubet101,22,BLBSS,K
+play,2,1,hazlb101,31??,BBBCB,W
+play,2,1,riced101,11,CBX,S8/G46.1-2
+play,2,1,pizaj101,12,SCBX,7/F7LS
+play,2,1,schor101,00,B,WP.2-3
+play,2,1,schor101,32,B.BCFFBFFX,S9/L9.3-H;1-2
+play,2,1,logaj101,02,CCC,K/C
+play,2,1,mathe101,32,FBBBFB,W.2-3;1-2
+play,2,1,aaroh101,00,,NP
+sub,larsd102,"Don Larsen",0,9,1
+play,2,1,aaroh101,20,BBX,9/F9D
+play,3,0,mantm101,10,BX,S8/G6M
+play,3,0,berry101,32,BBFFFBX,S9/G4.1-3
+play,3,0,mcdog101,12,BCCX,FC5/G5.3XH(525);1-2;B-1
+play,3,0,simph101,00,,NP
+sub,howae101,"Elston Howard",0,6,11
+play,3,0,howae101,32,CBBSBB,W.2-3;1-2
+play,3,0,lumpj101,21,CBBX,S9/L9.3-H;2-H;1-3
+play,3,0,colej106,00,,NP
+sub,conlg101,"Gene Conley",1,9,1
+play,3,0,colej106,00,X,5/P5
+play,3,0,larsd102,22,LBFBFX,53
+play,3,1,coviw101,00,,NP
+sub,howae101,"Elston Howard",0,6,3
+play,3,1,coviw101,12,BCFFS,K
+play,3,1,adcoj101,32,BBCCBX,63/G6
+play,3,1,hazlb101,21,BSBX,63/G4MS
+play,4,0,baueh101,10,BX,53/G56
+play,4,0,kubet101,12,BLFX,S8/L78S
+play,4,0,mantm101,31,CB+11BBX,HR/F89XD.1-H
+play,4,0,berry101,21,BBCX,31/G3
+play,4,0,mcdog101,31,BFBBB,W
+play,4,0,howae101,10,BX,53/G5
+play,4,1,riced101,22,BCFBX,53/G5
+play,4,1,conlg101,00,,NP
+sub,sawac101,"Carl Sawatski",1,9,11
+play,4,1,sawac101,22,BBCTS,K
+play,4,1,schor101,32,CBBBCX,8/F8S
+play,5,0,lumpj101,00,,NP
+sub,johne101,"Ernie Johnson",1,9,1
+play,5,0,lumpj101,01,SX,13/BG13
+play,5,0,colej106,01,CX,63/G6
+play,5,0,larsd102,12,CBFC,K/C
+play,5,1,logaj101,02,CCX,S8/G46
+play,5,1,mathe101,32,CBSBFBFFX,7/F7
+play,5,1,aaroh101,31,BBFBX,HR/F89XD.1-H
+play,5,1,coviw101,30,BBBB,W
+play,5,1,adcoj101,02,SSS,K
+play,5,1,hazlb101,11,SBX,7/F7
+play,6,0,baueh101,02,CSS,K
+play,6,0,kubet101,01,CX,43/G4
+play,6,0,mantm101,32,CCBBBFB,W
+play,6,0,berry101,12,BF1FX,53/G56S
+play,6,1,riced101,00,X,53/G5
+play,6,1,johne101,00,,NP
+sub,torrf102,"Frank Torre",1,9,11
+play,6,1,torrf102,11,BCX,43/G4
+play,6,1,schor101,11,BCX,S9/L9L
+play,6,1,logaj101,02,CSFX,S7/G56.1-2
+play,6,1,mathe101,31,SBBBB,W.2-3;1-2
+play,6,1,aaroh101,00,X,53/G56S
+play,7,0,mcdog101,00,,NP
+sub,trowb101,"Bob Trowbridge",1,6,1
+play,7,0,mcdog101,00,,NP
+sub,torrf102,"Frank Torre",1,9,3
+play,7,0,mcdog101,31,CBBBB,W
+play,7,0,howae101,01,L>B,SB2
+play,7,0,howae101,12,L>B.CC,K/C
+play,7,0,lumpj101,11,BCX,8/F8S
+play,7,0,colej106,32,*BCBSBB,W
+play,7,0,larsd102,32,BBFBC>F>B,W.2-3;1-2
+play,7,0,baueh101,10,BX,S8/L6MD.3-H;2-H;1-2
+play,7,0,kubet101,00,X,HR/F9D.2-H;1-H
+play,7,0,mantm101,01,CX,7/F7S
+play,7,1,coviw101,00,,NP
+sub,collj101,"Joe Collins",0,6,3
+play,7,1,coviw101,32,CBBBFX,5/P5F
+play,7,1,trowb101,00,,NP
+sub,jonen101,"Nippy Jones",1,6,11
+play,7,1,jonen101,21,CBBX,63/G6M
+play,7,1,hazlb101,10,BX,9/F89
+play,8,0,berry101,00,,NP
+sub,mcmad102,"Don McMahon",1,6,1
+play,8,0,berry101,00,X,5/P5F
+play,8,0,mcdog101,32,SSBBBB,W
+play,8,0,collj101,10,BS,PB.1-2
+play,8,0,collj101,22,BS.SBFC,K/C
+play,8,0,lumpj101,22,FBCFBX,13/G13
+play,8,1,riced101,31,BBBCB,W
+play,8,1,torrf102,00,,NP
+sub,demej101,"John DeMerit",1,8,12
+play,8,1,torrf102,02,CFX,2/FL/P25F
+play,8,1,schor101,01,CX,6/P6D
+play,8,1,logaj101,32,BFBBF>X,9/L89D
+play,9,0,colej106,00,,NP
+sub,crand102,"Del Crandall",1,8,2
+play,9,0,colej106,32,BBBCCC,K/C
+play,9,0,larsd102,32,CCBBBB,W
+play,9,0,baueh101,00,X,43(B)3(1)/GDP/G4
+com,"Torre tagged out Larsen in the rundown for the double play"
+play,9,1,mathe101,30,BBBB,W
+play,9,1,aaroh101,01,CX,S8/L8.1-2
+play,9,1,coviw101,11,SBX,7/F78
+play,9,1,mcmad102,00,,NP
+sub,pafka101,"Andy Pafko",1,6,11
+play,9,1,pafka101,32,CBFBBH,HP.2-3;1-2
+play,9,1,hazlb101,32,BFBFFBX,6/P56D
+play,9,1,crand102,12,BFSC,K/C
+data,er,turlb101,1
+data,er,larsd102,2
+data,er,buhlb101,2
+data,er,pizaj101,2
+data,er,conlg101,2
+data,er,johne101,0
+data,er,trowb101,5
+data,er,mcmad102,0
+id,MLN195710060
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,NYA
+info,hometeam,MLN
+info,date,1957/10/06
+info,site,MIL05
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,donaa901
+info,ump1b,papaj901
+info,ump2b,conlj102
+info,ump3b,mckib901
+info,umplf,chyln901
+info,umprf,secof101
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth/Singer"
+info,inputter,"John Booth/Smith"
+info,inputtime,1994/05/12 3:39AM
+info,howscored,unknown
+info,pitches,none
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,151
+info,attendance,45804
+info,wp,spahw101
+info,lp,grimb102
+info,save,
+info,gwrbi,
+start,kubet101,"Tony Kubek",0,1,7
+start,baueh101,"Hank Bauer",0,2,9
+start,mantm101,"Mickey Mantle",0,3,8
+start,berry101,"Yogi Berra",0,4,2
+start,mcdog101,"Gil McDougald",0,5,6
+start,howae101,"Elston Howard",0,6,3
+start,carea101,"Andy Carey",0,7,5
+start,colej106,"Jerry Coleman",0,8,4
+start,sturt101,"Tom Sturdivant",0,9,1
+start,schor101,"Red Schoendienst",1,1,4
+start,logaj101,"Johnny Logan",1,2,6
+start,mathe101,"Eddie Mathews",1,3,5
+start,aaroh101,"Hank Aaron",1,4,8
+start,coviw101,"Wes Covington",1,5,7
+start,torrf102,"Frank Torre",1,6,3
+start,hazlb101,"Bob Hazle",1,7,9
+start,crand102,"Del Crandall",1,8,2
+start,spahw101,"Warren Spahn",1,9,1
+play,1,0,kubet101,11,BCX,S1/BG
+play,1,0,baueh101,22,1BTS1B>X,63/G6.1-2
+play,1,0,mantm101,02,CFX,FC1/G1.2X3(16);B-1
+play,1,0,berry101,32,BSFBB11>B,W.1-2
+play,1,0,mcdog101,10,BX,S7/L.2-H;1-2
+play,1,0,howae101,11,CBX,5(2)/FO
+play,1,1,schor101,21,CBBX,5/FL
+play,1,1,logaj101,02,CFX,43
+play,1,1,mathe101,12,FBFFX,13
+play,2,0,carea101,00,X,9
+play,2,0,colej106,01,CX,53
+play,2,0,sturt101,02,CSFX,53
+play,2,1,aaroh101,11,CBX,S6/G
+play,2,1,coviw101,00,X,54(1)/FO
+play,2,1,torrf102,21,BCB>S,SB2
+play,2,1,torrf102,32,BCB>S.BX,43.2-3
+play,2,1,hazlb101,10,BX,63
+play,3,0,kubet101,01,CX,31
+play,3,0,baueh101,00,X,53
+play,3,0,mantm101,10,BX,13/G1
+play,3,1,crand102,20,BBX,4/P
+play,3,1,spahw101,11,FBX,43
+play,3,1,schor101,21,BBCX,2/P
+play,4,0,berry101,01,FX,9
+play,4,0,mcdog101,31,BCBBX,63
+play,4,0,howae101,02,CSX,63
+play,4,1,logaj101,32,CBBFBFFB,W
+play,4,1,mathe101,00,X,D9/9LD.1-3
+play,4,1,aaroh101,11,CBX,HR/7D.3-H;2-H
+play,4,1,coviw101,10,BX,43
+play,4,1,torrf102,00,X,HR/9D
+play,4,1,hazlb101,12,CBCS,K
+play,4,1,crand102,10,BX,13
+play,5,0,carea101,01,CX,63
+play,5,0,colej106,00,X,S9
+play,5,0,sturt101,00,,NP
+sub,simph101,"Harry Simpson",0,9,11
+play,5,0,simph101,11,CBX,4(1)3/GDP
+play,5,1,spahw101,00,,NP
+sub,shanb102,"Bobby Shantz",0,9,1
+play,5,1,spahw101,02,CCS,K
+play,5,1,schor101,11,BCX,6/P
+play,5,1,logaj101,00,X,53
+play,6,0,kubet101,02,SFX,53
+play,6,0,baueh101,12,BFFX,63
+play,6,0,mantm101,32,FFBBBS,K
+play,6,1,mathe101,30,BBBB,W
+play,6,1,aaroh101,12,BCFC,K/C
+play,6,1,coviw101,02,FCS,K
+play,6,1,torrf102,12,SFBFX,3/P
+play,7,0,berry101,30,,NP
+sub,pafka101,"Andy Pafko",1,7,9
+play,7,0,berry101,12,CTBX,S9/G
+play,7,0,mcdog101,21,BSBX,9/F9D
+play,7,0,howae101,12,FBFX,64(1)3/GDP
+play,7,1,pafka101,20,BBX,53
+play,7,1,crand102,11,BCX,2/P
+play,7,1,spahw101,12,SSBFFC,K/C
+play,8,0,carea101,12,CFBFX,D7/78
+play,8,0,colej106,01,SX,63
+play,8,0,shanb102,00??,,NP
+sub,lumpj101,"Jerry Lumpe",0,9,11
+play,8,0,lumpj101,22,CCFBBX,S8.2-3
+play,8,0,kubet101,01,CX,64(1)3/GDP
+play,8,1,schor101,00,,NP
+sub,kuckj101,"Johnny Kucks",0,9,1
+play,8,1,schor101,21,BCBX,D7/L78D
+play,8,1,logaj101,12,BL2CS,K
+play,8,1,mathe101,10,BX,7
+play,8,1,aaroh101,31,BBCBB,W
+play,8,1,coviw101,00,,NP
+sub,byrnt101,"Tommy Byrne",0,9,1
+play,8,1,coviw101,22,CCBBC,K/C
+play,9,0,baueh101,21,BFBX,8
+play,9,0,mantm101,22,BCFFBX,63
+play,9,0,berry101,00,X,S9/G
+play,9,0,mcdog101,01,FX,S9/L.1-2
+play,9,0,howae101,32,BBSBCX,HR/7LD.2-H;1-H
+play,9,0,carea101,21,BCBX,9
+play,9,1,torrf102,00??,,NP
+sub,adcoj101,"Joe Adcock",1,6,11
+play,9,1,adcoj101,00,X,63
+play,9,1,pafka101,11,BCX,53
+play,9,1,crand102,11,CBX,8/F8D
+play,10,0,colej106,00,,NP
+sub,adcoj101,"Joe Adcock",1,6,3
+play,10,0,colej106,00,X,63
+play,10,0,byrnt101,02,CSS,K
+play,10,0,kubet101,12,BFFX,S4
+play,10,0,baueh101,10,B1X,T8/F78XDW.1-H
+com,"off the left field fence"
+play,10,0,mantm101,11,SBX,9
+play,10,1,spahw101,00,,NP
+sub,collj101,"Joe Collins",0,6,3
+play,10,1,spahw101,00,,NP
+sub,jonen101,"Nippy Jones",1,9,11
+play,10,1,jonen101,00,H,HP
+com,"$Originally ruled that pitch did not hit Jones, but ball"
+com,"bounced off backstop to batter who showed the umpire there"
+com,"was shoe polish on the ball and call was changed to HBP"
+play,10,1,schor101,00,,NP
+sub,grimb102,"Bob Grim",0,9,1
+play,10,1,schor101,00,,NP
+sub,mantf101,"Felix Mantilla",1,9,12
+play,10,1,schor101,00,,34/SH.1-2
+play,10,1,logaj101,00,,NP
+sub,slaue101,"Enos Slaughter",0,3,7
+play,10,1,logaj101,00,,NP
+sub,kubet101,"Tony Kubek",0,1,8
+play,10,1,logaj101,20,BBX,D7/7LD.2-H
+play,10,1,mathe101,22,BFFBX,HR/9D.2-H
+data,er,sturt101,4
+data,er,shanb102,0
+data,er,kuckj101,0
+data,er,byrnt101,1
+data,er,grimb102,2
+data,er,spahw101,5
+id,MLN195710070
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,NYA
+info,hometeam,MLN
+info,date,1957/10/07
+info,site,MIL05
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,papaj901
+info,ump1b,conlj102
+info,ump2b,mckib901
+info,ump3b,donaa901
+info,umplf,chyln901
+info,umprf,secof101
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth/Singer"
+info,inputter,"John Booth/Smith"
+info,inputtime,1994/05/12 3:50AM
+info,howscored,unknown
+info,pitches,none
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,120
+info,attendance,45811
+info,wp,burdl101
+info,lp,fordw101
+info,save,
+info,gwrbi,
+start,baueh101,"Hank Bauer",0,1,9
+start,kubet101,"Tony Kubek",0,2,8
+start,mcdog101,"Gil McDougald",0,3,6
+start,berry101,"Yogi Berra",0,4,2
+start,slaue101,"Enos Slaughter",0,5,7
+start,simph101,"Harry Simpson",0,6,3
+start,lumpj101,"Jerry Lumpe",0,7,5
+start,colej106,"Jerry Coleman",0,8,4
+start,fordw101,"Whitey Ford",0,9,1
+start,schor101,"Red Schoendienst",1,1,4
+start,logaj101,"Johnny Logan",1,2,6
+start,mathe101,"Eddie Mathews",1,3,5
+start,aaroh101,"Hank Aaron",1,4,8
+start,adcoj101,"Joe Adcock",1,5,3
+start,pafka101,"Andy Pafko",1,6,9
+start,coviw101,"Wes Covington",1,7,7
+start,crand102,"Del Crandall",1,8,2
+start,burdl101,"Lew Burdette",1,9,1
+play,1,0,baueh101,11,BCX,S7/L7
+play,1,0,kubet101,01,CX,13/SH/BG15.1-2
+play,1,0,mcdog101,10,BX,9/L9
+play,1,0,berry101,32,BBCBFX,63/G6
+play,1,1,schor101,11,BCX,63/G6
+play,1,1,logaj101,22,CFBBFX,4/P4D
+play,1,1,mathe101,32,BBCCBB,W
+play,1,1,aaroh101,10,BX,7/L7
+play,2,0,slaue101,00,X,S8/G46
+play,2,0,simph101,32,BBBC>F>S,K+CS2(26)/DP
+play,2,0,lumpj101,00,,NP
+sub,mantf101,"Felix Mantilla",1,1,4
+com,"Schoendienst left with a leg strain"
+play,2,0,lumpj101,00,X,23/G2
+play,2,1,adcoj101,01,FX,53
+play,2,1,pafka101,21,BBFX,S8/L78
+play,2,1,coviw101,21,CBBX,6/FL
+play,2,1,crand102,00,X,53
+play,3,0,colej106,12,CBCX,43
+play,3,0,fordw101,10,BX,43
+play,3,0,baueh101,00,X,S6/G
+play,3,0,kubet101,01,SX,6(1)/FO
+play,3,1,burdl101,01,CX,63
+play,3,1,mantf101,31,BBBCX,63/G56
+play,3,1,logaj101,00,X,8/F78
+play,4,0,mcdog101,10,BX,7/L7DW
+com,"$Great catch by Covington as he bounced off the fence"
+play,4,0,berry101,00,X,E3/G.B-1
+play,4,0,slaue101,21,BBCX,S7/L78.1-2
+play,4,0,simph101,01,SX,54(1)3/GDP/G56
+play,4,1,mathe101,22,BCCBFC,K/C
+play,4,1,aaroh101,22,BCFFFBX,S7/L78
+play,4,1,adcoj101,01,FX,64(1)3/GDP/G6
+play,5,0,lumpj101,32,BBCBFFX,43
+play,5,0,colej106,12,BSFX,43
+play,5,0,fordw101,02,MSS,K
+play,5,1,pafka101,00,X,S7/L
+play,5,1,coviw101,00,X,24/SH/BG2.1-2
+play,5,1,crand102,31,BBBFX,7
+play,5,1,burdl101,02,TSX,8/L8D
+play,6,0,baueh101,11,FBX,53/G5
+play,6,0,kubet101,11,BCX,43/G4
+play,6,0,mcdog101,01,CX,43/G4
+play,6,1,mantf101,00,X,63/G6
+play,6,1,logaj101,11,CBX,7/F7D
+play,6,1,mathe101,32,BBBCCX,S4/G34
+play,6,1,aaroh101,12,BFCX,S9/F89S.1-3
+play,6,1,adcoj101,01,FX,S9/L9S.3-H;1-2
+play,6,1,pafka101,01,FX,64(1)/FO/G6
+play,7,0,berry101,21,BBCX,S8/G46
+play,7,0,slaue101,02,CLX,6(1)3/GDP/G6M
+play,7,0,simph101,11,BFX,63/G56
+play,7,1,coviw101,11,SBX,8/F78
+play,7,1,crand102,11,CBX,63/G6
+play,7,1,burdl101,12,SBSC,K/C
+play,8,0,lumpj101,00,,NP
+sub,torrf102,"Frank Torre",1,5,3
+play,8,0,lumpj101,00,X,13/G1
+play,8,0,colej106,01,CX,S9/L9S
+play,8,0,fordw101,00,,NP
+sub,mantm101,"Mickey Mantle",0,8,12
+play,8,0,fordw101,00,,NP
+sub,howae101,"Elston Howard",0,9,11
+play,8,0,howae101,02,CFC,K/C
+play,8,0,baueh101,00,>S,CS2(24)
+play,8,1,mantf101,00,,NP
+sub,turlb101,"Bob Turley",0,8,1
+play,8,1,mantf101,00,,NP
+sub,richb102,"Bobby Richardson",0,9,4
+play,8,1,mantf101,00,X,8/F8D
+play,8,1,logaj101,12,BTFC,K/C
+play,8,1,mathe101,22,BFBCFC,K/C
+play,9,0,baueh101,12,BFSS,K
+play,9,0,kubet101,02,CFS,K
+play,9,0,mcdog101,00,X,S8/L8S
+play,9,0,berry101,00,X,5/P5S
+data,er,fordw101,1
+data,er,turlb101,0
+data,er,burdl101,0
+id,NYA195710090
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,MLN
+info,hometeam,NYA
+info,date,1957/10/09
+info,site,NYC16
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,conlj102
+info,ump1b,mckib901
+info,ump2b,donaa901
+info,ump3b,papaj901
+info,umplf,secof101
+info,umprf,chyln901
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth/Singer"
+info,inputter,"John Booth/Smith"
+info,inputtime,1994/05/12 4:05AM
+info,howscored,unknown
+info,pitches,none
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,129
+info,attendance,61408
+info,wp,turlb101
+info,lp,johne101
+info,save,
+info,gwrbi,
+start,mantf101,"Felix Mantilla",0,1,4
+start,logaj101,"Johnny Logan",0,2,6
+start,mathe101,"Eddie Mathews",0,3,5
+start,aaroh101,"Hank Aaron",0,4,8
+start,coviw101,"Wes Covington",0,5,7
+start,torrf102,"Frank Torre",0,6,3
+start,hazlb101,"Bob Hazle",0,7,9
+start,riced101,"Del Rice",0,8,2
+start,buhlb101,"Bob Buhl",0,9,1
+start,baueh101,"Hank Bauer",1,1,9
+start,kubet101,"Tony Kubek",1,2,8
+start,slaue101,"Enos Slaughter",1,3,7
+start,berry101,"Yogi Berra",1,4,2
+start,mcdog101,"Gil McDougald",1,5,6
+start,lumpj101,"Jerry Lumpe",1,6,5
+start,simph101,"Harry Simpson",1,7,3
+start,colej106,"Jerry Coleman",1,8,4
+start,turlb101,"Bob Turley",1,9,1
+play,1,0,mantf101,12,BSFX,8/F8
+play,1,0,logaj101,32,CBSBBS,K
+play,1,0,mathe101,32,CCBFBFBFFX,13/G3S
+play,1,1,baueh101,12,BCSS,K
+play,1,1,kubet101,02,CFS,K
+play,1,1,slaue101,32,BFBBSB,W
+play,1,1,berry101,22,BBFFX,S9/L9.1-2
+play,1,1,mcdog101,10,BB,WP.2-3;1-2
+play,1,1,mcdog101,32,BB>SBFS,K
+play,2,0,aaroh101,32,CBSBBS,K
+play,2,0,coviw101,01,SX,8/F78
+play,2,0,torrf102,31,CBBBX,S9/L9
+play,2,0,hazlb101,10,BX,2/FL
+play,2,1,lumpj101,21,FBBX,S9/G4
+play,2,1,simph101,32,BBCB1>F>C,K+CS2(26)/C/DP
+play,2,1,colej106,31,BBCBB,W
+play,2,1,turlb101,21,BBCX,13/G1
+play,3,0,riced101,02,FFC,K/C
+play,3,0,buhlb101,12,CSBC,K/C
+play,3,0,mantf101,00,X,9/F9D
+play,3,1,baueh101,21,SBBX,6/P
+play,3,1,kubet101,10,BX,43
+play,3,1,slaue101,31,BBBCB,W
+play,3,1,berry101,00,X,HR/9D.1-H
+play,3,1,mcdog101,01,CX,S4/G4M
+play,3,1,lumpj101,??,,W.1-2
+play,3,1,simph101,00,,NP
+sub,johne101,"Ernie Johnson",0,9,1
+play,3,1,simph101,02,CSFS,K
+play,4,0,logaj101,11,CBX,2/FL
+play,4,0,mathe101,22,TBFBX,D9/F89XDW
+com,"$Off the right field auxiliary scoreboard"
+play,4,0,aaroh101,00,X,43/G4.2-3
+play,4,0,coviw101,21,BFBX,5/FL/P25F
+play,4,1,colej106,22,FBCBFX,D7/F7LS
+play,4,1,turlb101,12,BSML,K/BF
+play,4,1,baueh101,02,CSS,K
+play,4,1,kubet101,11,BCX,31
+play,5,0,torrf102,32,FCBBBX,HR/9D
+play,5,0,hazlb101,01,CX,43
+play,5,0,riced101,00,X,53/G5
+play,5,0,johne101,02,FFC,K/C
+play,5,1,slaue101,12,CBCX,31/G3
+play,5,1,berry101,02,SFX,3/G3
+play,5,1,mcdog101,22,BBSCS,K
+play,6,0,mantf101,10,BX,63/G56
+play,6,0,logaj101,00,X,4/P4
+play,6,0,mathe101,32,BBSBSX,43/G34
+play,6,1,lumpj101,21,FBBX,163/G1
+com,"off Johnson's hand to Logan"
+play,6,1,simph101,22,FBBCX,8/L
+play,6,1,colej106,10,BX,13/G1
+play,7,0,aaroh101,00,,NP
+sub,collj101,"Joe Collins",1,7,3
+play,7,0,aaroh101,31,BBCBX,HR/7D
+play,7,0,coviw101,00,X,31
+play,7,0,torrf102,21,BBCX,1/L1
+play,7,0,hazlb101,32,BBCBSX,8
+play,7,1,turlb101,02,KCL,K/BF
+play,7,1,baueh101,22,FBBFX,HR/L7LD
+play,7,1,kubet101,02,LFX,4/P
+play,7,1,slaue101,22,KSBFBX,3/G
+play,8,0,riced101,12,SBSS,K
+play,8,0,johne101,00,,NP
+sub,sawac101,"Carl Sawatski",0,9,11
+play,8,0,sawac101,12,SBFC,K/C
+play,8,0,mantf101,32,SBBFBB,W
+play,8,0,logaj101,20,B1BX,6/P
+play,8,1,berry101,00,,NP
+sub,mcmad102,"Don McMahon",0,9,1
+play,8,1,berry101,12,CTBFFFFX,D7/G5L
+play,8,1,mcdog101,00,X,14/SH/BG23.2-3
+play,8,1,lumpj101,31,BBBSX,7(B)2(3)/DP
+play,9,0,mathe101,30,BBBB,W
+play,9,0,aaroh101,02,FCC,K/C
+play,9,0,coviw101,02,CCX,16(1)3/GDP/G1
+data,er,buhlb101,2
+data,er,johne101,1
+data,er,mcmad102,0
+data,er,turlb101,2
+id,NYA195710100
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,MLN
+info,hometeam,NYA
+info,date,1957/10/10
+info,site,NYC16
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,mckib901
+info,ump1b,donaa901
+info,ump2b,papaj901
+info,ump3b,conlj102
+info,umplf,secof101
+info,umprf,chyln901
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth/Singer"
+info,inputter,"John Booth/Smith"
+info,inputtime,1994/05/12 4:29AM
+info,howscored,unknown
+info,pitches,none
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,154
+info,attendance,61207
+info,wp,burdl101
+info,lp,larsd102
+info,save,
+info,gwrbi,
+start,hazlb101,"Bob Hazle",0,1,9
+start,logaj101,"Johnny Logan",0,2,6
+start,mathe101,"Eddie Mathews",0,3,5
+start,aaroh101,"Hank Aaron",0,4,8
+start,coviw101,"Wes Covington",0,5,7
+start,torrf102,"Frank Torre",0,6,3
+start,mantf101,"Felix Mantilla",0,7,4
+start,crand102,"Del Crandall",0,8,2
+start,burdl101,"Lew Burdette",0,9,1
+start,baueh101,"Hank Bauer",1,1,9
+start,slaue101,"Enos Slaughter",1,2,7
+start,mantm101,"Mickey Mantle",1,3,8
+start,berry101,"Yogi Berra",1,4,2
+start,mcdog101,"Gil McDougald",1,5,6
+start,kubet101,"Tony Kubek",1,6,5
+start,colej106,"Jerry Coleman",1,7,4
+start,collj101,"Joe Collins",1,8,3
+start,larsd102,"Don Larsen",1,9,1
+play,1,0,hazlb101,02,CFS,K
+play,1,0,logaj101,00,X,53
+play,1,0,mathe101,02,CCC,K/C
+play,1,1,baueh101,00,X,D7/G5L
+play,1,1,slaue101,12,CLFBX,FC1.BX2(165616)
+com,"$Tapped back to Burdette, who caught Bauer in a rundown off"
+com,"second.  Bauer returned safely to second, but Slaughter was"
+com,"also there, and was tagged out by Logan"
+play,1,1,mantm101,22,BSBSX,13/G1
+play,1,1,berry101,30,IIII,IW
+play,1,1,mcdog101,31,BBCBX,5/P
+play,2,0,aaroh101,21,BCBX,S7
+play,2,0,coviw101,11,BCX,13/SH.1-2
+play,2,0,torrf102,30,BBBB,W
+play,2,0,mantf101,11,CBX,7/F7D.2-3
+play,2,0,crand102,21,CBBX,54(1)/FO
+play,2,1,kubet101,22,BBCSX,53
+play,2,1,colej106,11,BCX,53
+play,2,1,collj101,22,CBBFFS,K
+play,3,0,burdl101,00,C,5/FL
+play,3,0,hazlb101,00,X,S7/L7S
+play,3,0,logaj101,22,B1SFFBX,E5/TH2/G5.1-2;B-1
+play,3,0,mathe101,22,BCCBX,D9/L9LD.2-H(UR);1-H
+play,3,0,aaroh101,00,,NP
+sub,shanb102,"Bobby Shantz",1,9,1
+play,3,0,aaroh101,10,BX,S8/G46.2-H
+play,3,0,coviw101,32,CBSBFBX,S7/L78.1-3
+play,3,0,torrf102,11,FBX,46(1)/FO.3-H(UR)
+play,3,0,mantf101,20,,9/F89D
+play,3,1,shanb102,00,,NP
+sub,lumpj101,"Jerry Lumpe",1,9,11
+play,3,1,lumpj101,32,BCBFBFS,K
+play,3,1,baueh101,10,BX,8
+play,3,1,slaue101,22,BCFBX,3/G
+play,4,0,crand102,00,,NP
+sub,ditma101,"Art Ditmar",1,9,1
+play,4,0,crand102,11,BCX,7
+play,4,0,burdl101,12,SFBS,K
+play,4,0,hazlb101,20,BBX,S9/G
+play,4,0,logaj101,00,X,E6/TH2.1-2;B-1
+play,4,0,mathe101,20,BBX,8/L
+play,4,1,mantm101,02,SSX,9
+play,4,1,berry101,12,BFCX,9/L
+play,4,1,mcdog101,22,CBBFX,9/L
+play,5,0,aaroh101,00,X,E2/BG2.B-1
+play,5,0,coviw101,12,LLBFX,53.1-2
+play,5,0,torrf102,00,X,3/G.2-3
+play,5,0,mantf101,10,BX,53
+play,5,1,kubet101,00,X,7
+play,5,1,colej106,32,KBFBBFFX,S8/L89
+play,5,1,collj101,01,CX,64(1)/FO
+play,5,1,ditma101,00,,NP
+sub,skowb101,"Bill Skowron",1,9,11
+play,5,1,skowb101,01,SX,64(1)/FO
+play,6,0,crand102,00,,NP
+sub,skowb101,"Bill Skowron",1,9,3
+play,6,0,crand102,00,,NP
+sub,sturt101,"Tom Sturdivant",1,8,1
+play,6,0,crand102,02,FRX,S8/G
+play,6,0,burdl101,01,LX,34/SH.1-2
+play,6,0,hazlb101,11,FB>B,CS3(25)
+com,"$Crandall beat Berra's throw, but was out oversliding third"
+play,6,0,hazlb101,32,FB>B.FFBX,9
+play,6,1,baueh101,11,BCX,53
+play,6,1,slaue101,01,CX,8
+play,6,1,mantm101,00,X,S9/L
+play,6,1,berry101,01,FX,E5/G.1-2;B-1
+play,6,1,mcdog101,01,FX,5(2)/FO
+play,7,0,logaj101,10,BX,S4/G
+play,7,0,mathe101,00,X,34/SH.1-2
+play,7,0,aaroh101,02,CCC,K/C
+play,7,0,coviw101,01,SX,6/L
+play,7,1,kubet101,12,KBCX,S7
+play,7,1,colej106,??,,13/G1.1-2
+play,7,1,sturt101,00,,NP
+sub,howae101,"Elston Howard",1,8,11
+play,7,1,howae101,12,FBFS,K
+play,7,1,skowb101,00,X,63
+play,8,0,torrf102,??,,NP
+sub,byrnt101,"Tommy Byrne",1,8,1
+play,8,0,torrf102,30,BBBB,W
+play,8,0,mantf101,00,1X,64(1)3/GDP
+play,8,0,crand102,32,CBBBFFX,HR/7D
+play,8,0,burdl101,32,SSBFBBFB,W
+play,8,0,hazlb101,00,,NP
+sub,pafka101,"Andy Pafko",0,1,11
+play,8,0,pafka101,11,SBX,3/FL
+play,8,1,baueh101,00,,NP
+sub,pafka101,"Andy Pafko",0,1,9
+play,8,1,baueh101,21,BBFX,6/P
+play,8,1,slaue101,22,SBBSX,2/FL
+play,8,1,mantm101,00,X,7
+play,9,0,logaj101,00,C,5/L
+play,9,0,mathe101,01,CX,43
+play,9,0,aaroh101,32,BBBCCX,8/F8D
+play,9,1,berry101,00,X,3/P
+play,9,1,mcdog101,22,FBBFX,S8/L
+play,9,1,kubet101,00,X,8/F89D
+play,9,1,colej106,01,CX,S9/L9.1-2
+play,9,1,byrnt101,12,BCCX,S4/G4.2-3;1-2
+com,"$Off Mantilla's glove"
+play,9,1,skowb101,01,FX,5(2)/FO/G5L
+com,"$Fantastic stop on the line by Mathews"
+data,er,burdl101,0
+data,er,larsd102,2
+data,er,shanb102,0
+data,er,ditma101,0
+data,er,sturt101,0
+data,er,byrnt101,1

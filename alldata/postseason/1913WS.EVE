@@ -1,0 +1,725 @@
+id,NY1191310070
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,PHA
+info,hometeam,NY1
+info,date,1913/10/07
+info,site,NYC14
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,klemb901
+info,ump1b,eganr101
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,riglc901
+info,umprf,connt901
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1995/06/15 2:47PM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,66
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,126
+info,attendance,36291
+info,wp,bendc101
+info,lp,marqr102
+info,save,
+info,gwrbi,
+start,murpe102,"Eddie Murphy",0,1,9
+start,oldrr101,"Rube Oldring",0,2,7
+start,colle101,"Eddie Collins",0,3,4
+start,bakef102,"Frank Baker",0,4,5
+start,mcins101,"Stuffy McInnis",0,5,3
+start,strua102,"Amos Strunk",0,6,8
+start,barrj104,"Jack Barry",0,7,6
+start,schaw101,"Wally Schang",0,8,2
+start,bendc101,"Chief Bender",0,9,1
+start,shaft102,"Tillie Shafer",1,1,8
+start,doyll101,"Larry Doyle",1,2,4
+start,fleta101,"Art Fletcher",1,3,6
+start,burng101,"George Burns",1,4,7
+start,herzb101,"Buck Herzog",1,5,5
+start,murrr103,"Red Murray",1,6,9
+start,meyec101,"Chief Meyers",1,7,2
+start,merkf101,"Fred Merkle",1,8,3
+start,marqr102,"Rube Marquard",1,9,1
+play,1,0,murpe102,00,X,9
+com,"Debut game for Eddie Murphy"
+play,1,0,oldrr101,01,KX,S9
+play,1,0,colle101,01,K1,PO1(13)
+play,1,0,colle101,02,K1.KX,S8
+play,1,0,bakef102,20,BBX,7
+play,1,1,shaft102,32,BKBFBX,9
+play,1,1,doyll101,10,BX,8/F89
+play,1,1,fleta101,21,FBBX,S7/G6
+play,1,1,burng101,10,BU,CS2(24)
+com,"Debut game for George Burns"
+play,2,0,mcins101,01,KX,53
+play,2,0,strua102,12,KBFK,K
+play,2,0,barrj104,00,X,63
+play,2,1,burng101,32,BFBBKC,K/C
+play,2,1,herzb101,32,KKBFBFBX,3/G
+play,2,1,murrr103,11,BKX,S7
+play,2,1,meyec101,02,CSX,7/F7S
+play,3,0,schaw101,10,BX,7
+com,"Debut game for Wally Schang"
+play,3,0,bendc101,22,KBKBX,63
+play,3,0,murpe102,10,BX,S9
+play,3,0,oldrr101,11,KBX,6(1)/FO
+play,3,1,merkf101,12,FKBX,S6
+play,3,1,marqr102,00,X,43/SH.1-2
+play,3,1,shaft102,01,KX,8
+play,3,1,doyll101,00,X,S9.2-H
+play,3,1,fleta101,11,BKX,9
+play,4,0,colle101,00,X,T8/89D
+play,4,0,bakef102,01,KX,S4.3-H
+play,4,0,mcins101,00,X,13/SH.1-2
+play,4,0,strua102,01,FX,FC1.2X3(15);B-1
+play,4,0,barrj104,11,BSX,D7/7L.1-3
+play,4,0,schaw101,10,BX,T8/89.3-H;2-H
+play,4,0,bendc101,31,BKBBX,13/G1
+play,4,1,burng101,00,X,D7
+play,4,1,herzb101,11,BFX,FC1.2X3(1545);B-2
+play,4,1,murrr103,12,KKBC,K/C
+play,4,1,meyec101,12,BSFX,7
+play,5,0,murpe102,00,X,13/BG1
+play,5,0,oldrr101,21,SBBX,13/G1
+play,5,0,colle101,31,BBBKB,W
+play,5,0,bakef102,00,K,SB2
+play,5,0,bakef102,01,K.X,HR/9D.2-H
+play,5,0,mcins101,22,BFBFX,6/P
+play,5,1,merkf101,00,X,S8
+play,5,1,marqr102,00,,NP
+sub,mccom104,"Moose McCormick",1,9,11
+play,5,1,mccom104,00,.X,S8.1-2
+play,5,1,shaft102,12,BCSX,43.2-3;1-2
+play,5,1,doyll101,10,BX,E6/TH1.3-H(RBI);2-3;B-1
+play,5,1,fleta101,00,X,S19.3-H;1-3
+com,"The ball bounced off Bender's shin and into right field"
+play,5,1,burng101,22,BSFBX,54(1)/FO.3-H(UR)
+play,5,1,herzb101,00,X,4/P
+play,6,0,strua102,00,,NP
+sub,crand101,"Doc Crandall",1,9,1
+play,6,0,strua102,11,.BKX,8/F89
+play,6,0,barrj104,32,CSBBBX,8/F78
+play,6,0,schaw101,32,BKBBSX,7
+play,6,1,murrr103,00,X,43
+play,6,1,meyec101,10,BX,13/G1
+play,6,1,merkf101,32,BSCBBC,K/C
+play,7,0,bendc101,22,CBCBC,K/C
+play,7,0,murpe102,11,BCX,43
+play,7,0,oldrr101,21,BKBX,8/L8S
+play,7,1,crand101,11,BCX,63
+play,7,1,shaft102,10,BX,S8
+play,7,1,doyll101,00,X,S9.1-3
+play,7,1,fleta101,10,BX,64(1)3/GDP
+play,8,0,colle101,00,X,S3/BG34S
+play,8,0,bakef102,11,BKX,S7/78.1-3
+play,8,0,mcins101,10,BX,D7.3-H;1-3
+play,8,0,strua102,00,,NP
+sub,tesrj101,"Jeff Tesreau",1,9,1
+play,8,0,strua102,02,.SSS,K
+play,8,0,barrj104,22,KBKFB2,OA.3XH(242);2-3
+com,"$when Meyers tried to pick off McInnis at second,"
+com,"Baker tried to score but was thrown out at home"
+play,8,0,barrj104,22,KBKFB2.X,4/P
+play,8,1,burng101,22,CKBBX,53
+play,8,1,herzb101,11,CBX,43
+play,8,1,murrr103,10,BX,S5
+play,8,1,meyec101,12,BCFX,8/F89
+play,9,0,schaw101,01,SX,53
+play,9,0,bendc101,21,CBBX,13/G1
+play,9,0,murpe102,31,CBBBB,W
+play,9,0,oldrr101,10,BB,CS2(24)
+play,9,1,merkf101,01,FX,43
+play,9,1,tesrj101,00,,NP
+sub,mclel101,"Larry McLean",1,9,11
+play,9,1,mclel101,00,.X,4/P
+com,"Debut game for Larry McLean"
+play,9,1,shaft102,12,BCCFS,K
+data,er,bendc101,3
+data,er,marqr102,5
+data,er,crand101,1
+data,er,tesrj101,0
+id,PHA191310080
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,NY1
+info,hometeam,PHA
+info,date,1913/10/08
+info,site,PHI11
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,connt901
+info,ump1b,riglc901
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,klemb901
+info,umprf,eganr101
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1995/06/15 2:57PM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,67
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,142
+info,attendance,20563
+info,wp,mathc102
+info,lp,plane101
+info,save,
+info,gwrbi,
+start,herzb101,"Buck Herzog",0,1,5
+start,doyll101,"Larry Doyle",0,2,4
+start,fleta101,"Art Fletcher",0,3,6
+start,burng101,"George Burns",0,4,7
+start,shaft102,"Tillie Shafer",0,5,8
+start,murrr103,"Red Murray",0,6,9
+start,mclel101,"Larry McLean",0,7,2
+start,snodf101,"Fred Snodgrass",0,8,3
+start,mathc102,"Christy Mathewson",0,9,1
+start,murpe102,"Eddie Murphy",1,1,9
+start,oldrr101,"Rube Oldring",1,2,7
+start,colle101,"Eddie Collins",1,3,4
+start,bakef102,"Frank Baker",1,4,5
+start,mcins101,"Stuffy McInnis",1,5,3
+start,strua102,"Amos Strunk",1,6,8
+start,barrj104,"Jack Barry",1,7,6
+start,lappj101,"Jack Lapp",1,8,2
+start,plane101,"Eddie Plank",1,9,1
+play,1,0,herzb101,21,BKBX,4/P34D
+play,1,0,doyll101,20,BBX,8
+play,1,0,fleta101,12,BFFS,K
+play,1,1,murpe102,22,BCCBX,E4/G.B-1
+play,1,1,oldrr101,02,CCX,S7.1-2
+play,1,1,colle101,00,X,34/SH.2-3;1-2
+play,1,1,bakef102,12,BFFS,K
+play,1,1,mcins101,10,BX,7
+play,2,0,burng101,12,SCBS,K
+play,2,0,shaft102,11,BCX,9
+play,2,0,murrr103,22,SCBBS,K
+play,2,1,strua102,12,BKFX,43
+play,2,1,barrj104,00,X,7
+play,2,1,lappj101,02,SSS,K
+play,3,0,mclel101,01,CX,6/P
+play,3,0,snodf101,11,CBX,S7/L7L
+play,3,0,mathc102,22,BFBFX,S8.1-3;B-2(TH3)
+play,3,0,herzb101,00,,NP
+sub,wilth102,"Hooks Wiltse",0,8,12
+com,"$Snodgrass injured his leg running to 3B"
+com,"and left game"
+play,3,0,herzb101,11,.FBX,FC1.3XH(12);2-3;B-2
+play,3,0,doyll101,32,BBBCCX,7
+play,3,1,plane101,00,,NP
+sub,wilth102,"Hooks Wiltse",0,8,3
+play,3,1,plane101,11,.CBX,43
+play,3,1,murpe102,00,X,13/BG1
+play,3,1,oldrr101,00,X,53
+play,4,0,fleta101,00,X,63
+play,4,0,burng101,02,CSS,K
+play,4,0,shaft102,32,BBCSBX,E5/TH1.B-1
+play,4,0,murrr103,00,C,CS2(24)
+play,4,1,colle101,02,KFX,13/G1
+play,4,1,bakef102,21,CBBX,S9/G34
+play,4,1,mcins101,00,X,43.1-2
+play,4,1,strua102,32,CBBBSB,W
+play,4,1,barrj104,11,CBX,4(1)/FO
+play,5,0,murrr103,10,BX,7
+play,5,0,mclel101,10,BX,S7/G5L
+play,5,0,wilth102,22,BFFBS,K
+play,5,0,mathc102,31,FBBBB,W.1-2
+play,5,0,herzb101,21,CBBX,43
+play,5,1,lappj101,11,BFX,43
+play,5,1,plane101,02,FFX,S9/G34
+play,5,1,murpe102,00,X,7/F7D
+play,5,1,oldrr101,00,X,64(1)/FO
+play,6,0,doyll101,01,FX,13
+play,6,0,fleta101,21,CBBX,3/FL
+play,6,0,burng101,01,KX,9
+play,6,1,colle101,12,LBKK,K
+play,6,1,bakef102,02,FKX,63
+play,6,1,mcins101,02,KFC,K/C
+play,7,0,shaft102,21,CBBX,8
+play,7,0,murrr103,02,FFX,6/P
+play,7,0,mclel101,00,X,7/F7D
+play,7,1,strua102,00,X,7
+play,7,1,barrj104,12,CFBX,53
+play,7,1,lappj101,02,FKX,S9
+play,7,1,plane101,00,X,6/P
+play,8,0,wilth102,00,X,43
+play,8,0,mathc102,02,CFFX,9
+play,8,0,herzb101,00,X,8/F89
+play,8,1,murpe102,02,KKX,3/G
+play,8,1,oldrr101,01,SX,63
+play,8,1,colle101,02,FFX,S7
+play,8,1,bakef102,00,X,S7.1-2
+play,8,1,mcins101,11,BCX,5(2)/FO
+play,9,0,doyll101,12,CBFX,8/F8D
+play,9,0,fleta101,12,BCFX,S8/78
+play,9,0,burng101,30,BBBB,W.1-2
+play,9,0,shaft102,31,BFBBX,7
+play,9,0,murrr103,10,BX,8
+play,9,1,strua102,10,BX,S8
+play,9,1,barrj104,01,FX,S4/BG.1-3(E4/TH1);B-2
+play,9,1,lappj101,10,BX,FC3.3XH(32);2-3;B-1
+play,9,1,plane101,10,BX,FC3.3XH(3251);1-3;B-2
+play,9,1,murpe102,01,CX,13/G1
+play,10,0,mclel101,21,BCBX,S9
+play,10,0,wilth102,00,,NP
+sub,grane101,"Eddie Grant",0,7,12
+play,10,0,wilth102,01,.FX,1/SH.1-2
+com,"Debut game for Eddie Grant"
+play,10,0,mathc102,22,BCBFX,S8/78.2-H
+play,10,0,herzb101,11,BFX,E4/TH2.1-3;B-2
+com,"$Eddie Collins's throw to 2B hit Christy Mathewson on the shoulder"
+play,10,0,doyll101,00,H,HP
+play,10,0,fleta101,20,BBX,S7/L.3-H(UR);2-H;1-3
+play,10,0,burng101,12,SBFS,K
+play,10,0,shaft102,20,BBX,9
+play,10,1,oldrr101,00,,NP
+sub,wilsa102,"Art Wilson",0,7,2
+play,10,1,oldrr101,00,X,53
+play,10,1,colle101,32,BBCBCC,K/C
+play,10,1,bakef102,01,SX,343
+com,"$the ball caromed off Hooks Wiltse to Larry Doyle"
+data,er,mathc102,0
+data,er,plane101,2
+id,NY1191310090
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,PHA
+info,hometeam,NY1
+info,date,1913/10/09
+info,site,NYC14
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,riglc901
+info,ump1b,connt901
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,klemb901
+info,umprf,eganr101
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1995/06/15 3:28PM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,70
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,131
+info,attendance,36896
+info,wp,bushj102
+info,lp,tesrj101
+info,save,
+info,gwrbi,
+start,murpe102,"Eddie Murphy",0,1,9
+start,oldrr101,"Rube Oldring",0,2,7
+start,colle101,"Eddie Collins",0,3,4
+start,bakef102,"Frank Baker",0,4,5
+start,mcins101,"Stuffy McInnis",0,5,3
+start,strua102,"Amos Strunk",0,6,8
+start,barrj104,"Jack Barry",0,7,6
+start,schaw101,"Wally Schang",0,8,2
+start,bushj102,"Joe Bush",0,9,1
+start,herzb101,"Buck Herzog",1,1,5
+start,doyll101,"Larry Doyle",1,2,4
+start,fleta101,"Art Fletcher",1,3,6
+start,burng101,"George Burns",1,4,7
+start,shaft102,"Tillie Shafer",1,5,8
+start,murrr103,"Red Murray",1,6,9
+start,mclel101,"Larry McLean",1,7,2
+start,merkf101,"Fred Merkle",1,8,3
+start,tesrj101,"Jeff Tesreau",1,9,1
+play,1,0,murpe102,11,CBX,63
+play,1,0,oldrr101,12,CFBX,S8/L
+play,1,0,colle101,02,CCX,S8.1-3
+play,1,0,bakef102,02,SSX,S7.3-H;1-2
+play,1,0,mcins101,11,CBS,SB3;SB2
+play,1,0,mcins101,12,CBS.S,K23
+play,1,0,strua102,31,BBBFX,E6/TH1.3-H(UR)(NR);2-H(UR)(NR);B-2
+play,1,0,barrj104,00,X,6/P
+play,1,1,herzb101,22,CFBBX,63
+com,"Debut game for Joe Bush"
+play,1,1,doyll101,21,BBCX,S1
+play,1,1,fleta101,12,BKF>H,HP.1-2
+play,1,1,burng101,21,BBFX,4(B)6(2)/LDP
+play,2,0,schaw101,12,BSCS,K
+play,2,0,bushj102,01,CX,9
+play,2,0,murpe102,22,BCSBX,S6/G6D
+play,2,0,oldrr101,00,X,S9.1-3
+play,2,0,colle101,00,B,SB2
+play,2,0,colle101,11,B.KX,S8.3-H;2-H
+play,2,0,bakef102,10,BX,4(1)/FO
+play,2,1,shaft102,01,CX,43
+play,2,1,murrr103,12,CBFX,4/P
+play,2,1,mclel101,22,CSBBX,2/FL
+play,3,0,mcins101,00,X,7
+play,3,0,strua102,21,BCBX,7/F78D
+play,3,0,barrj104,11,BCX,2/FL
+play,3,1,merkf101,00,X,8/F4MD
+play,3,1,tesrj101,02,SSS,K
+play,3,1,herzb101,12,BCSX,4/P
+play,4,0,schaw101,02,FFS,K
+play,4,0,bushj102,20,BBX,S7
+play,4,0,murpe102,00,X,8
+play,4,0,oldrr101,01,FX,43
+play,4,1,doyll101,12,BCFX,5/FL
+play,4,1,fleta101,32,BBBCCX,S4
+play,4,1,burng101,02,SFS,K
+play,4,1,shaft102,10,BB,SB2
+play,4,1,shaft102,20,BB.X,43
+play,5,0,colle101,12,BFFX,9/F9D
+play,5,0,bakef102,10,BX,6/P
+play,5,0,mcins101,11,KBX,9
+play,5,1,murrr103,32,BBBCCB,W
+play,5,1,mclel101,10,BK,SB2.1-3(E2/TH2)
+play,5,1,mclel101,11,BK.X,S7/G5.3-H(UR)
+play,5,1,merkf101,00,,NP
+sub,coopc101,"Claude Cooper",1,7,12
+play,5,1,merkf101,01,.CX,9
+com,"Debut game for Claude Cooper"
+play,5,1,tesrj101,02,FFB,SB2
+play,5,1,tesrj101,12,FFB.X,53.2-3
+play,5,1,herzb101,10,BX,23
+play,6,0,strua102,00,,NP
+sub,wilsa102,"Art Wilson",1,7,2
+play,6,0,strua102,22,.CBFBX,7/F78
+play,6,0,barrj104,00,X,S9
+play,6,0,schaw101,21,BFBX,2/FL
+play,6,0,bushj102,11,BFX,4/P8S
+play,6,1,doyll101,12,BCSX,3/G
+play,6,1,fleta101,31,BBBCB,W
+play,6,1,burng101,11,CBX,16(1)3/GDP
+play,7,0,murpe102,21,BBCX,S9
+play,7,0,oldrr101,12,FBFX,64(1)/FO
+play,7,0,colle101,22,FBFBX,T9/9DW.1-H
+play,7,0,bakef102,10,BX,S8.3-H
+play,7,0,mcins101,00,,NP
+sub,crand101,"Doc Crandall",1,9,1
+play,7,0,mcins101,00,.X,4(B)4(1)/LDP
+play,7,1,shaft102,02,CCX,D7
+play,7,1,murrr103,22,BBCCX,S7/78.2-H
+play,7,1,wilsa102,12,CBCS,K+CS2(24)/DP
+play,7,1,merkf101,31,BSBBB,W
+play,7,1,crand101,00,,NP
+sub,wilth102,"Hooks Wiltse",1,8,12
+play,7,1,crand101,11,.CBX,43
+play,8,0,strua102,00,,NP
+sub,wilth102,"Hooks Wiltse",1,8,3
+play,8,0,strua102,01,.CX,13/G1
+play,8,0,barrj104,12,CBSX,13/G1
+play,8,0,schaw101,01,CX,HR/9D
+play,8,0,bushj102,32,SCBBBC,K/C
+play,8,1,herzb101,12,BKKX,5/L
+play,8,1,doyll101,11,SBX,3/G
+play,8,1,fleta101,10,BX,2/FL/BP
+play,9,0,murpe102,21,CBBX,9
+play,9,0,oldrr101,02,SSX,5/FL
+play,9,0,colle101,00,X,8/F8D
+play,9,1,burng101,01,CX,9
+play,9,1,shaft102,31,BFBBB,W
+play,9,1,murrr103,12,BFFX,64(1)/FO
+play,9,1,wilsa102,12,CBKX,5/FL
+data,er,bushj102,1
+data,er,tesrj101,5
+data,er,crand101,1
+id,PHA191310100
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,NY1
+info,hometeam,PHA
+info,date,1913/10/10
+info,site,PHI11
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,eganr101
+info,ump1b,klemb901
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,connt901
+info,umprf,riglc901
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1995/06/16 10:48AM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,75
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,cloudy
+info,timeofgame,129
+info,attendance,20568
+info,wp,bendc101
+info,lp,demaa101
+info,save,
+info,gwrbi,
+start,snodf101,"Fred Snodgrass",0,1,8
+start,doyll101,"Larry Doyle",0,2,4
+start,fleta101,"Art Fletcher",0,3,6
+start,burng101,"George Burns",0,4,7
+start,shaft102,"Tillie Shafer",0,5,5
+start,murrr103,"Red Murray",0,6,9
+start,mclel101,"Larry McLean",0,7,2
+start,merkf101,"Fred Merkle",0,8,3
+start,demaa101,"Al Demaree",0,9,1
+start,murpe102,"Eddie Murphy",1,1,9
+start,oldrr101,"Rube Oldring",1,2,7
+start,colle101,"Eddie Collins",1,3,4
+start,bakef102,"Frank Baker",1,4,5
+start,mcins101,"Stuffy McInnis",1,5,3
+start,strua102,"Amos Strunk",1,6,8
+start,barrj104,"Jack Barry",1,7,6
+start,schaw101,"Wally Schang",1,8,2
+start,bendc101,"Chief Bender",1,9,1
+play,1,0,snodf101,01,KX,5/P
+play,1,0,doyll101,21,BFBX,8
+play,1,0,fleta101,00,X,63
+play,1,1,murpe102,01,CX,8
+com,"Debut game for Al Demaree"
+play,1,1,oldrr101,00,X,T9/9DW
+play,1,1,colle101,11,BFX,FC3.3XH(32);B-1
+play,1,1,bakef102,00,.,SB2
+play,1,1,bakef102,00,.X,5/FL
+play,2,0,burng101,02,CSX,9
+play,2,0,shaft102,12,BSSS,K
+play,2,0,murrr103,11,BKH,HP
+play,2,0,mclel101,11,CBX,S9/89.1-3
+play,2,0,merkf101,10,BX,3/FL
+play,2,1,mcins101,10,BX,S8
+play,2,1,strua102,00,X,13/SH.1-2
+play,2,1,barrj104,11,CBF,FLE3
+play,2,1,barrj104,12,CBF.X,D7/7LD.2-H(UR)
+play,2,1,schaw101,32,FBSBBB,W
+play,2,1,bendc101,01,KX,7
+play,2,1,murpe102,11,BCX,8
+play,3,0,demaa101,00,X,9
+play,3,0,snodf101,00,X,13/BG
+play,3,0,doyll101,12,CFBX,8
+play,3,1,oldrr101,00,,NP
+sub,shaft102,"Tillie Shafer",0,5,8
+play,3,1,oldrr101,00,.,NP
+sub,herzb101,"Buck Herzog",0,1,5
+play,3,1,oldrr101,01,..FX,13/G1
+play,3,1,colle101,32,BFCBBX,7/FL
+play,3,1,bakef102,10,BX,43
+play,4,0,fleta101,11,CBX,4/P34D
+play,4,0,burng101,00,X,5/P
+play,4,0,shaft102,22,FBBFS,K
+play,4,1,mcins101,12,FCBX,43
+play,4,1,strua102,01,CS,S5
+play,4,1,barrj104,10,BX,S8/L78.1-3;B-2(TH3)
+play,4,1,schaw101,22,BCSBX,S8.3-H;2-H;B-2(THH)
+play,4,1,bendc101,02,KKB,PB.2-3
+play,4,1,bendc101,22,KKB.BX,E3/G.3-H(UR)(RBI);B-1
+play,4,1,murpe102,00,X,4/P
+play,4,1,oldrr101,20,BBX,S8.1-2
+play,4,1,colle101,10,BX,23/BG
+play,5,0,murrr103,30,BBBB,W
+play,5,0,mclel101,02,KFX,S8.1-3
+play,5,0,merkf101,00,,NP
+sub,coopc101,"Claude Cooper",0,7,12
+play,5,0,merkf101,02,.KSK,K
+play,5,0,demaa101,00,,NP
+sub,mccom104,"Moose McCormick",0,9,11
+play,5,0,mccom104,21,.BBSX,7/L
+play,5,0,herzb101,10,BU,CS2(24)
+play,5,1,bakef102,00,,NP
+sub,wilsa102,"Art Wilson",0,7,2
+play,5,1,bakef102,00,.,NP
+sub,marqr102,"Rube Marquard",0,9,1
+play,5,1,bakef102,32,..FBBBCS,K
+play,5,1,mcins101,12,CBCX,13/G1
+play,5,1,strua102,30,BBBB,W
+play,5,1,barrj104,01,CX,D7.1-3
+play,5,1,schaw101,11,KBX,S8.3-H;2-H
+play,5,1,bendc101,00,X,13/G1
+play,6,0,herzb101,01,SX,63
+play,6,0,doyll101,22,BCFFBS,K
+play,6,0,fleta101,02,SSX,8
+play,6,1,murpe102,12,BFCX,43
+play,6,1,oldrr101,02,CSK,K23
+play,6,1,colle101,02,CCX,6/P
+play,7,0,burng101,22,SBBFX,S6/G
+play,7,0,shaft102,02,CSX,4/P
+play,7,0,murrr103,02,SFX,S7.1-2
+play,7,0,wilsa102,32,SCBBBS,K+SB3;SB2
+play,7,0,merkf101,12,BCCX,HR/7D.3-H;2-H
+com,"$bounce HR"
+play,7,0,marqr102,00,X,13/G1
+play,7,1,bakef102,01,KX,5/P
+play,7,1,mcins101,01,CX,5/FL
+play,7,1,strua102,11,BCX,43
+play,8,0,herzb101,00,X,S7/G6
+play,8,0,doyll101,00,X,46(1)/FO
+play,8,0,fleta101,01,CX,16(1)/FO
+play,8,0,burng101,11,CBX,D7/7L.1-H
+play,8,0,shaft102,00,X,T9/9D.2-H
+play,8,0,murrr103,00,X,43
+play,8,1,barrj104,21,BCBX,9/F9D
+play,8,1,schaw101,31,BSBBB,W
+play,8,1,bendc101,01,FX,9
+play,8,1,murpe102,00,X,4(1)/FO
+play,9,0,wilsa102,00,,NP
+sub,crand101,"Doc Crandall",0,7,11
+play,9,0,crand101,22,.BCFBX,43
+play,9,0,merkf101,00,X,9
+play,9,0,marqr102,00,,NP
+sub,grane101,"Eddie Grant",0,9,11
+play,9,0,grane101,32,.SFBBFBX,2/FL
+data,er,demaa101,2
+data,er,marqr102,2
+data,er,bendc101,5
+id,NY1191310110
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,PHA
+info,hometeam,NY1
+info,date,1913/10/11
+info,site,NYC14
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,klemb901
+info,ump1b,eganr101
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,riglc901
+info,umprf,connt901
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1995/06/16 10:54AM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,65
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,cloudy
+info,timeofgame,99
+info,attendance,36632
+info,wp,plane101
+info,lp,mathc102
+info,save,
+info,gwrbi,
+start,murpe102,"Eddie Murphy",0,1,9
+start,oldrr101,"Rube Oldring",0,2,7
+start,colle101,"Eddie Collins",0,3,4
+start,bakef102,"Frank Baker",0,4,5
+start,mcins101,"Stuffy McInnis",0,5,3
+start,strua102,"Amos Strunk",0,6,8
+start,barrj104,"Jack Barry",0,7,6
+start,schaw101,"Wally Schang",0,8,2
+start,plane101,"Eddie Plank",0,9,1
+start,herzb101,"Buck Herzog",1,1,5
+start,doyll101,"Larry Doyle",1,2,4
+start,fleta101,"Art Fletcher",1,3,6
+start,burng101,"George Burns",1,4,7
+start,shaft102,"Tillie Shafer",1,5,8
+start,murrr103,"Red Murray",1,6,9
+start,mclel101,"Larry McLean",1,7,2
+start,merkf101,"Fred Merkle",1,8,3
+start,mathc102,"Christy Mathewson",1,9,1
+play,1,0,murpe102,00,X,S6
+play,1,0,oldrr101,11,BFX,16(1)/FO/BG
+play,1,0,colle101,10,BX,S9/L.1-3
+play,1,0,bakef102,00,X,7/SF.3-H;1-2(E7/THH)
+play,1,0,mcins101,12,FKBX,FC5.2X3(54)
+play,1,1,herzb101,22,BBCFX,9
+play,1,1,doyll101,22,BCBSX,63
+play,1,1,fleta101,31,BCBBX,7/L7D
+play,2,0,strua102,22,BCFBX,43
+play,2,0,barrj104,12,CBKX,9
+play,2,0,schaw101,22,BBSSX,S1/G
+play,2,0,plane101,10,BX,5/P
+play,2,1,burng101,10,BX,53
+play,2,1,shaft102,32,BBBCCX,3/FL
+play,2,1,murrr103,00,X,13/G1
+play,3,0,murpe102,01,CX,S7/G6
+play,3,0,oldrr101,10,BX,E4/G.1-2;B-1
+play,3,0,colle101,00,X,3/SH.2-3;1-2
+play,3,0,bakef102,00,X,S3.3-H;2-3
+play,3,0,mcins101,00,X,7/SF.3-H(UR)
+play,3,0,strua102,11,KBX,43
+play,3,1,mclel101,31,BBCBX,7/F7S
+play,3,1,merkf101,10,BX,4/L
+play,3,1,mathc102,21,CBBX,63
+play,4,0,barrj104,21,FBBX,63
+play,4,0,schaw101,10,BX,9
+play,4,0,plane101,02,FSX,6/P
+play,4,1,herzb101,02,FCC,K/C
+play,4,1,doyll101,12,FFBX,3/G
+play,4,1,fleta101,00,X,8
+play,5,0,murpe102,22,CBBFX,43
+play,5,0,oldrr101,00,X,43
+play,5,0,colle101,00,X,8
+play,5,1,burng101,11,KBX,3/L
+play,5,1,shaft102,31,BBBCB,W
+play,5,1,murrr103,21,BCBX,E1/P.1-2;B-1
+com,"$Eddie Plank collided with Frank Baker"
+play,5,1,mclel101,10,BX,S7/78.2-H(UR);1-2
+play,5,1,merkf101,21,BFBX,46(1)3/GDP
+play,6,0,bakef102,00,X,S9
+play,6,0,mcins101,00,X,23/SH.1-2
+play,6,0,strua102,11,CBX,43.2-3
+play,6,0,barrj104,11,BFX,63
+play,6,1,mathc102,21,BCBX,S9
+play,6,1,herzb101,11,BSX,64(1)3/GDP
+play,6,1,doyll101,00,X,9/F9D
+play,7,0,schaw101,22,BBFFS,K
+play,7,0,plane101,02,FFX,43
+play,7,0,murpe102,31,FBBBB,W
+play,7,0,oldrr101,00,X,2/FL
+play,7,1,fleta101,21,BCBX,8
+play,7,1,burng101,22,CBBCX,63
+play,7,1,shaft102,11,BCX,63
+play,8,0,colle101,11,FBX,43
+play,8,0,bakef102,01,CX,13/G1
+play,8,0,mcins101,00,X,63
+play,8,1,murrr103,12,CBFX,53
+play,8,1,mclel101,11,BCX,7
+play,8,1,merkf101,00,X,63
+play,9,0,strua102,10,BX,8
+play,9,0,barrj104,00,X,53
+play,9,0,schaw101,12,BCCS,K
+play,9,1,mathc102,00,,NP
+sub,crand101,"Doc Crandall",1,9,11
+play,9,1,crand101,11,.CBX,43
+play,9,1,herzb101,00,X,6/P56D
+play,9,1,doyll101,21,BBCX,9
+data,er,plane101,0
+data,er,mathc102,2

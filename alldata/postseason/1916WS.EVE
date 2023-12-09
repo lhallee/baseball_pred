@@ -1,0 +1,765 @@
+id,BOS191610070
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,BRO
+info,hometeam,BOS
+info,date,1916/10/07
+info,site,BOS08
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,connt901
+info,ump1b,odayh101
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,quige901
+info,umprf,dinnb101
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1994/04/12 5:45AM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,136
+info,attendance,36117
+info,wp,shore101
+info,lp,marqr102
+info,save,maysc101
+info,gwrbi,
+start,myerh102,"Hi Myers",0,1,8
+start,daubj101,"Jake Daubert",0,2,3
+start,stenc101,"Casey Stengel",0,3,9
+start,wheaz101,"Zach Wheat",0,4,7
+start,cutsg101,"George Cutshaw",0,5,4
+start,mowrm101,"Mike Mowrey",0,6,5
+start,olsoi101,"Ivy Olson",0,7,6
+start,meyec101,"Chief Meyers",0,8,2
+start,marqr102,"Rube Marquard",0,9,1
+start,hooph101,"Harry Hooper",1,1,9
+start,janvh101,"Hal Janvrin",1,2,4
+start,walkt101,"Tilly Walker",1,3,8
+start,hobld101,"Doc Hoblitzel",1,4,3
+start,lewid101,"Duffy Lewis",1,5,7
+start,gardl101,"Larry Gardner",1,6,5
+start,scote101,"Everett Scott",1,7,6
+start,cadyh101,"Hick Cady",1,8,2
+start,shore101,"Ernie Shore",1,9,1
+play,1,0,myerh102,??,,2/FL
+com,"Debut game for Hi Myers"
+play,1,0,daubj101,??,,K
+com,"Debut game for Jake Daubert"
+play,1,0,stenc101,??,,43
+com,"Debut game for Casey Stengel"
+play,1,1,hooph101,??,,K
+play,1,1,janvh101,??,,K
+play,1,1,walkt101,10,BX,T8/78D
+com,"Debut game for Tilly Walker"
+play,1,1,hobld101,20,BBX,43
+play,2,0,wheaz101,10,BX,S4/G
+com,"Debut game for Zach Wheat"
+play,2,0,cutsg101,31,BBBKX,46(1)3/GDP
+com,"Debut game for George Cutshaw"
+play,2,0,mowrm101,32,BKBKBB,W
+com,"Debut game for Mike Mowrey"
+play,2,0,olsoi101,12,BKKK,K
+com,"Debut game for Ivy Olson"
+play,2,1,lewid101,32,BBBKKB,W
+play,2,1,gardl101,00,X,S5/BG5S.1-2
+play,2,1,scote101,10,BX,23/SH.2-3;1-2
+play,2,1,cadyh101,30,IIII,IW
+play,2,1,shore101,12,BKKC,K/C
+play,2,1,hooph101,20,BBX,8/F78D
+play,3,0,meyec101,11,KBX,13/G1
+play,3,0,marqr102,22,KKBFBFC,K/C
+play,3,0,myerh102,21,KBBX,S8
+play,3,0,daubj101,02,KKK,K
+play,3,1,janvh101,12,KKBC,K23/C
+play,3,1,walkt101,??,,K23
+play,3,1,hobld101,32,BBBKKX,T9/9DW
+play,3,1,lewid101,00,X,D7.3-H
+play,3,1,gardl101,11,KBK,PO2(26)
+play,4,0,stenc101,00,X,S7
+play,4,0,wheaz101,00,X,T9.1-H
+play,4,0,cutsg101,00,X,9(B)2(3)/FDP
+play,4,0,mowrm101,11,BKX,43
+play,4,1,gardl101,22,KKBBK,K
+play,4,1,scote101,01,KX,7/L
+play,4,1,cadyh101,31,BBBKB,W
+play,4,1,shore101,22,BKKBX,2/FL
+play,5,0,olsoi101,00,X,53
+play,5,0,meyec101,00,X,T8/8D
+com,"$Walker lost the ball in the sun"
+play,5,0,marqr102,00,X,43
+play,5,0,myerh102,01,KX,6/P
+play,5,1,hooph101,22,BKBKX,D8
+com,"$Myers lost the ball in the sun"
+play,5,1,janvh101,00,X,34/SH.2-3
+play,5,1,walkt101,11,BKX,S7.3-H
+play,5,1,hobld101,02,KKX,3/G.1-2
+play,5,1,lewid101,00,X,FC5/G.2X3(5)
+play,6,0,daubj101,00,X,53
+play,6,0,stenc101,12,KBKK,K
+play,6,0,wheaz101,00,X,43
+play,6,1,gardl101,12,BKKX,E6/G.B-1
+play,6,1,scote101,02,KKX,54(1)/FO
+play,6,1,cadyh101,00,B,PB.1-2
+play,6,1,cadyh101,30,B.BBB,W
+play,6,1,shore101,21,BKBX,3/P
+play,6,1,hooph101,00,X,6/FL
+play,7,0,cutsg101,10,BX,43
+play,7,0,mowrm101,00,X,S9
+play,7,0,olsoi101,10,BX,54(1)3/GDP
+play,7,1,janvh101,01,FX,D7/7L
+play,7,1,walkt101,00,X,E6/G.2-3;B-1
+play,7,1,hobld101,02,FKX,E4/G.3-H(RBI);1-2;B-1
+play,7,1,lewid101,00,X,54/SH.2-3;1-2
+play,7,1,gardl101,21,KBBX,FC4.3-H(UR);2-3;B-1
+play,7,1,scote101,32,KBFBBX,9/SF.3-H(UR)
+play,7,1,cadyh101,00,X,43
+play,8,0,meyec101,10,BX,63
+play,8,0,marqr102,00,,NP
+sub,johnj107,"Jimmy Johnston",0,9,11
+play,8,0,johnj107,21,.BBKX,S9
+com,"Debut game for Jimmy Johnston"
+play,8,0,myerh102,11,FBX,164(1)3/GDP
+play,8,1,shore101,00,,NP
+sub,pfefj101,"Jeff Pfeffer",0,9,1
+play,8,1,shore101,00,.X,7/F7D
+com,"Debut game for Jeff Pfeffer"
+play,8,1,hooph101,31,BKBBB,W
+play,8,1,janvh101,01,KX,S9.1-H(UR)(E9/TH3);B-2
+play,8,1,walkt101,30,BBBB,W
+play,8,1,hobld101,00,X,7
+play,8,1,lewid101,12,FKBX,64(1)/FO
+play,9,0,daubj101,30,BBBB,W
+play,9,0,stenc101,22,BKKFBX,S9.1-2
+play,9,0,wheaz101,00,X,15(2)/FO.1-2;B-1
+play,9,0,cutsg101,01,KH,HP.2-3;1-2
+play,9,0,mowrm101,12,BKKX,E4/G.3-H(RBI);2-H(NR);1-2
+play,9,0,olsoi101,10,BX,S5.2-3;1-2;B-1
+play,9,0,meyec101,02,KFX,3/P
+play,9,0,pfefj101,00,,NP
+sub,merkf101,"Fred Merkle",0,9,11
+play,9,0,merkf101,32,.BKBKBFB,W.3-H(UR);2-3;1-2;B-1
+play,9,0,myerh102,00,,NP
+sub,maysc101,"Carl Mays",1,9,1
+play,9,0,myerh102,00,,NP
+sub,thomp101,"Pinch Thomas",1,8,2
+play,9,0,myerh102,02,.KFX,S4.3-H(UR);2-3;1-2
+com,"Debut game for Carl Mays"
+com,"Debut game for Pinch Thomas"
+play,9,0,daubj101,21,FBBX,63
+data,er,marqr102,3
+data,er,pfefj101,0
+data,er,shore101,3
+data,er,maysc101,0
+id,BOS191610090
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,BRO
+info,hometeam,BOS
+info,date,1916/10/09
+info,site,BOS08
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,dinnb101
+info,ump1b,quige901
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,connt901
+info,umprf,odayh101
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1994/04/12 6:15AM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,152
+info,attendance,41373
+info,wp,ruthb101
+info,lp,smits102
+info,save,
+info,gwrbi,
+start,johnj107,"Jimmy Johnston",0,1,9
+start,daubj101,"Jake Daubert",0,2,3
+start,myerh102,"Hi Myers",0,3,8
+start,wheaz101,"Zach Wheat",0,4,7
+start,cutsg101,"George Cutshaw",0,5,4
+start,mowrm101,"Mike Mowrey",0,6,5
+start,olsoi101,"Ivy Olson",0,7,6
+start,millo103,"Otto Miller",0,8,2
+start,smits102,"Sherry Smith",0,9,1
+start,hooph101,"Harry Hooper",1,1,9
+start,janvh101,"Hal Janvrin",1,2,4
+start,walkt101,"Tilly Walker",1,3,8
+start,hobld101,"Doc Hoblitzel",1,4,3
+start,lewid101,"Duffy Lewis",1,5,7
+start,gardl101,"Larry Gardner",1,6,5
+start,scote101,"Everett Scott",1,7,6
+start,thomp101,"Pinch Thomas",1,8,2
+start,ruthb101,"Babe Ruth",1,9,1
+play,1,0,johnj107,32,KKBFFBBX,8/F8D
+play,1,0,daubj101,01,KX,5/FL
+play,1,0,myerh102,10,BX,HR8/89D/IPHR
+play,1,0,wheaz101,21,BFBX,9
+play,1,1,hooph101,22,KBKBX,13/G1
+com,"Debut game for Sherry Smith"
+play,1,1,janvh101,22,BKKBX,8/L
+play,1,1,walkt101,10,BX,3/FL
+play,2,0,cutsg101,00,X,153
+play,2,0,mowrm101,10,BX,4/L
+play,2,0,olsoi101,22,KKBBFK,K
+play,2,1,hobld101,01,KX,63
+play,2,1,lewid101,11,KBX,S8
+play,2,1,gardl101,00,1X,564(1)/FO
+com,"Manager Carrigan claimed a balk on PO throw but it was not allowed"
+play,2,1,scote101,21,F1BB+1,PO1(23)
+play,3,0,millo103,00,X,63
+com,"Debut game for Otto Miller"
+play,3,0,smits102,01,KX,D9/9DW.BX3(985)
+play,3,0,johnj107,32,KBBKBX,S8
+play,3,0,daubj101,11,BFB,CS2(24)
+play,3,1,scote101,21,BBKX,T8/78D
+play,3,1,thomp101,00,X,43
+play,3,1,ruthb101,00,X,43.3-H
+play,3,1,hooph101,00,X,E4/G.B-1
+play,3,1,janvh101,00,X,64(1)/FO
+play,4,0,daubj101,31,BBBKB,W
+play,4,0,myerh102,22,BFFBX,64(1)3/GDP
+play,4,0,wheaz101,12,KKBFX,13/G1
+play,4,1,walkt101,22,FBBFX,13
+play,4,1,hobld101,32,KBFBBB,W
+play,4,1,lewid101,21,BFBX,54(1)3/GDP
+play,5,0,cutsg101,02,FKK,K
+play,5,0,mowrm101,01,KX,43
+play,5,0,olsoi101,00,X,S7
+play,5,0,millo103,11,FBX,9
+play,5,1,gardl101,00,X,43
+play,5,1,scote101,10,BX,53
+play,5,1,thomp101,12,KBFFX,T7/7D/OBS
+com,"$Thomas awarded 3B by 1B umpire Quigley after"
+com,"Olson tripped Thomas rounding second base"
+play,5,1,ruthb101,02,KKK,K
+play,6,0,smits102,01,FX,63
+play,6,0,johnj107,30,BBBB,W
+play,6,0,daubj101,00,K,CS2(24)
+play,6,0,daubj101,12,K.KBX,53
+play,6,1,hooph101,22,FBFBX,8/8S
+com,"With count 1-1 on Hooper, Umpire Dineen had to order some photographers from the field"
+play,6,1,janvh101,00,X,8
+play,6,1,walkt101,01,KX,43
+play,7,0,myerh102,00,X,43
+play,7,0,wheaz101,32,KBBBKX,43
+play,7,0,cutsg101,01,FX,3/P
+play,7,1,hobld101,32,KBKBBB,W
+play,7,1,lewid101,00,X,13/SH.1-2
+play,7,1,gardl101,21,KBBX,6/P
+play,7,1,scote101,00,X,FC5/G.2X3(5)
+play,8,0,mowrm101,21,BKBX,S7
+play,8,0,olsoi101,10,BX,23/SH.1-2
+play,8,0,millo103,01,FX,S8.2-3;B-2(THH)
+play,8,0,smits102,01,KX,FC6/G.3XH(6251);2-3;B-2
+play,8,0,johnj107,10,BX,13
+play,8,1,thomp101,02,KFX,31
+play,8,1,ruthb101,22,BKFFBX,7
+play,8,1,hooph101,00,X,9/F9D
+play,9,0,daubj101,00,X,53
+play,9,0,myerh102,22,BBFKX,8/L
+play,9,0,wheaz101,00,X,31
+play,9,1,janvh101,00,X,D7
+play,9,1,walkt101,01,F,NP
+sub,walsj108,"Jimmy Walsh",1,3,11
+play,9,1,walsj108,01,F.X,FC1.2X3(1E5);B-1
+play,9,1,hobld101,10,BX,8/L/DP.3XH(82);1-2
+play,9,1,lewid101,30,IIII,IW
+play,9,1,gardl101,00,X,2/FL
+play,10,0,cutsg101,00,,NP
+sub,walsj108,"Jimmy Walsh",1,3,8
+play,10,0,cutsg101,00,X,43
+play,10,0,mowrm101,10,BX,563
+play,10,0,olsoi101,31,BBBKB,W
+play,10,0,millo103,00,X,5/L
+play,10,1,scote101,10,BX,S9
+play,10,1,thomp101,01,FX,43/SH.1-2
+play,10,1,ruthb101,12,KBKK,K
+play,10,1,hooph101,11,BFX,S5.2X3(56)
+play,11,0,smits102,00,X,53
+play,11,0,johnj107,32,BBBKKX,53
+play,11,0,daubj101,02,FKK,K
+play,11,1,janvh101,00,X,3/P
+play,11,1,walsj108,01,KX,3/FL
+play,11,1,hobld101,31,BBBKB,W
+play,11,1,lewid101,00,X,53
+play,12,0,myerh102,12,KKBK,K
+play,12,0,wheaz101,10,BX,5/P
+play,12,0,cutsg101,10,BX,63
+play,12,1,gardl101,00,X,7
+play,12,1,scote101,30,BBBB,W
+play,12,1,thomp101,22,KBFFBX,64(1)/FO
+play,12,1,ruthb101,10,BX,13/BG
+play,13,0,mowrm101,00,X,E5/TH1.B-1
+play,13,0,olsoi101,00,X,13/SH.1-2
+play,13,0,millo103,10,BX,2/P
+play,13,0,smits102,32,BBFFBX,7/F7S
+play,13,1,hooph101,00,X,13
+play,13,1,janvh101,12,BKKX,5/FL
+play,13,1,walsj108,01,KX,5/FL
+play,14,0,johnj107,22,BFBKX,63
+play,14,0,daubj101,00,X,8
+play,14,0,myerh102,11,BFX,63
+play,14,1,hobld101,31,BBBKB,W
+play,14,1,lewid101,00,X,14/SH.1-2
+play,14,1,gardl101,00,,NP
+sub,gaind101,"Del Gainer",1,6,11
+play,14,1,gaind101,10,B,NP
+sub,mcnam101,"Mike McNally",1,4,12
+play,14,1,gaind101,11,B.KX,S7.2-H
+com,"Debut game for Mike McNally"
+data,er,smits102,2
+data,er,ruthb101,1
+id,BRO191610100
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,BOS
+info,hometeam,BRO
+info,date,1916/10/10
+info,site,NYC15
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,odayh101
+info,ump1b,connt901
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,quige901
+info,umprf,dinnb101
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1994/04/13 3:12AM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,121
+info,attendance,21087
+info,wp,coomj101
+info,lp,maysc101
+info,save,pfefj101
+info,gwrbi,
+start,hooph101,"Harry Hooper",0,1,9
+start,janvh101,"Hal Janvrin",0,2,4
+start,shorc101,"Chick Shorten",0,3,8
+start,hobld101,"Doc Hoblitzel",0,4,3
+start,lewid101,"Duffy Lewis",0,5,7
+start,gardl101,"Larry Gardner",0,6,5
+start,scote101,"Everett Scott",0,7,6
+start,thomp101,"Pinch Thomas",0,8,2
+start,maysc101,"Carl Mays",0,9,1
+start,myerh102,"Hi Myers",1,1,8
+start,daubj101,"Jake Daubert",1,2,3
+start,stenc101,"Casey Stengel",1,3,9
+start,wheaz101,"Zach Wheat",1,4,7
+start,cutsg101,"George Cutshaw",1,5,4
+start,mowrm101,"Mike Mowrey",1,6,5
+start,olsoi101,"Ivy Olson",1,7,6
+start,millo103,"Otto Miller",1,8,2
+start,coomj101,"Jack Coombs",1,9,1
+play,1,0,hooph101,22,KKBBFX,7
+play,1,0,janvh101,10,BX,53
+play,1,0,shorc101,22,KBBFFX,S8
+com,"Debut game for Chick Shorten"
+play,1,0,hobld101,10,BX,S9.1X3(95)
+play,1,1,myerh102,02,KKFH,HP
+play,1,1,daubj101,10,BX,S1/BG1.1-2
+play,1,1,stenc101,00,X,13/SH.2-3;1-2
+play,1,1,wheaz101,30,IIII,IW
+play,1,1,cutsg101,00,X,32(3)/FO.2-3;1-2;B-1
+play,1,1,mowrm101,32,BKBFBC,K/C
+play,2,0,lewid101,11,BKX,8/F8S
+play,2,0,gardl101,10,BX,4/P
+play,2,0,scote101,00,X,7/F7D
+play,2,1,olsoi101,00,X,63
+play,2,1,millo103,02,KFK,K
+play,2,1,coomj101,11,KBX,63
+play,3,0,thomp101,22,KBBFX,4/P
+play,3,0,maysc101,22,KBBKC,K/C
+play,3,0,hooph101,10,BX,S8/L
+play,3,0,janvh101,00,B,CS2(24)
+play,3,1,myerh102,01,KX,63
+play,3,1,daubj101,12,FBKFFFFX,S9
+play,3,1,stenc101,00,X,S7/G5.1-2
+play,3,1,wheaz101,01,FX,7/L
+play,3,1,cutsg101,21,KBBX,S9.2-H;1-3;B-2(THH)
+play,3,1,mowrm101,00,X,63
+play,4,0,janvh101,01,FX,9
+play,4,0,shorc101,12,KBFX,S7
+play,4,0,hobld101,00,K,CS2(26)
+play,4,0,hobld101,11,K.BX,8
+play,4,1,olsoi101,00,X,S5/BG.B-2(E5/TH1)
+play,4,1,millo103,11,BFX,14/SH.2-3
+play,4,1,coomj101,00,X,S9.3-H
+play,4,1,myerh102,00,X,13/SH.1-2
+play,4,1,daubj101,21,BBFX,63
+play,5,0,lewid101,22,KBFBX,7/L
+play,5,0,gardl101,32,KBBBKX,5/P
+play,5,0,scote101,01,KX,13/G1
+play,5,1,stenc101,32,BFFBBX,5/FL
+play,5,1,wheaz101,31,BBKBB,W
+play,5,1,cutsg101,21,KBBX,13/G1.1-2
+play,5,1,mowrm101,32,BBKBKB,W
+play,5,1,olsoi101,00,X,T7/7D.2-H;1-H
+play,5,1,millo103,00,X,63
+play,6,0,thomp101,01,KX,63
+play,6,0,maysc101,00,,NP
+sub,henro101,"Olaf Henriksen",0,9,11
+play,6,0,henro101,30,.BBBB,W
+play,6,0,hooph101,01,KX,T8/89D.1-H
+play,6,0,janvh101,10,BX,4/P
+play,6,0,shorc101,01,KX,S8.3-H
+play,6,0,hobld101,21,KBBX,13/G1
+play,6,1,coomj101,00,,NP
+sub,fostr103,"Rube Foster",0,9,1
+play,6,1,coomj101,32,.BKBBKX,6/L
+play,6,1,myerh102,22,KFBBX,5/P
+play,6,1,daubj101,10,BX,T7/7D.BXH(762)
+play,7,0,lewid101,11,KBX,3/G
+play,7,0,gardl101,21,KBBX,HR/9D
+play,7,0,scote101,00,,NP
+sub,pfefj101,"Jeff Pfeffer",1,9,1
+play,7,0,scote101,11,.KBX,8/F8D
+play,7,0,thomp101,32,BBKFBFK,K
+play,7,1,stenc101,12,KBFX,9
+play,7,1,wheaz101,00,X,S9
+play,7,1,cutsg101,01,KB,SB2.1-2(WP)
+play,7,1,cutsg101,12,KB.FX,3/P34D
+play,7,1,mowrm101,01,KX,13/G1
+play,8,0,fostr103,32,KBKBBK,K
+play,8,0,hooph101,12,KBFFX,13/G1
+play,8,0,janvh101,02,KKK,K
+play,8,1,olsoi101,00,X,13/G1
+play,8,1,millo103,12,BFFFFX,31
+play,8,1,pfefj101,00,X,S9/9D
+play,8,1,myerh102,22,KKBBK,K
+play,9,0,shorc101,21,BBKX,7/FL
+play,9,0,hobld101,11,KBX,63
+play,9,0,lewid101,10,BX,9
+data,er,maysc101,4
+data,er,fostr103,0
+data,er,coomj101,3
+data,er,pfefj101,0
+id,BRO191610110
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,BOS
+info,hometeam,BRO
+info,date,1916/10/11
+info,site,NYC15
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,quige901
+info,ump1b,dinnb101
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,odayh101
+info,umprf,connt901
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1994/04/13 3:35AM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,150
+info,attendance,21662
+info,wp,leond102
+info,lp,marqr102
+info,save,
+info,gwrbi,
+start,hooph101,"Harry Hooper",0,1,9
+start,janvh101,"Hal Janvrin",0,2,4
+start,walkt101,"Tilly Walker",0,3,8
+start,hobld101,"Doc Hoblitzel",0,4,3
+start,lewid101,"Duffy Lewis",0,5,7
+start,gardl101,"Larry Gardner",0,6,5
+start,scote101,"Everett Scott",0,7,6
+start,carrb101,"Bill Carrigan",0,8,2
+start,leond102,"Dutch Leonard",0,9,1
+start,johnj107,"Jimmy Johnston",1,1,9
+start,myerh102,"Hi Myers",1,2,8
+start,merkf101,"Fred Merkle",1,3,3
+start,wheaz101,"Zach Wheat",1,4,7
+start,cutsg101,"George Cutshaw",1,5,4
+start,mowrm101,"Mike Mowrey",1,6,5
+start,olsoi101,"Ivy Olson",1,7,6
+start,meyec101,"Chief Meyers",1,8,2
+start,marqr102,"Rube Marquard",1,9,1
+play,1,0,hooph101,22,BBKKX,13/G1
+play,1,0,janvh101,32,KBBFBK,K
+play,1,0,walkt101,12,BKKC,K/C
+play,1,1,johnj107,00,X,T8/89D
+play,1,1,myerh102,02,KKX,S9.3-H
+play,1,1,merkf101,31,BBFBB,W.1-2
+play,1,1,wheaz101,01,KX,54(1)/FO.2-3
+play,1,1,cutsg101,00,B,WP.1-2
+play,1,1,cutsg101,32,B.BKFBX,E4/G.3-H(UR)(NR);2-3;B-1
+play,1,1,mowrm101,21,BBFK,CSH(245).1-2
+com,"attempted double steal, Wheat caught off third"
+play,1,1,mowrm101,32,BBFK.FBFK,K
+play,2,0,hobld101,32,BKBKBB,W
+play,2,0,lewid101,21,BKBX,D9/9D.1-3
+play,2,0,gardl101,32,BBBKKFFX,HR/78D/IPHR.3-H;2-H
+play,2,0,scote101,00,X,E7/F.B-2
+play,2,0,carrb101,11,BKX,13/SH.2-3
+play,2,0,leond102,12,BKFK,K
+play,2,0,hooph101,11,BKX,3/G
+play,2,1,olsoi101,01,FX,53
+play,2,1,meyec101,32,KBFBBB,W
+play,2,1,marqr102,00,X,13.1-2
+play,2,1,johnj107,00,X,63
+play,3,0,janvh101,00,X,43
+play,3,0,walkt101,22,BKBKX,S5
+play,3,0,hobld101,32,BKFFBBX,8/L
+play,3,0,lewid101,00,B,CS2(24)
+play,3,1,myerh102,10,BX,8
+play,3,1,merkf101,01,FX,6/F56D
+play,3,1,wheaz101,00,X,7
+play,4,0,lewid101,22,KFBBX,S7
+play,4,0,gardl101,00,X,53/SH.1-2
+play,4,0,scote101,00,X,53
+play,4,0,carrb101,21,BBKX,S8.2-H
+play,4,0,leond102,31,BBBKB,W.1-2
+play,4,0,hooph101,00,B,OA.2-3;1X2(234)
+com,"$Leonard broke for second when the pitch got away from"
+com,"Meyers but Carrigan remained at second;  Meyers threw"
+com,"behind the retreating Leonard who was out in rundown"
+play,4,1,cutsg101,11,BKX,D9
+play,4,1,mowrm101,30,BBBB,W
+play,4,1,olsoi101,01,KX,3/BP
+play,4,1,meyec101,32,BKBKBFFFX,6/P6D
+play,4,1,marqr102,00,,NP
+sub,pfefj101,"Jeff Pfeffer",1,9,11
+play,4,1,pfefj101,22,.BKBFK,K
+play,5,0,hooph101,00,,NP
+sub,chenl101,"Larry Cheney",1,9,1
+play,5,0,hooph101,31,.BBKBB,W
+com,"Debut game for Larry Cheney"
+play,5,0,janvh101,32,FBBBKK,K+SB2.1-2(PB)
+com,"Hooper went to second on a short passed ball"
+play,5,0,walkt101,00,X,6/P
+play,5,0,hobld101,00,X,D7.2-H
+play,5,0,lewid101,12,KBKK,K
+play,5,1,johnj107,12,KBFX,7
+play,5,1,myerh102,12,KFBX,9
+play,5,1,merkf101,10,BX,S8
+play,5,1,wheaz101,00,X,S7.1-2
+play,5,1,cutsg101,32,BBKBKX,7
+play,6,0,gardl101,22,KBBKK,K
+play,6,0,scote101,22,KBBKK,K
+play,6,0,carrb101,01,KX,S7
+play,6,0,leond102,22,BBKFK,K
+play,6,1,mowrm101,12,BKFX,7
+play,6,1,olsoi101,10,BX,63
+play,6,1,meyec101,12,BKFX,3/P
+play,7,0,hooph101,12,BKFX,S7
+play,7,0,janvh101,00,X,56(1)/FO/BG
+play,7,0,walkt101,00,X,63.1-2
+play,7,0,hobld101,01,FX,S1.2-H(UR)(E1/TH1)
+play,7,0,lewid101,00,X,54(1)/FO
+play,7,1,chenl101,00,,NP
+sub,omaro101,"Ollie O'Mara",1,9,11
+play,7,1,omaro101,32,KBKBBK,K
+com,"Debut game for Ollie O'Mara"
+play,7,1,johnj107,10,BX,7/F7D
+play,7,1,myerh102,00,X,9
+play,8,0,gardl101,00,,NP
+sub,ruckn101,"Nap Rucker",1,9,1
+play,8,0,gardl101,22,FFBBX,43
+com,"Debut game for Nap Rucker"
+play,8,0,scote101,00,F,FLE3
+play,8,0,scote101,32,F.KBBBX,63
+play,8,0,carrb101,12,BKKC,K/C
+play,8,1,merkf101,11,BKX,63
+play,8,1,wheaz101,00,X,8
+play,8,1,cutsg101,12,KFBX,9/L
+play,9,0,leond102,12,KBKC,K/C
+play,9,0,hooph101,00,X,S9.B-2(E9)
+play,9,0,janvh101,11,KBB,CS3(25)
+play,9,0,janvh101,22,KBB.KC,K/C
+play,9,1,mowrm101,01,FX,7
+play,9,1,olsoi101,31,BBBKB,W
+play,9,1,meyec101,21,BBKX,46(1)/FO
+play,9,1,ruckn101,00,,NP
+sub,stenc101,"Casey Stengel",1,8,12
+play,9,1,ruckn101,00,.,NP
+sub,getzg101,"Gus Getz",1,9,11
+play,9,1,getzg101,02,..KFFX,53
+com,"Debut game for Gus Getz"
+data,er,leond102,1
+data,er,marqr102,4
+data,er,chenl101,1
+data,er,ruckn101,0
+id,BOS191610120
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,BRO
+info,hometeam,BOS
+info,date,1916/10/12
+info,site,BOS08
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,worldseries
+info,umphome,connt901
+info,ump1b,odayh101
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,dinnb101
+info,umprf,quige901
+info,scorer,"Cohen/Neft"
+info,translator,"John Booth"
+info,inputter,"John Booth"
+info,inputtime,1994/04/13 3:56AM
+info,howscored,unknown
+info,pitches,pitches
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,103
+info,attendance,42620
+info,wp,shore101
+info,lp,pfefj101
+info,save,
+info,gwrbi,
+start,myerh102,"Hi Myers",0,1,8
+start,daubj101,"Jake Daubert",0,2,3
+start,stenc101,"Casey Stengel",0,3,9
+start,wheaz101,"Zach Wheat",0,4,7
+start,cutsg101,"George Cutshaw",0,5,4
+start,mowrm101,"Mike Mowrey",0,6,5
+start,olsoi101,"Ivy Olson",0,7,6
+start,meyec101,"Chief Meyers",0,8,2
+start,pfefj101,"Jeff Pfeffer",0,9,1
+start,hooph101,"Harry Hooper",1,1,9
+start,janvh101,"Hal Janvrin",1,2,4
+start,shorc101,"Chick Shorten",1,3,8
+start,hobld101,"Doc Hoblitzel",1,4,3
+start,lewid101,"Duffy Lewis",1,5,7
+start,gardl101,"Larry Gardner",1,6,5
+start,scote101,"Everett Scott",1,7,6
+start,cadyh101,"Hick Cady",1,8,2
+start,shore101,"Ernie Shore",1,9,1
+play,1,0,myerh102,02,KKC,K/C
+play,1,0,daubj101,22,BKBFX,23
+play,1,0,stenc101,20,BBX,E6/TH
+play,1,0,wheaz101,10,BX,3/FL
+play,1,1,hooph101,32,KFBBBX,43
+play,1,1,janvh101,01,KX,53
+play,1,1,shorc101,21,BBKX,7/F7S
+play,2,0,cutsg101,30,BBBB,W
+play,2,0,mowrm101,00,X,31/SH.1-2
+play,2,0,olsoi101,00,X,53.2-3
+play,2,0,meyec101,00,B,PB.3-H(UR)
+play,2,0,meyec101,21,B.KBX,63
+play,2,1,hobld101,32,BBKFBX,13
+play,2,1,lewid101,12,KKBX,T7
+play,2,1,gardl101,00,X,7/SF/F7S.3-H
+play,2,1,scote101,10,BF,FLE5
+play,2,1,scote101,12,BF.KFX,2/FL
+play,3,0,pfefj101,12,BKFK,K
+play,3,0,myerh102,00,X,53
+play,3,0,daubj101,00,X,13/G1
+play,3,1,cadyh101,00,X,S9/L
+play,3,1,shore101,11,FB1X,2/BP/FL
+play,3,1,hooph101,30,BBBB,W.1-2
+play,3,1,janvh101,12,KFBX,E6/G.2-H(UR)(E6/TH2);1-3;B-1
+play,3,1,shorc101,02,KKB,CS2(26)
+play,3,1,shorc101,22,KKB.BX,S8.3-H(UR)
+play,3,1,hobld101,02,KFF,CS2(26)
+play,4,0,stenc101,11,BKX,8
+play,4,0,wheaz101,12,KKBK,K
+play,4,0,cutsg101,11,BKX,13
+play,4,1,hobld101,30,BBBB,W
+play,4,1,lewid101,00,X,34/SH.1-2
+play,4,1,gardl101,11,BFX,43.2-3
+play,4,1,scote101,01,KX,63
+play,5,0,mowrm101,22,KKBBX,53
+play,5,0,olsoi101,22,KFFBBX,8
+play,5,0,meyec101,10,BX,S1/G
+play,5,0,pfefj101,01,FX,53
+play,5,1,cadyh101,11,KBX,63
+play,5,1,shore101,10,BX,7/L
+play,5,1,hooph101,00,X,S9
+play,5,1,janvh101,00,X,D8.1-H
+play,5,1,shorc101,02,FKB,WP.2-3
+play,5,1,shorc101,22,FKB.BK,K
+play,6,0,myerh102,00,X,8/F78S
+play,6,0,daubj101,11,KBX,53
+play,6,0,stenc101,12,BFFX,6/P
+play,6,1,hobld101,32,KKBBBX,3/G
+play,6,1,lewid101,11,BFX,S7
+play,6,1,gardl101,11,BKX,64(1)/FO
+play,6,1,scote101,11,BFB,WP.1-2
+play,6,1,scote101,21,BFB.X,53
+play,7,0,wheaz101,00,X,9
+play,7,0,cutsg101,01,KX,13/G1
+play,7,0,mowrm101,11,KBX,S7
+play,7,0,olsoi101,01,FX,E6/TH1.1-3;B-2
+play,7,0,meyec101,00,X,63
+play,7,1,cadyh101,01,KX,5/FL
+play,7,1,shore101,12,BKKK,K
+play,7,1,hooph101,00,X,43
+play,8,0,pfefj101,00,,NP
+sub,merkf101,"Fred Merkle",0,9,11
+play,8,0,merkf101,10,.BX,7/F7D
+play,8,0,myerh102,00,X,1/BP
+play,8,0,daubj101,12,KBFX,63
+play,8,1,janvh101,00,,NP
+sub,dellw101,"Wheezer Dell",0,9,1
+play,8,1,janvh101,00,.X,S7/L
+com,"Debut game for Wheezer Dell"
+play,8,1,shorc101,21,BBKX,53/SH.1-2
+play,8,1,hobld101,32,KBKBFBX,7/L
+play,8,1,lewid101,22,BBKKX,7
+play,9,0,stenc101,00,X,S7/78
+play,9,0,wheaz101,12,KKBK,K
+play,9,0,cutsg101,10,BX,43.1-2
+play,9,0,mowrm101,01,KX,6/P
+data,er,pfefj101,2
+data,er,dellw101,0
+data,er,shore101,0
