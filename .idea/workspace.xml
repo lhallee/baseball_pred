@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b109f2e-312b-467a-bfca-2d73a923459d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/missing_players.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/player_list.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/player_list_2022.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grabber.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Grabber.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_data/gl2021.txt" beforeDir="false" afterPath="$PROJECT_DIR$/game_data/gl2021.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mld_pred.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mld_pred.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/player_data/mlb-player-stats-Batters_2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/player_data/mlb-player-stats-Batters_2021.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/player_data/mlb-player-stats-P_2021.csv" beforeDir="false" afterPath="$PROJECT_DIR$/player_data/mlb-player-stats-P_2021.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,13 +28,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702529696386</updated>
       <workItem from="1702529699039" duration="25000" />
+      <workItem from="1702863109018" duration="44000" />
     </task>
     <servers />
   </component>
