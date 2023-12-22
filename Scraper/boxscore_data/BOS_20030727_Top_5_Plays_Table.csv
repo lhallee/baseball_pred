@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b7,0-3,1,12-,"3,(1-1) .CBX",RRR,BOS,Jason Varitek,Chris Hammond,35%,55%,Home Run (Fly Ball to Deep LF); Nixon Scores; Mueller Scores
+b7,3-3,1,---,"7,(3-2) BBCFBFX",R,BOS,Johnny Damon,Chris Hammond,21%,76%,Home Run (Fly Ball to Deep RF)
+b7,4-3,2,12-,"2,(1-0) BX",RR,BOS,David Ortiz,Jesse Orosco,16%,93%,Triple to RF (Fly Ball to Deep RF); Jackson Scores/unER; Ramirez Scores/Team unER
+t3,1-0,2,12-,"2,(1-0) BX",R,NYY,Hideki Matsui,Derek Lowe,-10%,31%,Single to CF (Line Drive); Jeter Scores; Williams to 2B
+t1,0-0,2,---,"3,(1-1) CBX",R,NYY,Jason Giambi,Derek Lowe,-9%,45%,Home Run (Fly Ball to Deep CF)

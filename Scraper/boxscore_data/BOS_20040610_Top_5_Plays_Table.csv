@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b4,1-1,0,1--,"2,(1-0) BX",RR,BOS,Manny Ramirez,Ismael Valdez,17%,77%,Home Run (Fly Ball to LF-CF); Ortiz Scores
+b3,0-1,1,---,"4,(1-2) BFFX",R,BOS,Pokey Reese,Ismael Valdez,11%,53%,Home Run (Fly Ball to LF-CF)
+b5,3-1,0,12-,"2,(0-1) CX",R,BOS,Kevin Youkilis,Ismael Valdez,7%,93%,Double to LF (Line Drive); Reese Scores; Damon to 3B
+b5,4-1,1,123,"5,(2-2) BFBFX",RR,BOS,Nomar Garciaparra,Brandon Puffer,6%,97%,Double to LF (Fly Ball); Damon Scores; Youkilis Scores; Ramirez to 3B
+t5,1-3,2,12-,"1,(0-0) X",O,SDP,Mark Loretta,Curt Schilling,6%,80%,Groundout: 3B unassisted/Forceout at 3B

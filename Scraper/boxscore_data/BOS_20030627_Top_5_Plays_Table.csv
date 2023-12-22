@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b1,1-1,0,-23,"1,(0-0) X",RRR,BOS,Manny Ramirez,Carl Pavano,12%,79%,Home Run (Fly Ball to Deep LF); Walker Scores; Garciaparra Scores
+b1,1-1,0,1--,"2,(0-1) SX",,BOS,Nomar Garciaparra,Carl Pavano,9%,68%,Double to CF (Fly Ball to Deep LF); Walker to 3B
+t1,0-0,1,-2-,"6,(1-2) 2BF2FFFX",R,FLA,Ivan Rodriguez,Byung-Hyun Kim,-8%,41%,Single to CF (Line Drive); Pierre Scores
+b1,0-1,0,-2-,"6,(3-2) FBFBBX",R,BOS,Todd Walker,Carl Pavano,7%,58%,Single to CF (Line Drive); Damon Scores
+b1,0-1,0,---,"6,(2-2) CCBBFX",,BOS,Johnny Damon,Carl Pavano,6%,52%,Double to RF (Ground Ball thru Deep 1B)

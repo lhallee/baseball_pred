@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b1,0-0,2,-2-,"2,(0-1) CX",R,BOS,Nomar Garciaparra,Ted Lilly,9%,63%,Double to CF (Line Drive to LF-CF); Damon Scores
+t5,0-1,0,---,"3,(0-2) CSX",,NYY,Jorge Posada,Pedro Martinez,-8%,55%,Double to LF (Line Drive to LF-CF)
+b5,2-0,2,-2-,"5,(2-2) SCBBX",R,BOS,Rickey Henderson,Ted Lilly,7%,86%,Single to RF (Line Drive to Short RF); Sanchez Scores
+t6,0-3,1,1--,"1,(0-0) X",,NYY,Derek Jeter,Pedro Martinez,-6%,79%,Single to RF (Line Drive); Johnson to 3B
+t5,0-1,0,-2-,"1,(0-0) X",O,NYY,Robin Ventura,Pedro Martinez,6%,61%,Popfly: 2B

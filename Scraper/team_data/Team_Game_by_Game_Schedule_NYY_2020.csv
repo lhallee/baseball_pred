@@ -1,0 +1,64 @@
+﻿Gm#,Date,Unnamed: 2,Tm,Unnamed: 4,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled
+1,"Thursday, Jul 23",boxscore,NYY,@,WSN,W,4,1,6,1-0,1,up 0.5,Cole,Scherzer,,1:43,N,,1.07,+,
+2,"Saturday, Jul 25",boxscore,NYY,@,WSN,L,2,9,,1-1,1,Tied,Rainey,Paxton,,3:13,N,,1.06,-,
+3,"Sunday, Jul 26",boxscore,NYY,@,WSN,W,3,2,,2-1,1,Tied,Green,Doolittle,Britton,3:07,D,,1.09,+,
+4,"Wednesday, Jul 29",boxscore,NYY,@,BAL,W,9,3,,3-1,1,Tied,Cole,Wojciechowski,,3:12,N,,1.19,++,2020-08-03 (Schedule change (Covid))
+5,"Thursday, Jul 30",boxscore,NYY,@,BAL,W,8,6,,4-1,1,up 1.0,Loáisiga,Sulser,Britton,3:06,N,,1.20,+++,2020-08-04 (Schedule change (Covid))
+6,"Friday, Jul 31",boxscore,NYY,,BOS,W,5,1,,5-1,1,up 2.0,Montgomery,Weber,,3:08,N,,1.16,++++,
+Gm#,August,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled
+7,"Saturday, Aug 1",boxscore,NYY,,BOS,W,5,2,,6-1,1,up 2.0,Nelson,Godley,Hale,3:07,N,,1.10,+++++,
+8,"Sunday, Aug 2",boxscore,NYY,,BOS,W,9,7,,7-1,1,up 2.0,Ottavino,Barnes,Britton,3:12,N,,1.03,++++++,
+9,"Monday, Aug 3",boxscore,NYY,,PHI,W,6,3,,8-1,1,up 2.5,Cole,Arrieta,Britton,3:00,N,,.86,+++++++,2020-07-29 (Schedule change (Covid))
+10,"Wednesday, Aug 5 (1)",boxscore,NYY,@,PHI,L,7,11,7,8-2,1,up 4.0,Wheeler,Happ,Neris,2:44,D,,.79,-,2020-07-27 (Covid; (Game2))
+11,"Wednesday, Aug 5 (2)",boxscore,NYY,@,PHI,W,3,1,7,9-2,1,up 4.0,Ottavino,Hunter,Britton,2:38,D,,.87,+,2020-07-30 (Schedule change (Covid); Tropical storm Isaisas; Played at PHI; NYA was home team; (Game1))
+12,"Thursday, Aug 6",boxscore,NYY,@,PHI,L,4,5,,9-3,1,up 4.0,Guerra,Montgomery,Neris,3:22,N,,.74,-,2020-07-28 (Covid)
+13,"Friday, Aug 7",boxscore,NYY,@,TBR,L,0,1,,9-4,1,up 3.0,Roe,Ottavino,,2:52,N,,.93,--,
+14,"Saturday, Aug 8 (1)",boxscore,NYY,@,TBR,W,8,4,7,10-4,1,up 2.5,Green,Glasnow,,2:52,D,,1.02,+,2020-08-06 (Schedule change (Covid); (Game2))
+15,"Saturday, Aug 8 (2)",boxscore,NYY,@,TBR,L,3,5,7,10-5,1,up 2.5,Fairbanks,King,Anderson,2:47,D,,.90,-,
+16,"Sunday, Aug 9",boxscore,NYY,@,TBR,L-wo,3,4,,10-6,1,up 1.5,Thompson,Britton,,3:08,D,,1.03,--,
+17,"Tuesday, Aug 11",boxscore,NYY,,ATL,W,9,6,,11-6,1,up 1.5,Montgomery,Toussaint,Britton,3:18,N,,1.03,+,
+18,"Wednesday, Aug 12",boxscore,NYY,,ATL,W,6,3,,12-6,1,up 1.5,Loáisiga,Matzek,Britton,3:40,N,,.97,++,
+19,"Friday, Aug 14",boxscore,NYY,,BOS,W,10,3,,13-6,1,up 2.0,Cole,Brewer,,3:35,N,,.97,+++,
+20,"Saturday, Aug 15",boxscore,NYY,,BOS,W,11,5,,14-6,1,up 2.0,Paxton,Eovaldi,,3:05,N,,.89,++++,
+21,"Sunday, Aug 16",boxscore,NYY,,BOS,W,4,2,,15-6,1,up 2.0,Happ,Mazza,Britton,3:06,N,,.79,+++++,
+22,"Monday, Aug 17",boxscore,NYY,,BOS,W,6,3,,16-6,1,up 2.5,King,Pérez,,2:46,N,,.66,++++++,
+23,"Tuesday, Aug 18",boxscore,NYY,,TBR,L,3,6,,16-7,1,up 1.5,Snell,Tanaka,Roe,3:15,N,,.66,-,
+24,"Wednesday, Aug 19",boxscore,NYY,,TBR,L,2,4,,16-8,1,up 0.5,Fairbanks,Britton,Beeks,3:12,N,,.76,--,
+25,"Thursday, Aug 20",boxscore,NYY,,TBR,L,5,10,,16-9,2,0.5,Castillo,Ottavino,,3:25,D,,.84,---,
+26,"Wednesday, Aug 26 (1)",boxscore,NYY,@,ATL,L,1,5,7,16-10,2,2.5,Anderson,Cole,,2:05,D,,.84,----,2020-08-25 (Rain; (Game2))
+27,"Wednesday, Aug 26 (2)",boxscore,NYY,@,ATL,L,1,2,7,16-11,2,2.5,Fried,Green,Melancon,1:58,N,,.93,-----,
+28,"Friday, Aug 28 (1)",boxscore,NYY,,NYM,L,4,6,7,16-12,2,4.0,Lockett,Green,Díaz,2:30,D,,1.04,------,2020-08-21 (Covid; Played at NYA; NYN was home team; (Game 2))
+29,"Friday, Aug 28 (2)",boxscore,NYY,,NYM,L-wo,3,4,7,16-13,2,4.0,Hughes,Chapman,,2:23,N,,1.12,-------,
+30,"Saturday, Aug 29",boxscore,NYY,,NYM,W-wo,2,1,,17-13,2,4.0,Chapman,Betances,,3:00,D,,1.18,+,
+31,"Sunday, Aug 30 (1)",boxscore,NYY,,NYM,W-wo,8,7,8,18-13,2,3.5,Green,Díaz,,3:22,D,,1.13,++,2020-08-22 (Covid; Played at NYA; NYN was home team; (Game 2))
+32,"Sunday, Aug 30 (2)",boxscore,NYY,,NYM,W,5,2,8,19-13,2,3.5,Holder,Smith,Cessa,2:45,N,,1.08,+++,
+33,"Monday, Aug 31",boxscore,NYY,,TBR,L,3,5,,19-14,2,4.5,Glasnow,Cole,Castillo,3:21,N,,1.10,-,
+Gm#,September,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled
+34,"Tuesday, Sep 1",boxscore,NYY,,TBR,W,5,3,,20-14,2,3.5,Tanaka,Thompson,Chapman,2:39,N,,1.18,+,
+35,"Wednesday, Sep 2",boxscore,NYY,,TBR,L,2,5,,20-15,2,4.5,Curtiss,Montgomery,,3:45,N,,1.15,-,
+36,"Thursday, Sep 3",boxscore,NYY,@,NYM,L-wo,7,9,10,20-16,2,5.0,Díaz,Abreu,,4:00,D,,1.10,--,2020-08-23 (Covid)
+37,"Friday, Sep 4 (1)",boxscore,NYY,@,BAL,W,6,5,9,21-16,2,5.5,Holder,Lakins,Green,3:37,N,,1.39,+,2020-08-05 (Schedule change (Covid); (Game2))
+38,"Friday, Sep 4 (2)",boxscore,NYY,@,BAL,L,3,6,7,21-17,2,5.5,López,García,Valdez,2:31,N,,1.24,-,
+39,"Saturday, Sep 5",boxscore,NYY,@,BAL,L,1,6,,21-18,2,5.5,Tate,Cole,,2:47,N,,1.37,--,
+40,"Sunday, Sep 6",boxscore,NYY,@,BAL,L,1,5,,21-19,3,6.5,Kremer,Tanaka,,3:02,D,,1.52,---,
+41,"Monday, Sep 7",boxscore,NYY,@,TOR,L,7,12,,21-20,3,6.5,Reid-Foley,Ottavino,,4:02,N,,1.55,----,2020-09-07 (Played at Buffalo)
+42,"Tuesday, Sep 8",boxscore,NYY,@,TOR,L,1,2,,21-21,3,6.5,Yamaguchi,Happ,Dolis,3:00,N,,1.52,-----,2020-09-08 (Played at Buffalo)
+43,"Wednesday, Sep 9",boxscore,NYY,@,TOR,W,7,2,,22-21,3,6.0,García,Stripling,,3:04,N,,1.54,+,2020-09-09 (Played at Buffalo)
+44,"Friday, Sep 11 (1)",boxscore,NYY,,BAL,W,6,0,7,23-21,3,5.0,Cole,Cobb,,2:02,D,,1.91,++,2020-09-10 (Rain; (Game2))
+45,"Friday, Sep 11 (2)",boxscore,NYY,,BAL,W,10,1,7,24-21,3,5.0,Tanaka,Akin,,2:40,N,,1.76,+++,
+46,"Saturday, Sep 12",boxscore,NYY,,BAL,W-wo,2,1,10,25-21,3,5.0,Holder,Harvey,,3:11,D,,1.45,++++,
+47,"Sunday, Sep 13",boxscore,NYY,,BAL,W,3,1,,26-21,3,4.0,Britton,Tate,Chapman,2:44,D,,1.09,+++++,
+48,"Tuesday, Sep 15",boxscore,NYY,,TOR,W,20,6,,27-21,2,4.0,García,Walker,,3:12,N,,.81,++++++,
+49,"Wednesday, Sep 16",boxscore,NYY,,TOR,W,13,2,,28-21,2,3.0,Cole,Roark,,3:02,N,,.62,+++++++,
+50,"Thursday, Sep 17",boxscore,NYY,,TOR,W,10,7,,29-21,2,3.5,Tanaka,Anderson,Chapman,3:19,N,,.58,++++++++,
+51,"Friday, Sep 18",boxscore,NYY,@,BOS,W,6,5,12,30-21,2,3.5,Loáisiga,Weber,,4:55,N,,.53,+++++++++,
+52,"Saturday, Sep 19",boxscore,NYY,@,BOS,W,8,0,,31-21,2,3.5,Happ,Mazza,,2:59,N,,.52,++++++++++,
+53,"Sunday, Sep 20",boxscore,NYY,@,BOS,L,2,10,,31-22,2,3.5,Houck,García,,3:22,D,,.55,-,
+54,"Monday, Sep 21",boxscore,NYY,@,TOR,L,5,11,,31-23,2,4.5,Zeuch,King,,3:56,N,,.51,--,2020-09-21 (Played at Buffalo)
+55,"Tuesday, Sep 22",boxscore,NYY,@,TOR,W,12,1,,32-23,2,3.5,Cole,Roark,,3:29,N,,.45,+,2020-09-22 (Played at Buffalo)
+56,"Wednesday, Sep 23",boxscore,NYY,@,TOR,L,1,14,,32-24,2,4.5,Cole,Tanaka,Stripling,3:39,N,,.55,-,2020-09-23 (Played at Buffalo)
+57,"Thursday, Sep 24",boxscore,NYY,@,TOR,L,1,4,,32-25,2,5.0,Ryu,Montgomery,Dolis,3:11,N,,.32,--,2020-09-24 (Played at Buffalo)
+58,"Friday, Sep 25",boxscore,NYY,,MIA,L,3,4,10,32-26,2,6.0,Boxberger,Green,Kintzler,3:20,N,,.25,---,
+59,"Saturday, Sep 26",boxscore,NYY,,MIA,W,11,4,,33-26,2,6.0,García,Tarpley,,3:20,D,,.18,+,
+60,"Sunday, Sep 27",boxscore,NYY,,MIA,L,0,5,,33-27,2,7.0,Castano,Schmidt,,3:05,D,,.11,-,
+Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled

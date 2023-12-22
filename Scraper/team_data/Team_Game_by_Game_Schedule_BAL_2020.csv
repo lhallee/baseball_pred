@@ -1,0 +1,64 @@
+﻿Gm#,Date,Unnamed: 2,Tm,Unnamed: 4,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled
+1,"Friday, Jul 24",boxscore,BAL,@,BOS,L,2,13,,0-1,4,1.0,Eovaldi,Milone,,3:18,N,,1.19,-,
+2,"Saturday, Jul 25",boxscore,BAL,@,BOS,W,7,2,,1-1,1,Tied,Cobb,Pérez,,3:01,D,,1.16,+,
+3,"Sunday, Jul 26",boxscore,BAL,@,BOS,W,7,4,,2-1,1,Tied,LeBlanc,Weber,Sulser,3:13,D,,1.21,++,
+4,"Wednesday, Jul 29",boxscore,BAL,,NYY,L,3,9,,2-2,3,1.0,Cole,Wojciechowski,,3:12,N,,1.19,-,2020-08-03 (Schedule change (Covid))
+5,"Thursday, Jul 30",boxscore,BAL,,NYY,L,6,8,,2-3,3,2.0,Loáisiga,Sulser,Britton,3:06,N,,1.21,--,2020-08-04 (Schedule change (Covid))
+6,"Friday, Jul 31",boxscore,BAL,,TBR,W,6,3,,3-3,2,2.0,Fry,Fairbanks,Sulser,3:36,N,,1.22,+,
+Gm#,August,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled
+7,"Saturday, Aug 1",boxscore,BAL,,TBR,W-wo,5,4,11,4-3,2,2.0,Lakins,Drake,,3:50,N,,1.22,++,
+8,"Sunday, Aug 2",boxscore,BAL,,TBR,W,5,1,,5-3,2,2.0,Phillips,Beeks,Sulser,2:56,D,,1.25,+++,
+9,"Tuesday, Aug 4",boxscore,BAL,,MIA,L,0,4,,5-4,2,3.0,López,Means,,2:38,N,,1.10,-,2020-07-29 (Covid)
+10,"Wednesday, Aug 5 (1)",boxscore,BAL,,MIA,L,0,1,7,5-5,2,4.0,Vincent,Cobb,Kintzler,2:19,N,,1.10,--,2020-07-27 (Covid; Played at BAL; MIA was home team (Game2))
+11,"Wednesday, Aug 5 (2)",boxscore,BAL,,MIA,L,1,2,7,5-6,2,4.0,Moran,Wojciechowski,Tarpley,2:06,D,,1.13,---,2020-07-30 (Covid; (Game1))
+12,"Thursday, Aug 6",boxscore,BAL,,MIA,L,7,8,,5-7,2,4.0,Morin,Phillips,Kintzler,2:58,N,,1.14,----,2020-07-28 (Covid; Played at BAL; MIA was home team)
+13,"Friday, Aug 7",boxscore,BAL,@,WSN,W,11,0,,6-7,2,3.0,Milone,Sánchez,,3:00,N,,1.11,+,
+14,"Saturday, Aug 8",boxscore,BAL,@,WSN,W,5,3,,7-7,2,2.5,Armstrong,Hudson,Castro,3:27,N,,1.15,++,
+15,"Sunday, Aug 9",boxscore,BAL,@,WSN,W,6,2,,8-7,2,1.5,Lakins,Strasburg,,3:11,N,,1.19,+++,
+16,"Tuesday, Aug 11",boxscore,BAL,@,PHI,W,10,9,10,9-7,2,1.5,Sulser,Guerra,Lakins,4:00,N,,1.16,++++,
+17,"Wednesday, Aug 12",boxscore,BAL,@,PHI,W,5,4,,10-7,2,1.5,Armstrong,Eflin,Sulser,3:28,N,,1.18,+++++,
+18,"Thursday, Aug 13",boxscore,BAL,@,PHI,W,11,4,,11-7,2,1.0,Eshelman,Arrieta,,3:29,D,,1.14,++++++,
+19,"Friday, Aug 14",boxscore,BAL,,WSN,L,3,15,,11-8,2,2.0,Fedde,Milone,,3:10,N,,1.12,-,
+20,"Saturday, Aug 15",boxscore,BAL,,WSN,W,7,3,,12-8,2,2.0,Wojciechowski,Corbin,Sulser,3:10,N,,1.20,+,
+21,"Sunday, Aug 16",boxscore,BAL,,WSN,L,5,6,,12-9,3,3.0,Scherzer,Lakins,Hudson,3:38,D,,1.10,-,
+22,"Monday, Aug 17",boxscore,BAL,,TOR,L,2,7,,12-10,3,4.0,Ryu,Cobb,,2:45,N,,1.28,--,
+23,"Tuesday, Aug 18",boxscore,BAL,,TOR,L,7,8,10,12-11,3,4.0,Bass,Sulser,,3:57,N,,1.38,---,
+24,"Wednesday, Aug 19",boxscore,BAL,,TOR,L,2,5,,12-12,3,4.0,Roark,Milone,Dolis,3:00,D,,1.43,----,
+25,"Thursday, Aug 20",boxscore,BAL,,BOS,L,1,7,,12-13,4,4.5,Eovaldi,Wojciechowski,,3:26,N,,1.28,-----,
+26,"Friday, Aug 21",boxscore,BAL,,BOS,L,5,8,,12-14,4,4.5,Hernández,Means,Barnes,3:04,N,,1.21,------,
+27,"Saturday, Aug 22",boxscore,BAL,,BOS,W-wo,5,4,10,13-14,4,4.5,Castro,Barnes,,3:36,N,,1.14,+,
+28,"Sunday, Aug 23",boxscore,BAL,,BOS,W,5,4,,14-14,3,4.5,Eshelman,Godley,Scott,3:17,D,,1.20,++,
+29,"Tuesday, Aug 25",boxscore,BAL,@,TBR,L,2,4,,14-15,4,5.0,Glasnow,Milone,García,2:41,N,,1.36,-,
+30,"Wednesday, Aug 26",boxscore,BAL,@,TBR,L,3,4,,14-16,4,6.0,Sherriff,Givens,Castillo,3:26,N,,1.29,--,
+31,"Friday, Aug 28",boxscore,BAL,@,TOR,L-wo,4,5,10,14-17,4,7.0,Dolis,Sulser,,3:19,N,,1.39,---,2020-08-28 (Played at Buffalo)
+32,"Saturday, Aug 29",boxscore,BAL,@,TOR,L,0,5,,14-18,4,8.0,Walker,Cobb,,2:44,N,,1.27,----,2020-08-29 (Played at Buffalo)
+33,"Sunday, Aug 30",boxscore,BAL,@,TOR,L-wo,5,6,,14-19,4,9.0,Bass,Sulser,,2:58,D,,1.09,-----,2020-08-30 (Played at Buffalo)
+34,"Monday, Aug 31",boxscore,BAL,@,TOR,W,4,3,11,15-19,4,9.0,Valdez,Bass,,3:38,D,,.85,+,2020-08-31 (Played at Buffalo)
+Gm#,September,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled
+35,"Tuesday, Sep 1",boxscore,BAL,,NYM,W,9,5,,16-19,4,8.0,Eshelman,Kilome,,2:59,N,,.87,++,
+36,"Wednesday, Sep 2",boxscore,BAL,,NYM,L,4,9,,16-20,4,9.0,Peterson,Means,,3:12,D,,.98,-,
+37,"Friday, Sep 4 (1)",boxscore,BAL,,NYY,L,5,6,9,16-21,4,9.5,Holder,Lakins,Green,3:37,N,,1.04,--,2020-08-05 (Schedule change (Covid); (Game2))
+38,"Friday, Sep 4 (2)",boxscore,BAL,,NYY,W,6,3,7,17-21,4,9.5,López,García,Valdez,2:31,N,,.78,+,
+39,"Saturday, Sep 5",boxscore,BAL,,NYY,W,6,1,,18-21,4,8.5,Tate,Cole,,2:47,N,,1.00,++,
+40,"Sunday, Sep 6",boxscore,BAL,,NYY,W,5,1,,19-21,4,8.5,Kremer,Tanaka,,3:02,D,,1.28,+++,
+41,"Tuesday, Sep 8",boxscore,BAL,@,NYM,W,11,2,,20-21,4,7.0,Means,Wacha,,3:01,N,,1.10,++++,
+42,"Wednesday, Sep 9",boxscore,BAL,@,NYM,L,6,7,,20-22,4,7.5,Familia,Harvey,Díaz,3:25,N,,1.29,-,
+43,"Friday, Sep 11 (1)",boxscore,BAL,@,NYY,L,0,6,7,20-23,4,8.5,Cole,Cobb,,2:02,D,,1.71,--,2020-09-10 (Rain; (Game2))
+44,"Friday, Sep 11 (2)",boxscore,BAL,@,NYY,L,1,10,7,20-24,4,8.5,Tanaka,Akin,,2:40,N,,1.45,---,
+45,"Saturday, Sep 12",boxscore,BAL,@,NYY,L-wo,1,2,10,20-25,4,9.5,Holder,Harvey,,3:11,D,,1.23,----,
+46,"Sunday, Sep 13",boxscore,BAL,@,NYY,L,1,3,,20-26,4,9.5,Britton,Tate,Chapman,2:44,D,,.82,-----,
+47,"Monday, Sep 14",boxscore,BAL,,ATL,W,14,1,,21-26,4,9.0,López,Toussaint,,2:54,N,,.33,+,
+48,"Tuesday, Sep 15",boxscore,BAL,,ATL,L,1,5,,21-27,4,10.0,O'Day,Eshelman,,2:57,N,,.47,-,
+49,"Wednesday, Sep 16",boxscore,BAL,,ATL,W,5,1,,22-27,4,9.0,Akin,Hamels,,2:35,N,,.32,+,
+50,"Thursday, Sep 17 (1)",boxscore,BAL,,TBR,L,1,3,7,22-28,4,11.0,Castillo,Valdez,,2:28,D,,.50,-,2020-08-27 (Boycott (racial justice); Played at BAL; TBA was home team; (Game2))
+51,"Thursday, Sep 17 (2)",boxscore,BAL,,TBR,L,6,10,7,22-29,4,11.0,Fairbanks,Sulser,,2:38,N,,.33,--,
+52,"Friday, Sep 18",boxscore,BAL,,TBR,L,1,2,,22-30,4,12.0,Glasnow,Cobb,Sherriff,2:59,N,,.22,---,
+53,"Saturday, Sep 19",boxscore,BAL,,TBR,L,1,3,,22-31,4,13.0,Morton,López,Thompson,3:04,N,,.19,----,
+54,"Sunday, Sep 20",boxscore,BAL,,TBR,W,2,1,,23-31,4,12.0,Means,Yarbrough,Valdez,2:31,D,,.12,+,
+55,"Tuesday, Sep 22",boxscore,BAL,@,BOS,L,3,8,,23-32,4,12.5,Pivetta,Akin,Barnes,3:31,N,,.06,-,
+56,"Wednesday, Sep 23",boxscore,BAL,@,BOS,L,1,9,,23-33,4,13.5,Eovaldi,Kremer,,3:04,N,,.04,--,
+57,"Thursday, Sep 24",boxscore,BAL,@,BOS,W,13,1,,24-33,4,13.0,Cobb,Pérez,,3:14,N,,.00,+,
+58,"Friday, Sep 25",boxscore,BAL,@,TOR,L,5,10,,24-34,4,14.0,Pearson,López,,2:41,N,,.00,-,2020-09-25 (Played at Buffalo)
+59,"Saturday, Sep 26",boxscore,BAL,@,TOR,L,2,5,,24-35,4,15.0,Anderson,Means,Bass,2:58,N,,.00,--,2020-09-26 (Played at Buffalo)
+60,"Sunday, Sep 27",boxscore,BAL,@,TOR,W,7,5,,25-35,4,15.0,Lakins,Yamaguchi,Valdez,2:52,D,,.00,+,2020-09-27 (Played at Buffalo)
+Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled

@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b1,0-0,0,1--,"4,(2-1) CBBX",RR,BOS,Trot Nixon,Luis de los Santos,14%,73%,Home Run (Fly Ball to Deep RF); Damon Scores
+b3,2-0,2,1--,"1,(0-0) X",RR,BOS,Manny Ramirez,Luis de los Santos,13%,87%,Home Run (Fly Ball to Deep LF); Nixon Scores
+t3,0-2,2,-23,"6,(3-2) SBBBFC",O,TBD,Andy Sheets,Pedro Martinez,6%,76%,Strikeout Looking
+b1,2-0,0,1--,"3,(1-1) CBX",OO,BOS,Manny Ramirez,Luis de los Santos,-5%,70%,Ground Ball Double Play: 3B-2B-1B
+b3,4-0,2,---,"5,(2-2) FBCBX",R,BOS,Jason Varitek,Luis de los Santos,4%,91%,Home Run (Fly Ball to Deep LF)

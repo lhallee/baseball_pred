@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b1,0-0,1,1-3,"2,(0-1) FX",RRR,BOS,Manny Ramirez,Sean Douglass,17%,78%,Home Run (Fly Ball to LF-CF); Offerman Scores; Garciaparra Scores
+b4,5-3,2,-23,"3,(2-0) BBX",RR,BOS,Nomar Garciaparra,Josh Towers,11%,89%,Single to CF (Line Drive to LF-CF); Sanchez Scores; Offerman Scores
+t2,1-3,2,1--,"1,(0-0) X",R,BAL,Mike Bordick,Pedro Martinez,-10%,62%,Double to LF (Line Drive to LF Line); Cordova Scores
+t4,2-5,1,-2-,"1,(0-0) X",R,BAL,Marty Cordova,Pedro Martinez,-9%,70%,Ground-rule Double (Line Drive); Batista Scores
+t2,0-3,1,---,"4,(2-1) CBBX",R,BAL,Tony Batista,Pedro Martinez,-8%,71%,Home Run (Fly Ball to Deep LF)

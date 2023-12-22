@@ -1,0 +1,64 @@
+﻿Gm#,Date,Unnamed: 2,Tm,Unnamed: 4,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled
+1,"Friday, Jul 24",boxscore,TOR,@,TBR,W,6,4,,1-0,1,Tied,Romano,Morton,Giles,3:27,N,,1.18,+,
+2,"Saturday, Jul 25",boxscore,TOR,@,TBR,L,1,4,,1-1,1,Tied,Anderson,Gaviglio,Drake,2:47,D,,1.18,-,
+3,"Sunday, Jul 26",boxscore,TOR,@,TBR,L-wo,5,6,10,1-2,4,1.0,Roe,Yamaguchi,,3:55,D,,1.19,--,
+4,"Monday, Jul 27",boxscore,TOR,@,WSN,W,4,1,,2-2,4,1.0,Borucki,Sánchez,Bass,2:59,N,,1.07,+,
+5,"Tuesday, Jul 28",boxscore,TOR,@,WSN,W,5,1,,3-2,2,1.0,Roark,Voth,,3:00,N,,1.08,++,
+6,"Wednesday, Jul 29",boxscore,TOR,@,WSN,L,0,4,10,3-3,3,1.0,Hudson,Yamaguchi,,3:33,N,,1.11,-,2020-07-29 (Played at WAS due to Buffalo stadium not ready)
+7,"Thursday, Jul 30",boxscore,TOR,@,WSN,L,4,6,,3-4,3,2.0,Harper,Ryu,Hudson,3:35,D,,1.12,--,2020-07-30 (Played at WAS due to Buffalo stadium not ready)
+Gm#,August,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled
+8,"Tuesday, Aug 4",boxscore,TOR,@,ATL,L,1,10,,3-5,4,4.5,Fried,Shoemaker,,3:06,N,,1.11,---,
+9,"Wednesday, Aug 5",boxscore,TOR,@,ATL,W,2,1,,4-5,2,4.0,Ryu,Newcomb,Bass,3:00,N,,1.07,+,
+10,"Thursday, Aug 6",boxscore,TOR,@,ATL,L-wo,3,4,,4-6,2,4.0,Melancon,Font,,2:37,N,,1.11,-,
+11,"Friday, Aug 7",boxscore,TOR,@,BOS,L,3,5,,4-7,4,4.0,Hembree,Roark,Workman,3:33,N,,1.21,--,
+12,"Saturday, Aug 8",boxscore,TOR,@,BOS,W,2,1,,5-7,4,3.5,Kay,Walden,Bass,3:18,N,,1.17,+,
+13,"Sunday, Aug 9",boxscore,TOR,@,BOS,L-wo,3,5,,5-8,4,3.5,Barnes,Hatch,,2:46,D,,1.24,-,
+14,"Tuesday, Aug 11",boxscore,TOR,,MIA,W-wo,5,4,10,6-8,4,3.5,Cole,Tarpley,,3:20,N,,1.05,+,2020-08-11 (Played at Buffalo)
+15,"Wednesday, Aug 12",boxscore,TOR,,MIA,L,11,14,10,6-9,4,4.5,Kintzler,Dolis,Smith,4:20,N,,1.13,-,2020-08-12 (Played at Buffalo)
+16,"Friday, Aug 14",boxscore,TOR,,TBR,W,12,4,,7-9,4,4.5,Font,Thompson,,3:09,N,,1.15,+,2020-08-14 (Played at Buffalo)
+17,"Saturday, Aug 15",boxscore,TOR,,TBR,L,2,3,,7-10,4,5.5,Loup,Romano,Anderson,3:37,D,,1.24,-,2020-08-15 (Played at Buffalo)
+18,"Sunday, Aug 16",boxscore,TOR,,TBR,L,5,7,8,7-11,4,6.5,Loup,Font,Slegers,2:54,D,,1.15,--,2020-08-16 (Played at Buffalo)
+19,"Monday, Aug 17",boxscore,TOR,@,BAL,W,7,2,,8-11,4,6.5,Ryu,Cobb,,2:45,N,,1.09,+,
+20,"Tuesday, Aug 18",boxscore,TOR,@,BAL,W,8,7,10,9-11,4,5.5,Bass,Sulser,,3:57,N,,1.19,++,
+21,"Wednesday, Aug 19",boxscore,TOR,@,BAL,W,5,2,,10-11,4,4.5,Roark,Milone,Dolis,3:00,D,,1.32,+++,
+22,"Thursday, Aug 20 (1)",boxscore,TOR,,PHI,W-wo,3,2,7,11-11,3,3.5,Romano,Guerra,,2:43,D,,1.17,++++,2020-07-31 (Covid; Played at Buffalo; (Game1))
+23,"Thursday, Aug 20 (2)",boxscore,TOR,,PHI,W,9,8,7,12-11,3,3.5,Kay,Neris,Cole,3:06,D,,1.21,+++++,2020-08-01 (Covid; Played at Buffalo; (Game2))
+24,"Friday, Aug 21",boxscore,TOR,@,TBR,W,6,5,10,13-11,3,2.5,Hatch,Loup,Romano,3:31,N,,1.34,++++++,
+25,"Saturday, Aug 22",boxscore,TOR,@,TBR,L-wo,1,2,10,13-12,3,3.5,Banda,Bass,,3:21,N,,1.34,-,
+26,"Sunday, Aug 23",boxscore,TOR,@,TBR,L,4,5,,13-13,3,4.5,Fleming,Borucki,Curtiss,3:14,D,,1.38,--,
+27,"Monday, Aug 24",boxscore,TOR,@,TBR,W,6,4,,14-13,3,3.5,Hatch,Loup,Romano,3:29,D,,1.31,+,
+28,"Tuesday, Aug 25",boxscore,TOR,,BOS,L,7,9,,14-14,3,4.5,Valdez,Font,Barnes,3:42,N,,1.30,-,2020-08-25 (Played at Buffalo)
+29,"Wednesday, Aug 26",boxscore,TOR,,BOS,W,9,1,,15-14,3,4.5,Yamaguchi,Brewer,,2:58,N,,1.31,+,2020-08-26 (Played at Buffalo)
+30,"Friday, Aug 28",boxscore,TOR,,BAL,W-wo,5,4,10,16-14,3,4.5,Dolis,Sulser,,3:19,N,,1.51,++,2020-08-28 (Played at Buffalo)
+31,"Saturday, Aug 29",boxscore,TOR,,BAL,W,5,0,,17-14,3,4.5,Walker,Cobb,,2:44,N,,1.45,+++,2020-08-29 (Played at Buffalo)
+32,"Sunday, Aug 30",boxscore,TOR,,BAL,W-wo,6,5,,18-14,3,4.5,Bass,Sulser,,2:58,D,,1.40,++++,2020-08-30 (Played at Buffalo)
+33,"Monday, Aug 31",boxscore,TOR,,BAL,L,3,4,11,18-15,3,5.5,Valdez,Bass,,3:38,D,,1.35,-,2020-08-31 (Played at Buffalo)
+Gm#,September,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled
+34,"Tuesday, Sep 1",boxscore,TOR,@,MIA,L,2,3,,18-16,3,5.5,Hoyt,Yamaguchi,Kintzler,2:40,N,,1.29,--,
+35,"Wednesday, Sep 2",boxscore,TOR,@,MIA,W,2,1,,19-16,3,5.5,Ryu,Sánchez,Bass,2:37,N,,1.34,+,
+36,"Thursday, Sep 3",boxscore,TOR,@,BOS,W,6,2,10,20-16,2,5.0,Dolis,Valdez,,4:02,N,,1.26,++,
+37,"Friday, Sep 4 (1)",boxscore,TOR,@,BOS,W,8,7,7,21-16,2,5.5,Cole,Godley,Bass,2:42,D,,1.15,+++,2020-08-27 (Boycott (racial justice); Played at BOS; TOR was home team; (Game2))
+38,"Friday, Sep 4 (2)",boxscore,TOR,@,BOS,L,2,3,7,21-17,2,5.5,Taylor,Stripling,Barnes,2:49,N,,1.06,-,
+39,"Saturday, Sep 5",boxscore,TOR,@,BOS,L-wo,8,9,,21-18,2,5.5,Kickham,Bass,,3:41,N,,1.07,--,
+40,"Sunday, Sep 6",boxscore,TOR,@,BOS,W,10,8,,22-18,2,5.5,Hatch,Hall,Dolis,4:23,D,,1.19,+,
+41,"Monday, Sep 7",boxscore,TOR,,NYY,W,12,7,,23-18,2,4.5,Reid-Foley,Ottavino,,4:02,N,,1.38,++,2020-09-07 (Played at Buffalo)
+42,"Tuesday, Sep 8",boxscore,TOR,,NYY,W,2,1,,24-18,2,3.5,Yamaguchi,Happ,Dolis,3:00,N,,1.20,+++,2020-09-08 (Played at Buffalo)
+43,"Wednesday, Sep 9",boxscore,TOR,,NYY,L,2,7,,24-19,2,4.0,García,Stripling,,3:04,N,,1.15,-,2020-09-09 (Played at Buffalo)
+44,"Friday, Sep 11",boxscore,TOR,,NYM,L,1,18,,24-20,2,4.5,deGrom,Anderson,Ramírez,3:30,N,,1.02,--,2020-09-11 (Played at Buffalo)
+45,"Saturday, Sep 12",boxscore,TOR,,NYM,W,3,2,,25-20,2,4.5,Ray,Lugo,Dolis,3:22,N,,1.00,+,2020-09-12 (Played at Buffalo)
+46,"Sunday, Sep 13",boxscore,TOR,,NYM,W,7,3,,26-20,2,3.5,Ryu,Peterson,,3:12,D,,.78,++,2020-09-13 (Played at Buffalo)
+47,"Tuesday, Sep 15",boxscore,TOR,@,NYY,L,6,20,,26-21,3,4.5,García,Walker,,3:12,N,,.73,-,
+48,"Wednesday, Sep 16",boxscore,TOR,@,NYY,L,2,13,,26-22,3,4.5,Cole,Roark,,3:02,N,,.73,--,
+49,"Thursday, Sep 17",boxscore,TOR,@,NYY,L,7,10,,26-23,3,6.0,Tanaka,Anderson,Chapman,3:19,N,,.77,---,
+50,"Friday, Sep 18 (1)",boxscore,TOR,@,PHI,L,0,7,7,26-24,3,7.5,Eflin,Ray,,2:33,D,,.53,----,2020-08-02 (Covid; Played at PHI; TOR was home team; (Game1))
+51,"Friday, Sep 18 (2)",boxscore,TOR,@,PHI,L,7,8,7,26-25,3,7.5,Brogdon,Dolis,Neris,3:14,N,,.63,-----,
+52,"Saturday, Sep 19",boxscore,TOR,@,PHI,L,1,3,,26-26,3,8.5,Velasquez,Ryu,Hunter,3:16,N,,.52,------,
+53,"Sunday, Sep 20",boxscore,TOR,@,PHI,W,6,3,,27-26,3,7.5,Walker,Medina,Bass,3:28,D,,.74,+,
+54,"Monday, Sep 21",boxscore,TOR,,NYY,W,11,5,,28-26,3,7.5,Zeuch,King,,3:56,N,,.36,++,2020-09-21 (Played at Buffalo)
+55,"Tuesday, Sep 22",boxscore,TOR,,NYY,L,1,12,,28-27,3,7.5,Cole,Roark,,3:29,N,,.23,-,2020-09-22 (Played at Buffalo)
+56,"Wednesday, Sep 23",boxscore,TOR,,NYY,W,14,1,,29-27,3,7.5,Cole,Tanaka,Stripling,3:39,N,,.24,+,2020-09-23 (Played at Buffalo)
+57,"Thursday, Sep 24",boxscore,TOR,,NYY,W,4,1,,30-27,3,7.0,Ryu,Montgomery,Dolis,3:11,N,,.13,++,2020-09-24 (Played at Buffalo)
+58,"Friday, Sep 25",boxscore,TOR,,BAL,W,10,5,,31-27,3,7.0,Pearson,López,,2:41,N,,.08,+++,2020-09-25 (Played at Buffalo)
+59,"Saturday, Sep 26",boxscore,TOR,,BAL,W,5,2,,32-27,3,7.0,Anderson,Means,Bass,2:58,N,,.15,++++,2020-09-26 (Played at Buffalo)
+60,"Sunday, Sep 27",boxscore,TOR,,BAL,L,5,7,,32-28,3,8.0,Lakins,Yamaguchi,Valdez,2:52,D,,.08,-,2020-09-27 (Played at Buffalo)
+Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled

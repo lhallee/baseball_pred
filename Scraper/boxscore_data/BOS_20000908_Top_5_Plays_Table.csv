@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b3,0-0,1,1-3,"4,(2-1) CBBX",OO,BOS,Jose Offerman,Roger Clemens,13%,50%,Ground Ball Double Play: P-SS-1B
+t7,1-0,0,---,"5,(2-2) BBFFX",R,NYY,David Justice,Tomo Ohka,12%,79%,Home Run (Fly Ball to LF-CF)
+t4,0-0,2,1-3,"4,(1-2) BSCX",R,NYY,David Justice,Tomo Ohka,10%,60%,Single to CF (Line Drive); Jeter Scores/unER; O'Neill to 2B
+b6,0-1,1,--3,"6,(3-2) FCBBBX",O,BOS,Carl Everett,Roger Clemens,10%,60%,Popfly: 3B
+b6,0-1,0,---,"6,(2-2) BBFFFX",,BOS,Trot Nixon,Roger Clemens,-10%,48%,Double to LF (Line Drive to Deep LF)

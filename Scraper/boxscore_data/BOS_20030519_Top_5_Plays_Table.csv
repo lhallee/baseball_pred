@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t1,2-0,1,123,"5,(2-2) CBBFX",RRR,NYY,Raul Mondesí,Casey Fossum,14%,88%,Triple to CF (Line Drive to Deep LF-CF); Giambi Scores; Matsui Scores; Posada Scores
+t1,0-0,0,1--,"1,(0-0) X",,NYY,Derek Jeter,Casey Fossum,9%,63%,Ground-rule Double (Fly Ball); Soriano to 3B
+t1,0-0,0,-23,"2,(0-1) FX",RR,NYY,Jason Giambi,Casey Fossum,7%,70%,Single to LF (Ground Ball thru LF-CF); Soriano Scores; Jeter Scores
+t1,2-0,1,1--,"4,(2-1) BSBX",,NYY,Hideki Matsui,Casey Fossum,5%,72%,Single to RF (Ground Ball); Giambi to 3B
+b5,1-5,2,1-3,"1,(0-0) X",O,BOS,Nomar Garciaparra,David Wells,4%,91%,Groundout: 3B-1B

@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b1,0-1,0,1--,"1,(0-0) X",,BOS,Trot Nixon,Joe Mays,10%,59%,Double to RF (Line Drive); Offerman to 3B
+b2,2-1,0,---,"4,(2-1) BBSX",R,BOS,Carl Everett,Joe Mays,8%,73%,Home Run (Fly Ball to Deep CF)
+t1,0-0,1,123,"7,(3-2) BBSCFBB",R,MIN,Ron Coomer,Ramon Martinez,-8%,33%,Walk; Guzman Scores; Lawton to 3B; Ortiz to 2B
+t1,1-0,2,123,"5,(3-1) BBFBX",O,MIN,Marcus Jensen,Ramon Martinez,7%,46%,Flyball: LF (Short LF)
+t1,1-0,1,123,"3,(1-1) SBX",O,MIN,Corey Koskie,Ramon Martinez,6%,40%,Foul Popfly: 3B

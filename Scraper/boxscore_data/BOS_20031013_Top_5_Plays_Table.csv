@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t5,0-1,1,12-,"3,(1-1) BCX",R,NYY,Derek Jeter,Tim Wakefield,-19%,39%,Double to LF (Ground Ball); Dellucci Scores; Soriano to 3B
+b5,1-1,1,---,"1,(0-0) X",R,BOS,Trot Nixon,Mike Mussina,14%,68%,Home Run (Fly Ball)
+b4,0-0,0,---,"6,(2-2) FBBCFX",R,BOS,Todd Walker,Mike Mussina,12%,68%,Home Run (Fly Ball)
+t1,0-0,0,12-,"3,(1-1) BCX",OO,NYY,Jason Giambi,Tim Wakefield,10%,52%,Line Drive Double Play: 1B unassisted; Jeter out at 1B/1B
+t5,1-1,1,-23,"3,(1-1) BFX",O,NYY,Jason Giambi,Tim Wakefield,10%,49%,Flyball: CF

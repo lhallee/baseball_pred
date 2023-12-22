@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t3,1-0,0,---,"6,(1-2) CFBFFX",R,NYY,Alfonso Soriano,Tim Wakefield,10%,70%,Home Run (Fly Ball to LF-CF)
+t7,2-0,0,---,"5,(3-1) BSBBX",R,NYY,Rondell White,Willie Banks,8%,88%,Home Run (Fly Ball to LF-CF)
+b7,2-5,2,-23,"3,(1-1) BCX",O,BOS,Carlos Baerga,Ramiro Mendoza,8%,92%,Groundout: 1B unassisted
+b7,0-5,1,1--,"2,(0-1) FX",RR,BOS,Manny Ramirez,Mike Mussina,-6%,89%,Home Run (Fly Ball to Deep CF); Garciaparra Scores
+t2,0-0,0,1--,"4,(2-1) BBCX",,NYY,Jorge Posada,Tim Wakefield,6%,59%,Single to RF (Line Drive); Giambi to 2B

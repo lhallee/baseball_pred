@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b1,0-0,1,1-3,"1,(0-0) X",OO,BOS,Manny Ramirez,Jorge Sosa,-11%,50%,Ground Ball Double Play: 3B-2B-1B
+t6,0-4,2,-2-,"7,(3-2) BBCBCFX",RR,TBD,Aubrey Huff,Derek Lowe,-10%,82%,Home Run (Fly Ball to Deep RF); Baldelli Scores
+b2,0-0,0,---,"8,(3-2) BBCFFBFX",R,BOS,David Ortiz,Jorge Sosa,10%,65%,Home Run (Fly Ball to Deep LF)
+b4,1-0,0,-2-,"4,(3-0) BB*BX",R,BOS,David Ortiz,Jorge Sosa,8%,82%,Ground-rule Double (Fly Ball); Ramirez Scores
+b4,1-0,0,---,"2,(1-0) BX",,BOS,Manny Ramirez,Jorge Sosa,6%,74%,Double to CF (Fly Ball to Deep CF)
