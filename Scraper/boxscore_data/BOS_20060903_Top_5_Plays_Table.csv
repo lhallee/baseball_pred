@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t3,1-0,1,-2-,"3,(1-1) CBX",R,TOR,Bengie Molina,Josh Beckett,9%,71%,Double to CF (Fly Ball to Deep CF); Wells Scores
+t2,0-0,0,-2-,"3,(0-2) FFX",R,TOR,Gregg Zaun,Josh Beckett,9%,65%,Double to RF (Line Drive to Deep CF-RF); Molina Scores
+t4,2-0,0,---,"1,(0-0) X",R,TOR,Kevin Barker,Josh Beckett,8%,80%,Home Run (Fly Ball to Deep LF)
+t2,1-0,2,123,"3,(0-2) CSS",O,TOR,Reed Johnson,Josh Beckett,-7%,55%,Strikeout Swinging
+t2,0-0,0,---,"6,(3-2) CBBBFX",,TOR,Bengie Molina,Josh Beckett,6%,56%,Double to CF (Line Drive to Deep CF)

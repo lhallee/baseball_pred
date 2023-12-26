@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t3,1-2,0,---,"2,(1-0) BX",R,HOU,Jose Altuve,Nathan Eovaldi,10%,50%,Home Run (Fly Ball to Deep LF Line)
+t3,2-2,1,-2-,"2,(0-1) CX",R,HOU,Yordan Alvarez,Nathan Eovaldi,10%,62%,Double to RF (Line Drive to Deep 1B); Correa Scores
+b1,0-0,0,1--,"2,(1-0) BX",,BOS,Rafael Devers,Jake Odorizzi,-9%,32%,Double to CF (Line Drive to Deep CF); Santana to 3B
+b4,2-5,0,---,"2,(0-1) CX",R,BOS,Xander Bogaerts,Jake Odorizzi,-9%,67%,Home Run (Fly Ball to Deep LF)
+t3,3-2,1,-2-,"1,(0-0) X",R,HOU,Yuli Gurriel,Nathan Eovaldi,9%,71%,Ground-rule Double (Line Drive to Deep 3B); Álvarez Scores

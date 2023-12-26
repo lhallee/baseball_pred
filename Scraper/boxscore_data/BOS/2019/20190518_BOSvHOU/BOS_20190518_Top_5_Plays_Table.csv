@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t1,3-0,1,12-,"1,(0-0) .X",RR,HOU,Tyler White,Colten Brewer,10%,87%,Double to RF (Line Drive to Deep RF Line); Correa Scores; Gurriel Scores
+t1,0-0,0,1-3,"6,(3-2) BB1C1BFX",R,HOU,Michael Brantley,Hector Velazquez,9%,71%,Double to RF (Fly Ball to Deep RF); Springer Scores; Bregman to 3B
+t1,0-0,0,---,"1,(0-0) X",,HOU,George Springer,Hector Velazquez,8%,58%,Triple to RF (Fly Ball to Deep CF)
+b5,3-7,1,123,"4,(1-2) CBCC",O,BOS,Xander Bogaerts,Josh James,7%,83%,Strikeout Looking
+b5,3-7,2,123,"7,(3-2) FBBCFBX",O,BOS,Rafael Devers,Josh James,7%,90%,Groundout: 3B-1B (SS-3B Hole)

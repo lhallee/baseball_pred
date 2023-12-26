@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t1,0-0,1,1--,"1,(0-0) X",RR,ATL,Marcell Ozuna,Ryan Weber,16%,66%,Home Run (Fly Ball to Deep LF); Freeman Scores
+b3,1-2,2,-2-,"4,(3-0) BB.*BX",R,BOS,Rafael Devers,Ian Anderson,-11%,46%,Single to RF (Ground Ball thru 2B-1B); Verdugo Scores; Devers to 2B
+t6,3-2,2,1-3,"5,(2-2) BCS*BX",R,ATL,Ender Inciarte,Robert Stock,11%,76%,Single to 2B (Ground Ball); d'Arnaud Scores; Riley to 2B
+t6,2-2,0,-23,"3,(1-1) FB.X",R,ATL,Austin Riley,Robert Stock,9%,78%,Single to RF (Ground Ball); Markakis Scores; d'Arnaud to 3B
+t7,4-2,1,---,"4,(2-1) SBBX",R,ATL,Marcell Ozuna,Kyle Hart,9%,87%,Home Run (Fly Ball to Deep LF)

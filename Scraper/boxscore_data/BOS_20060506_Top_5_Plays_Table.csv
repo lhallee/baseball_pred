@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b2,1-0,1,123,"1,(0-0) X",RR,BOS,Alex Gonzalez,Erik Bedard,10%,83%,Single to CF (Line Drive); Lowell Scores; Peña Scores; Nixon to 2B
+t4,1-6,1,1--,"1,(0-0) X",RR,BAL,Chris Gomez,Tim Wakefield,-9%,82%,Home Run (Fly Ball to Deep LF); Millar Scores
+b2,0-0,0,12-,"3,(0-2) FCX",R,BOS,Wily Mo Peña,Erik Bedard,8%,73%,Single to CF (Ground Ball); Ramirez Scores; Lowell to 2B
+t5,3-7,1,123,"3,(1-1) S*BX",O,BAL,Kevin Millar,Tim Wakefield,7%,86%,Flyball: CF
+t5,3-7,2,123,"1,(0-0) X",O,BAL,Luis Matos,Tim Wakefield,6%,92%,Flyball: LF (LF-CF)

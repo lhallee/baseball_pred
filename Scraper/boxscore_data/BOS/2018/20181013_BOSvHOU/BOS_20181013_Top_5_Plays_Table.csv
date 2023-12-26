@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t2,0-0,2,123,"8,(3-2) CCFBFBB>X",RR,HOU,George Springer,Chris Sale,17%,69%,Single to LF (Ground Ball); Correa Scores; Maldonado Scores; Reddick to 3B
+t6,2-2,2,12-,"5,(3-1) BCBBX",R,HOU,Carlos Correa,Joe Kelly,17%,66%,Single to LF (Line Drive); Bregman Scores/unER; Gurriel to 3B
+b5,0-2,1,123,"6,(3-2) .CS*B*BBB",R,BOS,Mitch Moreland,Justin Verlander,-13%,44%,Walk; Pearce Scores; Núñez to 3B; Bradley to 2B
+b5,1-2,2,123,"4,(1-2) CBCB",R,BOS,Andrew Benintendi,Justin Verlander,-12%,42%,Wild Pitch; Bradley Scores/No RBI; Vázquez to 3B; Betts to 2B
+b5,1-2,1,123,"1,(0-0) .X",O,BOS,Mookie Betts,Justin Verlander,11%,55%,Groundout: 3B-C/Forceout at Hm; Bradley to 3B; Vázquez to 2B

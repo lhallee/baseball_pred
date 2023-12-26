@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t4,2-0,1,12-,"2,(0-1) SX",R,NYY,Kyle Higashioka,Chris Mazza,9%,84%,Single to 2B (Ground Ball); Frazier Scores/unER; Tauchman to 3B
+t1,1-0,2,12-,"5,(3-1) BCBBX",R,NYY,Jackson Frazier,Chris Mazza,9%,67%,Single to LF (Line Drive to LF-CF); Judge Scores; Voit to 2B
+t3,2-0,1,-2-,"1,(0-0) X",OO,NYY,Luke Voit,Chris Mazza,-6%,66%,Double Play: Lineout: RF (Deep RF); Gardner out at 3B/RF-2B-3B
+t1,0-0,0,1--,"5,(3-1) BBBC*B",,NYY,Aaron Judge,Chris Mazza,5%,59%,Walk; LeMahieu to 2B
+t1,0-0,0,12-,"5,(2-2) SBF*BS",O,NYY,Brett Gardner,Chris Mazza,-5%,54%,Strikeout Swinging

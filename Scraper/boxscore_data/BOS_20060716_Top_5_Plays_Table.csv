@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t5,1-0,2,123,"4,(2-1) BBCX",RR,OAK,Mark Kotsay,Kyle Snyder,17%,82%,Single to CF (Ground Ball); Kielty Scores; Melhuse Scores; Scutaro to 3B
+t4,0-0,0,1--,"1,(0-0) .1X",OO,OAK,Nick Swisher,Kyle Snyder,-9%,45%,Ground Ball Double Play: P-SS-1B
+t5,0-0,0,123,"5,(3-1) B+3CBBB",R,OAK,Marco Scutaro,Kyle Snyder,9%,79%,Walk; Crosby Scores; Kielty to 3B; Melhuse to 2B
+t5,0-0,0,12-,"2,(0-1) L2H",,OAK,Adam Melhuse,Kyle Snyder,8%,70%,Hit By Pitch; Crosby to 3B; Kielty to 2B
+t5,1-0,1,123,"5,(1-2) CBFFS",O,OAK,Mark Ellis,Kyle Snyder,-8%,65%,Strikeout Swinging

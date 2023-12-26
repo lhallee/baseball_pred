@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t3,1-0,2,1--,"2,(1-0) BX",R,TOR,Cavan Biggio,Rick Porcello,11%,68%,Double to CF (Fly Ball to Deep CF); Gurriel Scores
+t2,0-0,2,-2-,"2,(1-0) BX",R,TOR,Brandon Drury,Rick Porcello,9%,57%,Single to RF (Ground Ball); Tellez Scores
+t6,2-0,0,1--,"2,(0-1) 11FX",,TOR,Freddy Galvis,Rick Porcello,8%,87%,Ground-rule Double (Ground Ball); Biggio to 3B
+b3,0-2,2,-23,"6,(1-2) BCSFFX",O,BOS,J.D. Martinez,Marcus Stroman,7%,71%,Groundout: 3B-1B (SS-3B Hole)
+t6,3-0,1,123,"2,(0-1) FX",RR,TOR,Danny Jansen,Rick Porcello,6%,95%,Single to LF (Ground Ball); Galvis Scores; Tellez Scores; Drury to 2B

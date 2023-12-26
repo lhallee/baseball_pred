@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t5,0-0,2,1--,"6,(2-2) FFF*BBX",R,BAL,Caleb Joseph,Rick Porcello,15%,61%,Double to CF (Line Drive to Deep LF-CF); Schoop Scores
+t6,1-0,1,---,"6,(2-2) BBFCFX",R,BAL,Manny Machado,Rick Porcello,12%,75%,Home Run (Fly Ball to Deep LF)
+b5,0-1,1,12-,"1,(0-0) X",O,BOS,Marco Hernandez,Dylan Bundy,7%,59%,Flyball: LF (Deep LF-CF)
+b5,0-1,2,12-,"2,(0-1) FX",O,BOS,Xander Bogaerts,Dylan Bundy,7%,65%,Groundout: 3B-2B/Forceout at 2B (SS-3B Hole)
+b4,0-0,1,1--,"2,(1-0) BX",OO,BOS,Mitch Moreland,Dylan Bundy,6%,50%,Ground Ball Double Play: 2B-SS-1B (2B-1B)

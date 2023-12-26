@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t5,0-0,1,---,"3,(2-0) BBX",R,NYY,Austin Romine,Eduardo Rodriguez,13%,60%,Home Run (Fly Ball to Deep RF Line)
+t7,1-0,0,---,"3,(2-0) .BBX",R,NYY,Gio Urshela,Darwinzon Hernandez,12%,80%,Home Run (Fly Ball to Deep LF)
+t4,0-0,1,-23,"4,(1-2) FBSX",O,NYY,Brett Gardner,Eduardo Rodriguez,-10%,50%,Fielder's Choice 3B; Encarnacion out at Hm/3B-C; Voit to 3B
+t4,0-0,1,1--,"4,(1-2) BSFX",,NYY,Luke Voit,Eduardo Rodriguez,10%,60%,Double to CF (Fly Ball to Deep LF-CF); Encarnacion to 3B
+b6,0-1,2,12-,"6,(2-2) BSFBFX",O,BOS,Sam Travis,James Paxton,8%,68%,Groundout: 3B unassisted/Forceout at 3B

@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t2,0-0,0,1--,"4,(2-1) C1BBX",RR,NYM,Michael Conforto,Josh Osich,15%,69%,Home Run (Fly Ball to Deep CF-RF); Davis Scores
+t3,2-0,1,1--,"4,(3-0) BB*BX",RR,NYM,Pete Alonso,Jeffrey Springs,13%,83%,Home Run (Line Drive to Deep LF Line); Rosario Scores
+b3,0-4,1,12-,"5,(2-2) SBSB2X",OO,BOS,J.D. Martinez,Michael Wacha,8%,86%,Ground Ball Double Play: 2B-1B (2B-1B)
+t4,4-0,0,12-,"5,(1-2) *BCCFX",RRR,NYM,Dominic Smith,Jeffrey Springs,6%,96%,Home Run (Line Drive to Deep CF-RF); Ramos Scores; Cano Scores
+b3,0-4,0,1--,"3,(0-2) CFX",,BOS,Jose Peraza,Michael Wacha,-5%,73%,Single to LF (Ground Ball); Bradley to 2B

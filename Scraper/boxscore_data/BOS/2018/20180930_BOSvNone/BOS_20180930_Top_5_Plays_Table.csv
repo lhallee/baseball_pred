@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b1,0-0,0,1--,"2,(1-0) BX",R,BOS,Brock Holt,Luis Cessa,11%,70%,Single to RF (Line Drive to Deep CF-RF); Betts Scores/Adv on E9/No RBI; Holt to 2B
+b1,1-0,1,1-3,"3,(2-0) BBX",R,BOS,Mitch Moreland,Luis Cessa,9%,79%,Double to LF (Fly Ball to Deep LF); Holt Scores; Martinez to 3B
+b1,1-0,0,-2-,"2,(0-1) CX",,BOS,J.D. Martinez,Luis Cessa,5%,75%,Single to RF (Ground Ball); Holt to 3B
+b2,5-0,2,-2-,"2,(0-1) FX",RR,BOS,Xander Bogaerts,Jonathan Loaisiga,5%,96%,Home Run (Fly Ball to Deep CF); Holt Scores/unER; Bogaerts Scores/unER
+b1,2-0,1,-23,"1,(0-0) X",R,BOS,Eduardo Nunez,Luis Cessa,5%,84%,Single to 1B (Ground Ball to Weak 2B-1B); Martinez Scores/Adv on E1/No RBI; Moreland to 3B

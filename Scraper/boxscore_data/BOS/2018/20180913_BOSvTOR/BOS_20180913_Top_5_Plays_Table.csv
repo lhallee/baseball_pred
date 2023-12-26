@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t8,2-3,2,123,"4,(1-2) FSBH",R,TOR,Kevin Pillar,Joe Kelly,-22%,47%,Hit By Pitch; Davis Scores; Smith to 3B; Grichuk to 2B
+t8,3-3,2,123,"3,(0-2) ..FSS",O,TOR,Billy McKinney,Brandon Workman,14%,61%,Strikeout Swinging
+b8,3-3,1,--3,"5,(2-2) *BF>S.BX",R,BOS,Blake Swihart,Danny Barnes,13%,86%,Reached on E4 (Pop Fly to Deep 2B); Bogaerts Scores/unER/No RBI
+b6,2-1,2,---,"4,(2-1) CBBX",R,BOS,Rafael Devers,Mark Leiter Jr.,12%,82%,Home Run (Fly Ball to Deep RF Line)
+b2,0-0,0,---,"6,(2-2) BCCFBX",R,BOS,J.D. Martinez,Sam Gaviglio,10%,65%,Home Run (Fly Ball to Deep CF-RF)

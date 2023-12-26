@@ -1,0 +1,12 @@
+^revdep$
+^.*\.Rproj$
+^\.Rproj\.user$
+source-data/
+data/baseballdatabank-master/
+README.md
+cran-comments.md
+ANNOUNCE.md
+^CRAN-RELEASE$
+hex/
+^\.travis\.yml$
+^CRAN-SUBMISSION$

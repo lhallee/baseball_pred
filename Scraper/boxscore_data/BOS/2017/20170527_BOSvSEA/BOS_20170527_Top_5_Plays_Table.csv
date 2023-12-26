@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b1,1-0,1,-2-,"2,(1-0) BX",R,BOS,Andrew Benintendi,Rob Whalen,7%,73%,Single to CF (Ground Ball); Bogaerts Scores
+b6,3-0,1,1--,"3,(1-1) BFX",RR,BOS,Jackie Bradley Jr.,Rob Whalen,6%,97%,Home Run (Fly Ball to Deep CF-RF); Moreland Scores
+t5,0-3,2,-23,"5,(1-2) C>B.SFX",O,SEA,Jean Segura,Brian Johnson,6%,88%,Flyball: RF (Deep RF)
+b1,0-0,0,---,"4,(3-0) BBBB",,BOS,Mookie Betts,Rob Whalen,3%,58%,Walk
+t5,0-3,1,1--,"4,(1-2) SFBX",O,SEA,Mike Zunino,Brian Johnson,3%,85%,Flyball: CF (Deep CF)

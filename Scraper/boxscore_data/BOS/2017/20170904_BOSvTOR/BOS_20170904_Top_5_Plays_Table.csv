@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t1,0-0,2,1-3,"2,(1-0) BX",RRR,TOR,Kendrys Morales,Rick Porcello,23%,73%,Home Run (Fly Ball to Deep RF); Pearce Scores; Smoak Scores
+b2,0-3,2,123,"2,(1-0) BX",RR,BOS,Eduardo Nunez,J.A. Happ,-16%,55%,Single to RF (Ground Ball); Young Scores/unER; Vazquez Scores/unER; Marrero to 3B
+t3,3-2,1,---,"6,(2-2) BCBCFX",R,TOR,Jose Bautista,Rick Porcello,10%,68%,Home Run (Fly Ball to Deep CF)
+t6,4-2,1,1--,"2,(1-0) BX",R,TOR,Darwin Barney,Rick Porcello,9%,86%,Double to CF (Fly Ball to Deep LF-CF); Goins Scores
+b5,2-4,0,---,"7,(3-2) BBCBCFX",,BOS,Mookie Betts,J.A. Happ,-8%,62%,Double to LF (Line Drive to Deep LF Line)

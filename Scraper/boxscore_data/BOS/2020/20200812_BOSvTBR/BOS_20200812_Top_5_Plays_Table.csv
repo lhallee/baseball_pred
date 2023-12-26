@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t2,2-0,2,1--,"1,(0-0) X",RR,TBR,Brandon Lowe,Zack Godley,14%,81%,Home Run (Line Drive to Deep RF); Meadows Scores
+t2,1-0,0,---,"2,(0-1) CX",R,TBR,Willy Adames,Zack Godley,9%,69%,Home Run (Line Drive to Deep CF-RF)
+b1,0-1,0,1--,"2,(1-0) BX",OO,BOS,Rafael Devers,Blake Snell,8%,59%,Ground Ball Double Play: 2B-SS-1B (Deep 2B)
+t3,4-0,1,-2-,"1,(0-0) X",RR,TBR,Yoshi Tsutsugo,Zack Godley,7%,92%,Home Run (Line Drive to Deep RF); Choi Scores
+t1,0-0,1,1--,"1,(0-0) X",,TBR,Yandy Díaz,Zack Godley,6%,56%,Single to 1B (Ground Ball); Lowe to 3B

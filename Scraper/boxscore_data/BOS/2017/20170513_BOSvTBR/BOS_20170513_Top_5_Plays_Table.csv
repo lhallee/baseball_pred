@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t5,1-2,2,1--,"3,(0-2) CFX",RR,TBR,Kevin Kiermaier,Chris Sale,-26%,41%,Home Run (Fly Ball to Deep CF-RF); Norris Scores
+b3,0-1,2,1--,"3,(2-0) B*BX",RR,BOS,Mookie Betts,Blake Snell,22%,63%,Home Run (Fly Ball to Deep LF Line); Leon Scores
+b5,2-3,0,1--,"4,(1-2) BSFX",,BOS,Jackie Bradley Jr.,Blake Snell,15%,63%,Double to LF (Line Drive to Deep LF Line); Leon to 3B
+b5,2-3,0,-23,"3,(1-1) SBX",RR,BOS,Deven Marrero,Blake Snell,14%,76%,Double to CF (Fly Ball to Deep LF-CF); Leon Scores; Bradley Scores
+t2,0-0,1,---,"3,(1-1) CBX",R,TBR,Logan Morrison,Chris Sale,-10%,42%,Home Run (Fly Ball to Deep RF)

@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t2,0-0,2,-2-,"5,(2-2) BFFBX",RR,TBR,Shane Peterson,Rick Porcello,18%,66%,Home Run (Fly Ball to Deep RF Line); Morrison Scores
+t3,2-0,1,123,"3,(2-0) BBX",RRRR,TBR,Logan Morrison,Rick Porcello,15%,93%,Home Run (Fly Ball to Deep RF Line); Longoria Scores; Miller Scores; Souza Scores
+t3,2-0,1,12-,"6,(3-2) SBBBSB",,TBR,Steven Souza Jr.,Rick Porcello,4%,78%,Walk; Longoria to 3B; Miller to 2B
+t2,0-0,1,---,"5,(3-1) BBBCX",,TBR,Logan Morrison,Rick Porcello,4%,52%,Double to CF (Fly Ball to Deep CF)
+b4,0-6,2,123,"8,(3-2) SBBSFF*B>X",O,BOS,Pablo Sandoval,Chris Archer,4%,96%,Groundout: 2B-1B

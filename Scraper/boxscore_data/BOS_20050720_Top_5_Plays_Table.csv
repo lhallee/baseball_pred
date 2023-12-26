@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b1,1-0,0,12-,"7,(3-2) CSBBBFX",R,BOS,Manny Ramirez,Mark Hendrickson,10%,82%,Double to RF (Fly Ball to Deep RF); Renteria Scores; Ortiz to 3B
+b1,0-0,0,12-,"3,(1-1) BFX",R,BOS,David Ortiz,Mark Hendrickson,8%,72%,Single to CF (Line Drive); Damon Scores; Renteria to 2B
+b1,2-0,0,123,"2,(1-0) *BX",RR,BOS,Doug Mirabelli,Mark Hendrickson,8%,91%,Double to CF (Fly Ball); Ortiz Scores; Ramirez Scores; Millar to 3B
+b1,0-0,0,1--,"5,(3-1) 1BBFBB",,BOS,Edgar Renteria,Mark Hendrickson,5%,64%,Walk; Damon to 2B
+t1,0-0,2,12-,"2,(1-0) *BX",O,TBD,Eduardo Perez,David Wells,4%,55%,Groundout: SS-1B

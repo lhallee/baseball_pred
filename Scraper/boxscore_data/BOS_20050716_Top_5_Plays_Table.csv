@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t3,0-0,2,-2-,"1,(0-0) X",RR,NYY,Alex Rodriguez,Matt Clement,19%,67%,Home Run (Fly Ball to Deep LF); Sheffield Scores
+t3,3-0,2,123,"3,(1-1) FBX",RR,NYY,John Flaherty,Matt Clement,10%,90%,Double to LF (Fly Ball); Giambi Scores; Williams Scores; Martinez to 3B
+t3,2-0,2,12-,"4,(1-2) SS*BX",R,NYY,Bernie Williams,Matt Clement,8%,78%,Single to RF (Ground Ball); Matsui Scores; Giambi to 2B
+b5,3-6,2,-2-,"2,(0-1) CX",R,BOS,Kevin Millar,Randy Johnson,-8%,74%,Single to CF (Line Drive); Ramirez Scores
+b6,4-6,2,12-,"5,(2-2) BFFBS",O,BOS,Edgar Renteria,Randy Johnson,7%,81%,Strikeout Swinging

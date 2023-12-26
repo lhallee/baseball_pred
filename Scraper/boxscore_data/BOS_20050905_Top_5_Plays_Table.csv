@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t5,1-0,0,1--,"1,(0-0) X",R,CHW,Juan Uribe,Curt Schilling,12%,79%,Double to LF (Fly Ball); Blum Scores
+t4,0-0,2,--3,"1,(0-0) X",R,CHW,Timo Perez,Curt Schilling,11%,59%,Single to LF (Ground Ball); Konerko Scores
+t3,0-0,0,---,"4,(0-2) FFFX",,CHW,Geoff Blum,Curt Schilling,10%,60%,Triple to LF (Line Drive)
+t3,0-0,1,1-3,"2,(1-1) BS1",O,CHW,Tadahito Iguchi,Curt Schilling,-9%,48%,Podsednik Picked off 1B (P-1B)
+t6,3-0,0,---,"6,(1-2) BSCFFX",R,CHW,Paul Konerko,Curt Schilling,6%,91%,Home Run (Fly Ball to Deep LF)

@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t5,2-2,0,123,"2,(1-0) .BX",RRR,ATL,Austin Riley,Phillips Valdez,18%,88%,Triple to RF (Line Drive to Deep RF Line); Freeman Scores; Ozuna Scores; Markakis Scores
+t5,2-2,0,1--,"4,(0-2) CF1FX",,ATL,Marcell Ozuna,Colten Brewer,13%,67%,Double to CF (Fly Ball to Deep LF-CF); Freeman to 3B
+t4,1-2,0,---,"3,(1-1) CBX",R,ATL,Adam Duvall,Colten Brewer,11%,50%,Home Run (Fly Ball to Deep LF)
+b5,2-5,1,12-,"3,(1-1) *BSX",OO,BOS,Rafael Devers,Max Fried,11%,85%,Ground Ball Double Play: 2B-SS-1B
+t1,0-0,2,1--,"2,(0-1) 11CX",R,ATL,Nick Markakis,Colten Brewer,10%,57%,Double to LF (Line Drive to Deep LF Line); Swanson Scores

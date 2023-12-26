@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b4,1-2,1,1--,"1,(0-0) X",RR,BOS,J.D. Martinez,CC Sabathia,21%,66%,Home Run (Fly Ball to Deep LF); Devers Scores
+t5,2-4,2,1--,"5,(3-1) BBFBX",R,NYY,Edwin Encarnacion,Eduardo Rodriguez,-12%,65%,Double to CF (Fly Ball to Deep LF-CF); Hicks Scores
+t4,1-1,2,-2-,"4,(2-1) FBBX",R,NYY,Gio Urshela,Eduardo Rodriguez,-11%,42%,Single to CF (Fly Ball to Short CF); Voit Scores
+b2,0-1,2,---,"1,(0-0) X",R,BOS,Andrew Benintendi,CC Sabathia,10%,51%,Home Run (Fly Ball to Deep RF Line)
+t2,0-0,1,---,"5,(3-1) BFBBX",R,NYY,Gio Urshela,Eduardo Rodriguez,-10%,43%,Home Run (Fly Ball to Deep CF-RF)

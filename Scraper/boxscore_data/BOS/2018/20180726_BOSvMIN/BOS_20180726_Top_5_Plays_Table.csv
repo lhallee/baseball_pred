@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b9,1-2,2,123,"6,(3-2) BB*BCC>S",O,BOS,Jackie Bradley Jr.,Fernando Rodney,28%,100%,Strikeout Swinging
+t8,1-1,2,-2-,"4,(2-1) BCBX",R,MIN,Mitch Garver,Matt Barnes,26%,72%,Double to LF (Line Drive to Deep LF-CF); Dozier Scores
+t7,0-1,0,1--,"6,(3-2) *BBFBC>X",,MIN,Max Kepler,Heath Hembree,16%,55%,Single to RF (Ground Ball thru 2B-1B); Grossman to 3B
+b9,1-2,1,-2-,"3,(0-2) CFX",O,BOS,Rafael Devers,Fernando Rodney,14%,85%,Foul Popfly: 3B (3B into Foul Terr.)
+b9,1-2,0,---,"3,(1-1) .CBX",,BOS,Xander Bogaerts,Fernando Rodney,-14%,65%,Single to CF (Line Drive to Deep CF)

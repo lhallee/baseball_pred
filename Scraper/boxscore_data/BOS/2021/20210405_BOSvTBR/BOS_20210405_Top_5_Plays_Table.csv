@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b2,0-0,2,--3,"2,(0-1) SX",R,BOS,Franchy Cordero,Michael Wacha,10%,64%,Double to CF (Fly Ball to LF-CF); Vazquez Scores
+b3,1-0,0,12-,"2,(0-1) CX",OO,BOS,Xander Bogaerts,Michael Wacha,-9%,65%,Ground Ball Double Play: 3B-2B-1B; Verdugo to 3B
+b5,3-0,1,1--,"5,(3-1) *BBBCX",RR,BOS,Xander Bogaerts,Michael Wacha,8%,95%,Double to RF (Line Drive to Deep CF-RF); Martinez Scores; Bogaerts Scores/Adv on E2 (throw)/No RBI/unER
+t5,0-3,2,-23,"6,(3-2) B.*BCF*BX",O,TBR,Austin Meadows,Nick Pivetta,6%,88%,Flyball: CF
+t5,0-3,0,---,"2,(0-1) CX",,TBR,Willy Adames,Nick Pivetta,-6%,76%,Double to LF (Line Drive to Short LF Line)

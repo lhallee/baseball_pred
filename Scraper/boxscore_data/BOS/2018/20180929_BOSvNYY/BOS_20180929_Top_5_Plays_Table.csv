@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t4,2-1,2,--3,"3,(1-1) SBX",RR,NYY,Gleyber Torres,Eduardo Rodriguez,18%,79%,Home Run (Fly Ball to Deep RF); Bird Scores
+t4,1-1,1,1--,"6,(1-2) SBSFFX",R,NYY,Greg Bird,Eduardo Rodriguez,14%,64%,Double to LF (Fly Ball to Deep CF); Gregorius Scores
+t1,0-0,2,1--,"5,(1-2) CCFBX",R,NYY,Giancarlo Stanton,Nathan Eovaldi,11%,58%,Double to LF (Ground Ball); Gardner Scores/unER
+b2,0-1,0,-2-,"6,(2-2) 1CBS>F1>B.X",R,BOS,Jackie Bradley Jr.,Domingo German,-10%,39%,Double to LF (Fly Ball to Deep LF-CF); Kinsler Scores
+t5,4-2,1,1-3,"2,(1-0) B>X",RR,NYY,Miguel Andujar,Brandon Workman,10%,90%,Double to LF (Ground Ball); Wade Scores; Gregorius Scores

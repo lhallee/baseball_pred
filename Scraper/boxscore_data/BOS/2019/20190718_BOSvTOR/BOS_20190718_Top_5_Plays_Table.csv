@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b5,1-0,1,12-,"1,(0-0) X",RRR,BOS,Rafael Devers,Thomas Pannone,18%,91%,Home Run (Fly Ball to Deep CF-RF); Leon Scores; Betts Scores
+b5,0-0,1,-2-,"2,(0-1) CX",R,BOS,Sandy Leon,Thomas Pannone,11%,70%,Single to CF (Line Drive to Deep CF); Travis Scores
+t5,0-0,2,12-,"6,(2-2) BFFFBS",O,TOR,Freddy Galvis,Chris Sale,6%,57%,Strikeout Swinging
+b5,0-0,1,---,"4,(0-2) CFFX",,BOS,Sam Travis,Thomas Pannone,5%,59%,Double to LF (Ground Ball)
+t5,0-0,0,---,"4,(3-0) BBBB",,TOR,Vladimir Guerrero Jr.,Chris Sale,-5%,45%,Walk

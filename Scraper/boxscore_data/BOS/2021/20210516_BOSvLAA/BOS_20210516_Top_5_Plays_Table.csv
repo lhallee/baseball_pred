@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t9,4-5,2,1--,"1,(0-0) 1X",RR,LAA,Shohei Ohtani,Matt Barnes,70%,79%,Home Run (Fly Ball to Deep RF Line); Trout Scores
+b5,2-4,1,12-,"4,(0-2) FFFX",RRR,BOS,Rafael Devers,Aaron Slegers,-32%,32%,Home Run (Fly Ball to Deep RF); Arauz Scores; Chavis Scores
+b9,5-6,2,12-,"4,(1-2) SBSS",O,BOS,Michael Chavis,Mike Mayers,18%,100%,Strikeout Swinging
+b9,5-6,1,12-,"5,(2-2) BFBFS",O,BOS,Jonathan Arauz,Mike Mayers,17%,82%,Strikeout Swinging
+b9,5-6,0,---,"6,(3-2) ...BBCBFB",,BOS,Alex Verdugo,Mike Mayers,-14%,64%,Walk

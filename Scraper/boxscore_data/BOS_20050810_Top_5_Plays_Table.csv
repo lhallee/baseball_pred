@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b4,0-1,0,12-,"3,(1-1) BFX",RRR,BOS,Manny Ramirez,Kenny Rogers,23%,78%,Home Run (Fly Ball to Deep LF); Renteria Scores; Ortiz Scores
+t3,0-0,0,-2-,"1,(0-0) X",R,TEX,Gary Matthews,Bronson Arroyo,-10%,33%,Double to RF (Fly Ball to Deep RF); Mench Scores
+b4,0-1,0,1--,"2,(1-0) BX",,BOS,David Ortiz,Kenny Rogers,7%,55%,Single to RF (Ground Ball); Renteria to 2B
+t3,0-0,0,---,"2,(1-0) BX",,TEX,Kevin Mench,Bronson Arroyo,-7%,43%,Double to LF (Line Drive to LF Line)
+t4,1-0,1,--3,"2,(1-0) BX",O,TEX,Alfonso Soriano,Bronson Arroyo,6%,40%,Popfly: 2B

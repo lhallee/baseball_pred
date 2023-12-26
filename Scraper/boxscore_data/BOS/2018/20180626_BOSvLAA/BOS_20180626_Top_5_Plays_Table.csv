@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b2,1-0,1,-23,"2,(1-0) BX",RR,BOS,Jackie Bradley Jr.,John Lamb,10%,83%,Double to LF (Line Drive to Short LF Line); Nunez Scores; Devers Scores/unER
+b1,0-0,0,---,"1,(0-0) X",R,BOS,Mookie Betts,John Lamb,10%,64%,Home Run (Fly Ball to Deep CF-RF)
+b2,3-0,1,12-,"6,(3-2) TBBB2FX",R,BOS,Andrew Benintendi,John Lamb,7%,91%,Double to LF (Line Drive to Deep LF Line); Bradley Scores; Betts to 3B
+t3,1-5,2,123,"5,(2-2) CBBFX",O,LAA,Albert Pujols,David Price,6%,89%,Groundout: 3B-1B
+b2,1-0,0,1--,"4,(1-2) 1FBCX",,BOS,Rafael Devers,John Lamb,5%,73%,Reached on E4 (Ground Ball to 2B-1B); Nunez to 2B

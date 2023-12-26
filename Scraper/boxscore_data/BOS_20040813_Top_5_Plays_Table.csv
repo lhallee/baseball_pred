@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t4,2-3,2,1--,"2,(1-0) BX",RR,CHW,Aaron Rowand,Tim Wakefield,22%,57%,Home Run (Fly Ball to Deep CF); Konerko Scores
+t7,4-4,1,---,"1,(0-0) X",R,CHW,Aaron Rowand,Tim Wakefield,19%,65%,Home Run (Fly Ball to Deep LF)
+t8,6-5,2,-23,"3,(1-1) CBX",RR,CHW,Ben Davis,Ramiro Mendoza,17%,90%,Single to RF (Ground Ball); Everett Scores; Valentin Scores
+t8,6-5,0,123,"2,(0-1) .CX",OO,CHW,Aaron Rowand,Ramiro Mendoza,-15%,73%,Ground Ball Double Play: SS-C-1B; Everett to 3B; Valentin to 2B
+t7,5-4,2,12-,"1,(0-0) .X",R,CHW,Juan Uribe,Alan Embree,14%,80%,Ground-rule Double (Fly Ball); Davis Scores; Crede to 3B

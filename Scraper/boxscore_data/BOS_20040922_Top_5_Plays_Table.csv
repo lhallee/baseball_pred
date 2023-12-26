@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t12,6-6,1,123,"4,(0-2) SFFX",OO,BAL,Jay Gibbons,Curt Leskanic,36%,66%,Ground Ball Double Play: 1B-C-2B
+b12,6-6,0,---,"5,(2-2) BCBSX",R,BOS,Orlando Cabrera,Rick Bauer,34%,100%,Home Run (Fly Ball to Deep LF)
+t9,5-6,0,---,"6,(3-2) ...CBFBBX",R,BAL,Rafael Palmeiro,Keith Foulke,-32%,50%,Home Run (Fly Ball to Deep RF)
+b7,4-5,0,1--,"4,(2-1) FBBX",RR,BOS,David Ortiz,Sidney Ponson,31%,78%,Home Run (Fly Ball to Deep CF); Ramirez Scores
+t5,2-2,1,1--,"9,(3-2) B1BBCC>F>F>F>X",RR,BAL,David Newhan,Bronson Arroyo,-21%,29%,Home Run (Fly Ball to Deep CF); Roberts Scores

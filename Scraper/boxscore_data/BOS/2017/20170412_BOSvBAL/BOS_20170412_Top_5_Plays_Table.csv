@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t1,2-0,2,12-,"2,(1-0) BX",RRR,BAL,Trey Mancini,Steven Wright,18%,85%,Home Run (Fly Ball to Deep CF-RF); Trumbo Scores; Castillo Scores
+t1,0-0,1,-2-,"4,(2-1) BFBX",R,BAL,Manny Machado,Steven Wright,9%,61%,Ground-rule Double (Line Drive to Deep CF-RF); Smith Scores
+t1,1-0,2,--3,"1,(0-0) X",R,BAL,Mark Trumbo,Steven Wright,8%,66%,Single to RF (Line Drive to CF-RF); Machado Scores
+b5,4-9,1,123,"8,(2-2) .B*BFFFFFX",R,BOS,Xander Bogaerts,Mychal Givens,-8%,77%,Single to LF (Line Drive to Deep LF-CF); Benintendi Scores; Ramirez to 3B; Moreland to 2B
+b5,5-9,1,123,"3,(0-2) SFS",O,BOS,Pablo Sandoval,Mychal Givens,7%,84%,Strikeout Swinging

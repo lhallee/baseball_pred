@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t10,5-5,0,---,"3,(1-1) ..FBX",R,NYY,Jason Giambi,Craig Hansen,32%,82%,Home Run (Fly Ball to CF-RF)
+t9,4-5,2,--3,"2,(0-1) CX",R,NYY,Derek Jeter,Jonathan Papelbon,29%,42%,Single to RF (Fly Ball); Cabrera Scores
+t9,4-5,1,--3,"3,(0-2) FCS",O,NYY,Johnny Damon,Jonathan Papelbon,-19%,13%,Strikeout Swinging
+t9,4-5,0,---,"3,(1-1) BFX",,NYY,Melky Cabrera,Jonathan Papelbon,19%,37%,Double to CF (Fly Ball to CF-RF)
+t4,0-2,0,1-3,"8,(3-2) CBFBFFBX",RRR,NYY,Jason Giambi,Curt Schilling,19%,61%,Home Run (Fly Ball to Deep RF); Jeter Scores; Abreu Scores

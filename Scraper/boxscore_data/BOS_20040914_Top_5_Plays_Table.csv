@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b2,0-1,1,123,"2,(0-1) CX",OO,BOS,Bill Mueller,Scott Kazmir,16%,60%,Ground Ball Double Play: 1B-C
+t3,1-0,1,---,"2,(1-0) BX",R,TBD,Rocco Baldelli,Pedro Martinez,10%,68%,Home Run (Fly Ball to Deep LF)
+t1,0-0,0,---,"2,(1-0) BX",R,TBD,Carl Crawford,Pedro Martinez,9%,59%,Home Run (Fly Ball to Deep LF)
+b5,0-2,0,---,"2,(1-0) BX",,BOS,Kevin Millar,Scott Kazmir,-8%,61%,Double to CF (Fly Ball to Deep LF-CF)
+b5,0-2,0,12-,"5,(2-2) BCFBS",O,BOS,Kevin Youkilis,Scott Kazmir,8%,63%,Strikeout Swinging

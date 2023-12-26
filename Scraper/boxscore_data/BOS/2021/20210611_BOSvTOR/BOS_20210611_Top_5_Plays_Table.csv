@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b8,4-5,1,---,"2,(1-0) BX",R,BOS,Christian Arroyo,Carl Edwards Jr.,30%,57%,Home Run (Fly Ball to Deep LF)
+t9,5-5,1,1--,"3,(1-1) BFX",,TOR,Rowdy Tellez,Garrett Whitlock,-18%,32%,Single to RF (Line Drive to CF-RF); Hernandez to 3B
+b9,5-5,0,-2-,"4,(1-2) .CBFX",R,BOS,Alex Verdugo,Rafael Dolis,18%,100%,Single to LF (Fly Ball to Deep LF); Santana Scores/unER
+t9,5-5,2,123,"4,(1-2) CBF.X",O,TOR,Riley Adams,Garrett Whitlock,18%,65%,Groundout: SS-2B/Forceout at 2B (SS-3B Hole); Adams to 1B
+t9,5-5,1,1-3,"6,(3-2) .BFBBF>S",O,TOR,Lourdes Gurriel Jr.,Garrett Whitlock,17%,50%,"Strikeout Swinging, Davis Steals 2B"

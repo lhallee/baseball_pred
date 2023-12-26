@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b2,3-1,2,12-,"5,(3-1) BBBCX",RR,BOS,Mookie Betts,Sean Manaea,13%,87%,Triple to CF (Line Drive to Deep CF-RF); Vazquez Scores; Pedroia Scores
+b2,1-1,0,12-,"2,(0-1) CX",R,BOS,Christian Vazquez,Sean Manaea,11%,76%,Single to RF (Ground Ball); Bogaerts Scores; Devers to 3B
+b1,0-1,0,12-,"3,(2-0) *BBX",OO,BOS,Mookie Betts,Sean Manaea,-11%,44%,Ground Ball Double Play: SS-2B-1B; Pedroia to 3B
+t1,0-0,1,1--,"1,(0-0) X",R,OAK,Jed Lowrie,Eduardo Rodriguez,-11%,39%,Double to RF (Fly Ball to Deep CF); Pinder Scores
+b2,0-1,0,-2-,"3,(1-1) BCX",R,BOS,Xander Bogaerts,Sean Manaea,8%,59%,Single to CF (Ground Ball thru SS-2B); Travis Scores

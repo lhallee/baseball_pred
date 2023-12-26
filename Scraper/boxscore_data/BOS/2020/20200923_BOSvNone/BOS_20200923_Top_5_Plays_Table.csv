@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b1,0-0,2,1-3,"2,(1-0) BX",R,BOS,Jackie Bradley Jr.,Dean Kremer,9%,64%,Single to RF (Line Drive to Short RF Line); Verdugo Scores; Bogaerts to 3B
+b1,1-0,2,1-3,"2,(0-1) CX",R,BOS,Kevin Plawecki,Dean Kremer,8%,72%,Single to RF (Ground Ball thru 2B-1B); Bogaerts Scores; Bradley to 3B
+b3,2-0,0,1--,"1,(0-0) X",R,BOS,J.D. Martinez,Dean Kremer,8%,86%,Double to CF (Line Drive to Deep CF); Bogaerts Scores
+b1,0-0,0,---,"2,(1-0) BX",,BOS,Alex Verdugo,Dean Kremer,6%,61%,Double to LF (Fly Ball to Deep LF Line)
+b3,5-0,2,123,"5,(2-2) *BFF*BX",RRR,BOS,Rafael Devers,Branden Kline,5%,98%,Double to RF (Line Drive to Deep RF Line); Chavis Scores; Arroyo Scores; Verdugo Scores

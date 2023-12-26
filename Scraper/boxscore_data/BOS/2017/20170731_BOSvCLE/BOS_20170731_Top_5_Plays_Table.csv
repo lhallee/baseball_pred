@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b2,0-0,2,-23,"1,(0-0) X",RR,BOS,Mookie Betts,Mike Clevinger,16%,72%,Single to CF (Fly Ball to Short CF-RF); Moreland Scores; Vazquez Scores
+b4,3-0,0,12-,"2,(0-1) FX",R,BOS,Mookie Betts,Mike Clevinger,5%,95%,Single to CF (Ground Ball thru SS-2B); Moreland Scores; Vazquez to 3B/Adv on throw; Betts to 2B/Adv on throw
+t4,0-3,1,1--,"5,(3-1) SBBBX",OO,CLE,Edwin Encarnacion,Doug Fister,5%,85%,Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+t2,0-0,1,12-,"7,(2-2) BBFSFFC",O,CLE,Austin Jackson,Doug Fister,5%,51%,Strikeout Looking
+t2,0-0,2,12-,"4,(1-2) BCCX",O,CLE,Yan Gomes,Doug Fister,4%,55%,Groundout: SS-2B/Forceout at 2B

@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t6,2-2,1,1--,"4,(2-1) BCBX",RR,NYY,Jason Giambi,Curt Schilling,25%,75%,Home Run (Fly Ball to Deep RF); Posada Scores
+b5,1-2,0,---,"3,(1-1) CBX",R,BOS,Trot Nixon,Jaret Wright,-14%,43%,Home Run (Fly Ball to Deep RF)
+t5,0-1,0,1--,"3,(2-0) BBX",,NYY,Tino Martinez,Curt Schilling,14%,56%,Ground-rule Double (Fly Ball); Giambi to 3B
+t5,0-1,1,123,"3,(1-1) BFX",R,NYY,Derek Jeter,Curt Schilling,12%,62%,Single to RF (Line Drive); Giambi Scores; Martinez to 3B; Womack to 2B
+t6,4-2,2,---,"3,(1-1) FBX",R,NYY,Bernie Williams,Curt Schilling,10%,83%,Home Run (Fly Ball to Deep RF)

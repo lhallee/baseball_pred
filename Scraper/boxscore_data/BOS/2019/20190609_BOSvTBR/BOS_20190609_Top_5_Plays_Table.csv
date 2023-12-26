@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t6,3-1,0,---,"1,(0-0) X",R,TBR,Brandon Lowe,Eduardo Rodriguez,8%,85%,Home Run (Fly Ball to Deep CF-RF)
+b2,0-3,0,1--,"2,(0-1) CX",,BOS,Jackie Bradley Jr.,Blake Snell,-8%,61%,Single to RF (Ground Ball thru 2B-1B); Travis to 3B
+t2,2-0,1,---,"5,(3-1) BCBBX",R,TBR,Guillermo Heredia,Eduardo Rodriguez,8%,75%,Home Run (Fly Ball to Deep LF-CF)
+b2,0-3,1,1-3,"1,(1-0) B1",O,BOS,Marco Hernandez,Blake Snell,8%,74%,Bradley Caught Stealing (PO) 2B (P-1B-SS)
+b1,0-2,1,-23,"5,(0-2) SSFFS",O,BOS,Michael Chavis,Blake Snell,8%,62%,Strikeout Swinging (C-1B)

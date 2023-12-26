@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t1,0-0,0,12-,"3,(2-0) BBX",RRR,NYY,Didi Gregorius,Brian Johnson,-17%,24%,Home Run (Fly Ball to Deep CF-RF); Hicks Scores/unER; Stanton Scores
+b4,3-4,0,-23,"4,(2-1) SB1N.*BX",RRR,BOS,Steve Pearce,Jonathan Holder,17%,78%,Home Run (Fly Ball to Deep LF-CF); Betts Scores; Benintendi Scores
+b4,2-4,0,1--,"2,(1-0) 1BX",,BOS,Mookie Betts,Jonathan Holder,13%,50%,Double to CF (Fly Ball to Deep LF-CF); Bradley to 3B
+b4,2-4,0,-23,"5,(1-2) CCBFX",R,BOS,Andrew Benintendi,Jonathan Holder,10%,59%,Fielder's Choice P; Bradley Scores; Betts to 3B
+b3,1-4,0,---,"4,(1-2) BCFX",R,BOS,Steve Pearce,CC Sabathia,9%,33%,Home Run (Fly Ball to Deep LF)

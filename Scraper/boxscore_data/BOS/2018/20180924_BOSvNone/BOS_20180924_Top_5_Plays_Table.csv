@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b2,2-0,2,1--,"2,(1-0) BX",RR,BOS,Mookie Betts,Dylan Bundy,13%,86%,Home Run (Fly Ball to Deep LF); Vazquez Scores
+b2,0-0,1,-2-,"5,(3-1) *BC*BBX",R,BOS,Brock Holt,Dylan Bundy,10%,67%,Double to LF (Fly Ball to Deep LF Line); Pearce Scores
+b2,1-0,1,-2-,"3,(0-2) CFX",R,BOS,Christian Vazquez,Dylan Bundy,8%,75%,Single to CF (Line Drive); Holt Scores
+b1,0-0,1,--3,"6,(3-2) BF1BC>B.S",O,BOS,J.D. Martinez,Dylan Bundy,-6%,54%,Strikeout Swinging
+b2,0-0,1,---,"6,(1-2) CCBFFX",,BOS,Steve Pearce,Dylan Bundy,4%,57%,Double to LF (Line Drive to Deep LF Line)

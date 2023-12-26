@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+b4,1-1,0,1--,"2,(0-1) CX",R,BOS,Xander Bogaerts,Joe Biagini,16%,77%,Triple to RF (Line Drive to Deep RF Line); Moreland Scores
+b4,3-1,1,1--,"5,(1-2) SSF*BX",RR,BOS,Jackie Bradley Jr.,Joe Biagini,12%,90%,Home Run (Fly Ball to Deep CF-RF); Leon Scores
+t1,0-0,2,123,"6,(3-2) CBFBB*B",R,TOR,Miguel Montero,Doug Fister,-9%,39%,Walk; Carrera Scores; Smoak to 3B; Saunders to 2B
+t1,0-0,1,1--,"1,(0-0) X",,TOR,Justin Smoak,Doug Fister,-8%,42%,Double to CF (Line Drive to Deep CF); Carrera to 3B
+t1,0-0,1,-23,"3,(0-2) CFS",O,TOR,Kendrys Morales,Doug Fister,7%,49%,Strikeout Swinging

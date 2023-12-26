@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t5,1-0,2,1--,"1,(0-0) X",R,SEA,Adrián Beltré,Daisuke Matsuzaka,13%,72%,Double to CF (Fly Ball to Deep LF-CF); Lopez Scores; Beltré to 3B/Adv on E4 (throw)
+b4,0-1,0,1--,"3,(1-1) BFX",OO,BOS,David Ortiz,Félix Hernández,10%,61%,Ground Ball Double Play: SS-3B-1B (SS-2B)
+t2,0-0,1,1--,"2,(0-1) CX",,SEA,Kenji Johjima,Daisuke Matsuzaka,8%,58%,Double to LF (Line Drive to Deep LF Line); Guillen to 3B
+t5,2-0,2,--3,"1,(0-0) X",R,SEA,Jose Vidro,Daisuke Matsuzaka,8%,80%,Single to CF (Line Drive to Short CF); Beltré Scores
+b8,0-3,0,---,"1,(0-0) X",,BOS,J.D. Drew,Félix Hernández,-5%,84%,Single to CF (Ground Ball thru SS-2B)

@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t2,1-2,2,123,"6,(2-2) SBSBFX",RR,TOR,Teoscar Hernandez,Drew Pomeranz,18%,61%,Double to LF (Fly Ball to Deep LF); Barney Scores; Goins Scores; Maile to 3B
+t2,3-2,2,-23,"3,(2-0) BBX",RR,TOR,Josh Donaldson,Drew Pomeranz,15%,76%,Double to CF (Line Drive to Deep CF); Maile Scores; Hernandez Scores
+b8,3-5,1,---,"5,(2-2) .FBCBX",R,BOS,Andrew Benintendi,Dominic Leone,-13%,74%,Home Run (Fly Ball to Deep CF)
+b1,0-1,0,1--,"2,(0-1) CX",,BOS,Eduardo Nunez,Brett Anderson,-10%,41%,Double to CF (Line Drive to Deep CF-RF); Bogaerts to 3B
+t9,5-4,1,---,"1,(0-0) X",R,TOR,Ryan Goins,Addison Reed,10%,91%,Home Run (Fly Ball to Deep RF Line)

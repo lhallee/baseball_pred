@@ -1,0 +1,6 @@
+﻿Inn,Score,Out,RoB,Pit(cnt),R/O,@Bat,Batter,Pitcher,wWPA,wWE,Play Description
+t9,0-1,2,-2-,"4,(1-2) BFFX",O,KCR,Angel Berroa,Jonathan Papelbon,12%,100%,Flyball: CF
+t6,0-1,2,123,"6,(3-2) BBSFB>X",O,KCR,Emil Brown,Josh Beckett,12%,73%,Flyball: CF (CF-RF)
+b4,0-0,0,---,"1,(0-0) X",R,BOS,Manny Ramirez,Mark Redman,12%,68%,Home Run (Fly Ball to Deep LF)
+t9,0-1,0,---,"9,(3-2) .FBCFBBFFB",,KCR,Matt Stairs,Jonathan Papelbon,-11%,71%,Walk
+t9,0-1,0,1--,"2,(0-1) .FX",O,KCR,Emil Brown,Jonathan Papelbon,11%,82%,Flyball: CF (Deep CF)
