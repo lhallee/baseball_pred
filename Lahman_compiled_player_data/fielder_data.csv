@@ -1,4 +1,4 @@
-"last_name, first_name",mlbID,display_team_name,year,primary_pos_formatted,fielding_runs_prevented,outs_above_average,outs_above_average_infront,outs_above_average_lateral_toward3bline,outs_above_average_lateral_toward1bline,outs_above_average_behind,outs_above_average_rhh,outs_above_average_lhh,actual_success_rate_formatted,adj_estimated_success_rate_formatted,diff_success_rate_formatted
+"last_name, first_name",player_id,display_team_name,year,primary_pos_formatted,fielding_runs_prevented,outs_above_average,outs_above_average_infront,outs_above_average_lateral_toward3bline,outs_above_average_lateral_toward1bline,outs_above_average_behind,outs_above_average_rhh,outs_above_average_lhh,actual_success_rate_formatted,adj_estimated_success_rate_formatted,diff_success_rate_formatted
 "Abreu, José",547989,White Sox,2016,1B,-4,-6,-2,1,-5,0,-2,-3,70%,71%,-1%
 "Ackley, Dustin",554429,Yankees,2016,1B,2,3,1,1,1,0,1,2,77%,70%,7%
 "Adames, Cristhian",542436,Rockies,2016,SS,2,3,0,2,-1,2,3,1,70%,68%,2%
