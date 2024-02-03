@@ -1,0 +1,162 @@
+﻿{
+  "id": "e0f12c87-0e59-40ae-81ee-adeaba40a2cd",
+  "name": "scoresandodds",
+  "nodes": [],
+  "locators": [
+    {
+      "id": "e23eb273-20be-42b5-b269-9ab292114a91",
+      "name": "span_106",
+      "filePath": "391c5605-5470-4258-977e-3c202c2bbd4f.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "MLB Schedules and Scores"
+              },
+              "url": {
+                "value": "https://www.scoresandodds.com/mlb?date=2023-07-14",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "SPAN"
+                  },
+                  "class": {
+                    "value": "data-value"
+                  },
+                  "ancestorId": {
+                    "value": "mlb.695*"
+                  },
+                  "ancestorClass": {
+                    "value": "loss",
+                    "excluded": true
+                  },
+                  "isLeaf": {
+                    "value": "1"
+                  },
+                  "cssSelector": {
+                    "value": "body>section>section>div>div>div>table>tbody>tr>td>span"
+                  },
+                  "sInfo": {
+                    "value": "-106",
+                    "excluded": true
+                  },
+                  "tableRow": {
+                    "value": "3"
+                  },
+                  "tableCol": {
+                    "value": "4"
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "6047cced-d86a-475a-a0d1-de2a21cdd4d2",
+      "name": "span_110",
+      "filePath": "2fd4e001-71a3-450f-ab92-3e9e4594944c.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "MLB Schedules and Scores"
+              },
+              "url": {
+                "value": "https://www.scoresandodds.com/mlb?date=2023-07-14",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "SPAN"
+                  },
+                  "class": {
+                    "value": "data-value"
+                  },
+                  "ancestorId": {
+                    "value": "mlb.695*"
+                  },
+                  "ancestorClass": {
+                    "value": "win",
+                    "excluded": true
+                  },
+                  "isLeaf": {
+                    "value": "1"
+                  },
+                  "cssSelector": {
+                    "value": "body>section>section>div>div>div>table>tbody>tr>td>span"
+                  },
+                  "sInfo": {
+                    "value": "-110",
+                    "excluded": true
+                  },
+                  "tableRow": {
+                    "value": "2"
+                  },
+                  "tableCol": {
+                    "value": "4"
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "originalName": "scoresandodds"
+}

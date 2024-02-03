@@ -689,6 +689,46 @@ def main_function(test_year):
         return best_model, important_features
     # usage
 
+    from sklearn.preprocessing import MinMaxScaler, StandardScaler, RobustScaler, Normalizer, MaxAbsScaler, PowerTransformer, QuantileTransformer
+    import pandas as pd
+
+    def scale_data(X_train, X_test, method='minmax'):
+        """
+        Scales the training and test dataframes using various scaling methods.
+        
+        Parameters:
+        - X_train: Training data as a pandas DataFrame.
+        - X_test: Test data as a pandas DataFrame.
+        - method: The scaling method to use ('minmax', 'standard', 'robust', 'normalizer', 'maxabs', 'power', 'quantile').
+        
+        Returns:
+        - X_train_scaled: Scaled training data as a pandas DataFrame.
+        - X_test_scaled: Scaled test data as a pandas DataFrame.
+        """
+        scalers = {
+            'minmax': MinMaxScaler(),
+            'standard': StandardScaler(),
+            'robust': RobustScaler(),
+            'normalizer': Normalizer(),
+            'maxabs': MaxAbsScaler(),
+            'power': PowerTransformer(),
+            'quantile': QuantileTransformer(output_distribution='normal')
+        }
+        
+        if method not in scalers:
+            raise ValueError(f"Method should be one of {list(scalers.keys())}")
+        
+        scaler = scalers[method]
+
+        # Fit on training set only.
+        scaler.fit(X_train.values)
+
+        # Apply transform to both the training set and the test set.
+        X_train_scaled = pd.DataFrame(scaler.transform(X_train.values), columns=X_train.columns, index=X_train.index)
+        X_test_scaled = pd.DataFrame(scaler.transform(X_test.values), columns=X_test.columns, index=X_test.index)
+        
+        return X_train_scaled, X_test_scaled
+    
     train_years = [str(year) for year in range(int(test_year) - 8, int(test_year))]
     #Vegas Odds path
     vegas_betting_paths='./betting_odds/'
@@ -696,13 +736,13 @@ def main_function(test_year):
 
     #Scrambled Odds path
     scrambled_betting_paths='all_money_lines.csv'
-    scrambled_odds_full=pd.read_csv(scrambled_betting_paths)
-
+ 
+ 
     #Per_game_data path
     per_game_path='./pybaseball/pybaseball/data/Lahman_MLB_per_game_data.csv'
 
 
-
+    scrambled_odds_full=pd.read_csv(scrambled_betting_paths)
     #People Import
     chad_v3 = pyb.chadwick_register()
 
@@ -812,16 +852,13 @@ def main_function(test_year):
     X_train, y_train, X_test, y_test = split_data(per_game_finished, train_years, test_year)
     # Assume X_train and X_test are your input data
 
-    from sklearn.preprocessing import MinMaxScaler
-    scaler = MinMaxScaler()
 
 
-    # Fit on training set only.
-    scaler.fit(X_train.values)
+    # Choose scaling method.
+    # X_train, X_test = scale_data(X_train, X_test, method='minmax')
 
-    # Apply transform to both the training set and the test set.
-    X_train = pd.DataFrame(scaler.transform(X_train.values), columns=X_train.columns, index=X_train.index)
-    X_test = pd.DataFrame(scaler.transform(X_test.values), columns=X_test.columns, index=X_test.index)
+    X_train, X_test = scale_data(X_train, X_test, method='minmax')
+
 
 
 
@@ -835,7 +872,7 @@ def main_function(test_year):
     # importances = permutation_importance(model, X_val_tensor, y_val_tensor, accuracy_score)
     # importances = permutation_importance(model, X_val_tensor, y_val_tensor, accuracy_score)
     from imblearn.under_sampling import RandomUnderSampler
-    from imblearn.under_sampling import RandomUnderSampler
+
     # Assume X and y are your input data and labels
 
 
@@ -885,10 +922,10 @@ def main_function(test_year):
 
     import pickle
 
-    with open('scoring_full.pkl', 'rb') as f:
+    with open('scoring_full_all_years.pkl', 'rb') as f:
         scoring = pickle.load(f)
 
-    threshold=200
+    threshold=450
     # Get the list of columns to keep
     # Convert `scoring` into a DataFrame
     scoring_df = pd.DataFrame(scoring, columns=['column_name', 'score'])
@@ -910,7 +947,8 @@ def main_function(test_year):
     X_train_res, y_train_res = rus.fit_resample(X_train_new, y_train_new)
     # X_train_res=X_train_new
     # y_train_res=y_train_new
-
+    # Assuming `vector_dataset` is a class that converts your data into a format suitable for PyTorch
+    # y_train_new.set_index('index',inplace=True)
     X_train_res.set_index('index',inplace=True)
 
 
@@ -941,6 +979,8 @@ def main_function(test_year):
     # When you iterate over your DataLoader, move each batch to the GPU
         # model = neural_net(X_train.shape[1], X_train.shape[1]*2, 2, 2, 0.15)
         optimizer = optim.Adam(model.parameters(), lr=0.0005)
+        # L2 regularization with weight_decay
+        # optimizer = optim.Adam(model.parameters(), lr=0.0005, weight_decay=6e-3)
         criterion = nn.CrossEntropyLoss()
 
         conf_matrix, class_report = train_and_evaluate_model(model, train_loader_new, val_loader_new, test_loader_new, optimizer, criterion)
@@ -1036,7 +1076,5 @@ def main_function(test_year):
     print(min(better.bet_history))
     print(min(better.wallet_history))
     print(better.wallet_history[-1])
-
-
 
     return avg_class_report, avg_conf_matrix, better.bet_history, better.wallet_history
