@@ -1,0 +1,238 @@
+﻿{
+  "id": "232662dc-f83b-4f8b-8dcf-0b712ffe83e7",
+  "name": "covers",
+  "nodes": [],
+  "locators": [
+    {
+      "id": "58b599d2-efd9-4c11-b7b3-31a2fa0ade36",
+      "name": "span_ml_off",
+      "filePath": "0efa4042-481e-4748-baa0-41d562c5329a.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "MLB Matchups 2024 - Today's Baseball Previews, Scores & Schedules"
+              },
+              "url": {
+                "value": "https://www.covers.com/sports/MLB/matchups?selectedDate=2024-9-29",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "SPAN"
+                  },
+                  "ancestorId": {
+                    "value": "matchup_group_*"
+                  },
+                  "ancestorClass": {
+                    "value": "cmg_team_*_odds"
+                  },
+                  "isLeaf": {
+                    "value": "1"
+                  },
+                  "cssSelector": {
+                    "value": "body>div>div>div>div>div>div>div>div>div>span"
+                  },
+                  "sInfo": {
+                    "value": "ML:        Off"
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "aa2b18d3-79de-4251-9853-eb475dc25951",
+      "name": "div_tb",
+      "filePath": "d495c287-5344-4815-9089-33aca483ae2c.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "MLB Matchups 2024 - Today's Baseball Previews, Scores & Schedules"
+              },
+              "url": {
+                "value": "https://www.covers.com/sports/MLB/matchups?selectedDate=2024-9-29",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "DIV"
+                  },
+                  "class": {
+                    "value": "cmg_team_name"
+                  },
+                  "ancestorId": {
+                    "value": "matchup_group_*"
+                  },
+                  "ancestorClass": {
+                    "value": "cmg_matchup_list_column_*"
+                  },
+                  "isLeaf": {
+                    "value": "1"
+                  },
+                  "cssSelector": {
+                    "value": "body>div>div>div>div>div>div>div>div"
+                  },
+                  "sInfo": {
+                    "value": "TB",
+                    "excluded": true
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "420cf086-a188-4736-8ce8-9dc85bc0d2b6",
+      "name": "div_6",
+      "filePath": "b843bb01-b4d1-4867-8855-0c2a2815185c.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "MLB Matchups 2023 - Today's Baseball Previews, Scores & Schedules"
+              },
+              "url": {
+                "value": "https://www.covers.com/sports/MLB/matchups?selectedDate=2023-9-20",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "DIV"
+                  },
+                  "class": {
+                    "value": "cmg_matchup_list_score_*"
+                  },
+                  "ancestorId": {
+                    "value": "matchup_group_*"
+                  },
+                  "ancestorClass": {
+                    "value": "cmg_matchup_list_score"
+                  },
+                  "isLeaf": {
+                    "value": "1"
+                  },
+                  "cssSelector": {
+                    "value": "body>div>div>div>div>div>div>div>div>div"
+                  },
+                  "sInfo": {
+                    "value": "6",
+                    "excluded": true
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "originalName": "covers"
+}
