@@ -158,7 +158,7 @@
     {
       "id": "420cf086-a188-4736-8ce8-9dc85bc0d2b6",
       "name": "div_6",
-      "filePath": "b843bb01-b4d1-4867-8855-0c2a2815185c.jpg",
+      "filePath": "e6c6071f-dade-4f6b-96f7-61c4ffaf458d.jpg",
       "content": {
         "automationType": "Chrome",
         "processName": {
@@ -177,10 +177,10 @@
                 "value": "window"
               },
               "title": {
-                "value": "MLB Matchups 2023 - Today's Baseball Previews, Scores & Schedules"
+                "value": "MLB Matchups 2020 - Today's Baseball Previews, Scores & Schedules"
               },
               "url": {
-                "value": "https://www.covers.com/sports/MLB/matchups?selectedDate=2023-9-20",
+                "value": "https://www.covers.com/sports/MLB/matchups?selectedDate=2020-09-16",
                 "excluded": true
               },
               "className": {
@@ -210,7 +210,213 @@
                     "value": "body>div>div>div>div>div>div>div>div>div"
                   },
                   "sInfo": {
-                    "value": "6",
+                    "value": "4",
+                    "excluded": true
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "89009800-059f-4826-a3d9-03e8c6a9b16e",
+      "name": "td_150",
+      "filePath": "424ac911-7bcc-4f19-b593-80b82975ddd8.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "MLB Matchups 2020 - Today's Baseball Previews, Scores & Schedules"
+              },
+              "url": {
+                "value": "https://www.covers.com/sports/MLB/matchups?selectedDate=2020-09-16",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "TABLE"
+                  },
+                  "ancestorId": {
+                    "value": "matchup_group_top"
+                  },
+                  "ancestorClass": {
+                    "value": "cmg_matchup_line_score"
+                  },
+                  "isLeaf": {
+                    "value": "0",
+                    "excluded": true
+                  },
+                  "cssSelector": {
+                    "value": "body>div>div>div>div>div>div>div>table"
+                  },
+                  "tableRow": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "tableCol": {
+                    "value": "-1",
+                    "excluded": true
+                  },
+                  "controlMetaType": "Web",
+                  "index": {
+                    "value": "1",
+                    "excluded": true
+                  },
+                  "rowCount": {
+                    "isCustom": true,
+                    "value": "3",
+                    "operator": "equals",
+                    "excluded": true
+                  },
+                  "columnCount": {
+                    "isCustom": true,
+                    "value": "16",
+                    "operator": "equals",
+                    "excluded": true
+                  }
+                },
+                "childControls": [
+                  {
+                    "identifier": {
+                      "tag": {
+                        "value": "TD"
+                      },
+                      "ancestorId": {
+                        "value": "matchup_group_top"
+                      },
+                      "ancestorClass": {
+                        "value": "cmg_matchup_line_score"
+                      },
+                      "isLeaf": {
+                        "value": "1"
+                      },
+                      "cssSelector": {
+                        "value": "body>div>div>div>div>div>div>div>table>tbody>tr>td"
+                      },
+                      "sInfo": {
+                        "value": "+150",
+                        "excluded": true
+                      },
+                      "tableRow": {
+                        "value": "2",
+                        "excluded": true
+                      },
+                      "tableCol": {
+                        "value": "13"
+                      },
+                      "controlMetaType": "Web",
+                      "index": {
+                        "value": "1",
+                        "excluded": true
+                      },
+                      "rowName": {
+                        "isCustom": true,
+                        "value": "WAS",
+                        "operator": "equals",
+                        "excluded": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "491dd121-83c3-4bc3-9bce-0c1c80df3572",
+      "name": "div_bos",
+      "filePath": "9f8a5629-a1a5-49a0-9bc5-84ef93b7f4f7.jpg",
+      "content": {
+        "automationType": "Chrome",
+        "processName": {
+          "value": "chrome"
+        },
+        "filePath": {
+          "value": "chrome.exe"
+        },
+        "version": {
+          "value": "1.3"
+        },
+        "childControls": [
+          {
+            "identifier": {
+              "role": {
+                "value": "window"
+              },
+              "title": {
+                "value": "MLB Matchups 2020 - Today's Baseball Previews, Scores & Schedules"
+              },
+              "url": {
+                "value": "https://www.covers.com/sports/MLB/matchups?selectedDate=2020-9-16",
+                "excluded": true
+              },
+              "className": {
+                "value": "Chrome_WidgetWin_1"
+              },
+              "controlMetaType": "Tab"
+            },
+            "childControls": [
+              {
+                "identifier": {
+                  "tag": {
+                    "value": "DIV"
+                  },
+                  "class": {
+                    "value": "cmg_team_name"
+                  },
+                  "ancestorId": {
+                    "value": "matchup_group_*"
+                  },
+                  "ancestorClass": {
+                    "value": "cmg_matchup_list_column_*"
+                  },
+                  "isLeaf": {
+                    "value": "0",
+                    "excluded": true
+                  },
+                  "cssSelector": {
+                    "value": "body>div>div>div>div>div>div>div>div"
+                  },
+                  "sInfo": {
+                    "value": "BOS",
                     "excluded": true
                   },
                   "tableRow": {
