@@ -14,8 +14,8 @@ def generate_mapped_data(game_boxscores, starting_lineup_dict):
 
     # Iterate through each game's lineup in starting_lineup_dict
     for game_id_key, lineup in starting_lineup_dict.items():
-        # Initialize storage for this game's data
-        game_data = {'home_players': [], 'away_players': []}
+        # Initialize storage for this game's data with dictionaries instead of lists
+        game_data = {'home_players': {}, 'away_players': {}}
         
         # Find the matching game in game_boxscores by gameId
         for game_num, game_info in game_boxscores.items():
@@ -29,11 +29,8 @@ def generate_mapped_data(game_boxscores, starting_lineup_dict):
                         # Attempt to find the player's stats
                         player_stats = game_info[team_type]['players'].get(player_id, {}).get('stats', 'No stats found')
                         
-                        # Store the player's stats
-                        if team_type == 'home':
-                            game_data['home_players'].append({player_id: player_stats})
-                        else:
-                            game_data['away_players'].append({player_id: player_stats})
+                        # Store the player's stats directly in the dictionary
+                        game_data[f'{team_type}_players'][player_id] = player_stats
                 
                 # Once the matching game is processed, break out of the loop
                 break
