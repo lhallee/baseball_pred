@@ -113,6 +113,6 @@ def Starting_Lineup_API(gamePk: int):
 
     # Transpose the resulting DataFrame
     transposed_lineup = appended_lineup.transpose()
-    transposed_lineup.set_index(transposed_lineup.columns[0],inplace=True)
+
 
     return transposed_lineup
